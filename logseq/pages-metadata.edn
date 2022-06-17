@@ -28,9 +28,6 @@
  {:block/name "in-progress",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
- {:block/name "jun 17th, 2022",
-  :block/created-at 1655491669523,
-  :block/updated-at 1655491756030}
  {:block/name "later",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
