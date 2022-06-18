@@ -182,7 +182,7 @@
 ;; hide specific properties for blocks
 ;; E.g. #{:created-at :updated-at}
 :block-hidden-properties #{}
-:mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 3}, :checkbox {:counts 86}, :parentheses {:counts 80}, :command {:counts 40}, :paint {:counts 1}, :list {:counts 4}, :link {:counts 2}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 36}, :tag {:counts 13}, :brackets {:counts 466}, :italic {:counts 0}, :a-b {:counts 7}, :rotate-clockwise {:counts 5}}
+:mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 3}, :checkbox {:counts 87}, :parentheses {:counts 80}, :command {:counts 42}, :paint {:counts 1}, :list {:counts 4}, :link {:counts 2}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 38}, :tag {:counts 13}, :brackets {:counts 475}, :italic {:counts 0}, :a-b {:counts 7}, :rotate-clockwise {:counts 5}}
  :publishing/all-pages-public? true
  
 
