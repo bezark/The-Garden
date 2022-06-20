@@ -1,0 +1,95 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "capacitor://localhost",
+  "elements": [
+    {
+      "type": "ellipse",
+      "version": 78,
+      "versionNonce": 707866438,
+      "isDeleted": false,
+      "id": "z3iVZQPH5VEQWQXS9VH7M",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 160,
+      "y": -120,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 180,
+      "height": 120,
+      "seed": 1729163802,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "ellipse",
+      "version": 11,
+      "versionNonce": 211842202,
+      "isDeleted": false,
+      "id": "YVckcovUZETc8Zgkea8C8",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 340,
+      "y": 180,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 220,
+      "height": 120,
+      "seed": 747879642,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "arrow",
+      "version": 16,
+      "versionNonce": 2110700186,
+      "isDeleted": false,
+      "id": "70BKZX7cNeTUjej9gs9Nd",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 260,
+      "y": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 140,
+      "height": 200,
+      "seed": 1665284614,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          140,
+          200
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}
