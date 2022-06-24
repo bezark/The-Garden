@@ -1,4 +1,172 @@
-[{:block/name "2022-06-17 friday",
+[{:block/name "100 days ideas",
+  :block/created-at 1656098891582,
+  :block/updated-at 1656098891582}
+ {:block/name "100 days of making",
+  :block/created-at 1656098891750,
+  :block/updated-at 1656098891750}
+ {:block/name "100 days of making games",
+  :block/created-at 1656098891750,
+  :block/updated-at 1656098891750}
+ {:block/name "100 days playtesting",
+  :block/created-at 1656098893137,
+  :block/updated-at 1656098893137}
+ {:block/name "100days",
+  :block/created-at 1656098891116,
+  :block/updated-at 1656098891116}
+ {:block/name "1785-ordinance-diagram.jpg",
+  :block/created-at 1656098901458,
+  :block/updated-at 1656098901458}
+ {:block/name "1st dimension",
+  :block/created-at 1656098891929,
+  :block/updated-at 1656098891929}
+ {:block/name "2020 review",
+  :block/created-at 1656098890471,
+  :block/updated-at 1656098890471}
+ {:block/name "2021-02-13 saturday",
+  :block/created-at 1656098893952,
+  :block/updated-at 1656098893952}
+ {:block/name "2021-02-16 tuesday",
+  :block/created-at 1656098893749,
+  :block/updated-at 1656098893749}
+ {:block/name "2021-02-18 thursday",
+  :block/created-at 1656098893383,
+  :block/updated-at 1656098893383}
+ {:block/name "2021-02-19 friday",
+  :block/created-at 1656098894005,
+  :block/updated-at 1656098894005}
+ {:block/name "2021-02-22 monday",
+  :block/created-at 1656098893380,
+  :block/updated-at 1656098893380}
+ {:block/name "2021-02-24 wednesday",
+  :block/created-at 1656098893381,
+  :block/updated-at 1656098893381}
+ {:block/name "2021-02-26 friday",
+  :block/created-at 1656098894105,
+  :block/updated-at 1656098894105}
+ {:block/name "2021-02-27 saturday",
+  :block/created-at 1656098897405,
+  :block/updated-at 1656098897405}
+ {:block/name "2021-03-03 wednesday",
+  :block/created-at 1656098897290,
+  :block/updated-at 1656098897290}
+ {:block/name "2021-03-06 saturday",
+  :block/created-at 1656098897315,
+  :block/updated-at 1656098897315}
+ {:block/name "2021-03-08 monday",
+  :block/created-at 1656098897431,
+  :block/updated-at 1656098897431}
+ {:block/name "2021-03-09 tuesday",
+  :block/created-at 1656098901969,
+  :block/updated-at 1656098901969}
+ {:block/name "2021-03-10 wednesday",
+  :block/created-at 1656098897502,
+  :block/updated-at 1656098897502}
+ {:block/name "2021-03-14 sunday",
+  :block/created-at 1656098897548,
+  :block/updated-at 1656098897548}
+ {:block/name "2021-03-15 monday",
+  :block/created-at 1656098901218,
+  :block/updated-at 1656098901218}
+ {:block/name "2021-03-16 tuesday",
+  :block/created-at 1656098900155,
+  :block/updated-at 1656098900155}
+ {:block/name "2021-03-18 thursday",
+  :block/created-at 1656098897569,
+  :block/updated-at 1656098897569}
+ {:block/name "2021-03-19 friday",
+  :block/created-at 1656098893920,
+  :block/updated-at 1656098893920}
+ {:block/name "2021-03-21 sunday",
+  :block/created-at 1656098897090,
+  :block/updated-at 1656098897090}
+ {:block/name "2021-03-25 thursday",
+  :block/created-at 1656098898867,
+  :block/updated-at 1656098898867}
+ {:block/name "2021-03-27 saturday",
+  :block/created-at 1656098897627,
+  :block/updated-at 1656098897627}
+ {:block/name "2021-03-29 monday",
+  :block/created-at 1656098893681,
+  :block/updated-at 1656098893681}
+ {:block/name "2021-03-30 tuesday",
+  :block/created-at 1656098897692,
+  :block/updated-at 1656098897692}
+ {:block/name "2021-04-02 friday",
+  :block/created-at 1656098906782,
+  :block/updated-at 1656098906782}
+ {:block/name "2021-04-03 saturday",
+  :block/created-at 1656098897595,
+  :block/updated-at 1656098897595}
+ {:block/name "2021-04-04 sunday",
+  :block/created-at 1656098893891,
+  :block/updated-at 1656098893891}
+ {:block/name "2021-04-05 monday",
+  :block/created-at 1656098894331,
+  :block/updated-at 1656098894331}
+ {:block/name "2021-04-09 friday",
+  :block/created-at 1656098894067,
+  :block/updated-at 1656098894067}
+ {:block/name "2021-04-13 tuesday",
+  :block/created-at 1656098900225,
+  :block/updated-at 1656098900225}
+ {:block/name "2021-04-18 sunday",
+  :block/created-at 1656098893866,
+  :block/updated-at 1656098893866}
+ {:block/name "2021-04-24 saturday",
+  :block/created-at 1656098899805,
+  :block/updated-at 1656098899805}
+ {:block/name "2021-04-26 monday",
+  :block/created-at 1656098896822,
+  :block/updated-at 1656098896822}
+ {:block/name "2021-05-01 steno practice",
+  :block/created-at 1656098903851,
+  :block/updated-at 1656098903851}
+ {:block/name "2021-05-13 thursday",
+  :block/created-at 1656098906416,
+  :block/updated-at 1656098906416}
+ {:block/name "2021-06-04 daily journal#how to clarify this vault",
+  :block/created-at 1656098900525,
+  :block/updated-at 1656098900525}
+ {:block/name "2021-06-16 wednesday",
+  :block/created-at 1656098901216,
+  :block/updated-at 1656098901216}
+ {:block/name "2021-06-17 noisy brainstorm",
+  :block/created-at 1656098891749,
+  :block/updated-at 1656098891749}
+ {:block/name "2021-06-18 steno practice",
+  :block/created-at 1656098903850,
+  :block/updated-at 1656098903850}
+ {:block/name "2021-06-23 noisy brainstorm",
+  :block/created-at 1656098891748,
+  :block/updated-at 1656098891748}
+ {:block/name "2021-06-23 noisy brainstorm#^b6ed13",
+  :block/created-at 1656098901173,
+  :block/updated-at 1656098901173}
+ {:block/name "2021-06-23 wednesday",
+  :block/created-at 1656098897061,
+  :block/updated-at 1656098897061}
+ {:block/name "2021-06-24 noisy brainstorm",
+  :block/created-at 1656098897044,
+  :block/updated-at 1656098897044}
+ {:block/name "2021-06-24 thursday",
+  :block/created-at 1656098897045,
+  :block/updated-at 1656098897045}
+ {:block/name "2021-08-17 shadow traffic party game brainstorm",
+  :block/created-at 1656098892842,
+  :block/updated-at 1656098892842}
+ {:block/name "2021-08-19 shadow traffic party game brainstorm",
+  :block/created-at 1656098892762,
+  :block/updated-at 1656098892762}
+ {:block/name "2021-09-10 friday",
+  :block/created-at 1656098892867,
+  :block/updated-at 1656098892867}
+ {:block/name "2021-10-05 new moon reading",
+  :block/created-at 1656098904192,
+  :block/updated-at 1656098904192}
+ {:block/name "2021-10-25#^5de93a",
+  :block/created-at 1656098903353,
+  :block/updated-at 1656098903353}
+ {:block/name "2022-06-17 friday",
   :block/created-at 1655491920638,
   :block/updated-at 1655500900043}
  {:block/name "2022-06-18 saturday",
@@ -13,72 +181,1500 @@
  {:block/name "2022-06-24 friday",
   :block/created-at 1656089961097,
   :block/updated-at 1656091129891}
+ {:block/name
+  "21 lessons for the 21st century  yuval noah harari  talks at google",
+  :block/created-at 1656098890597,
+  :block/updated-at 1656098890597}
+ {:block/name "2nd dimension",
+  :block/created-at 1656098891929,
+  :block/updated-at 1656098891929}
+ {:block/name "33iot",
+  :block/created-at 1656098890395,
+  :block/updated-at 1656098890395}
+ {:block/name "3d",
+  :block/created-at 1656098890427,
+  :block/updated-at 1656098890427}
+ {:block/name "3d printing",
+  :block/created-at 1656098908488,
+  :block/updated-at 1656098908488}
+ {:block/name "3d printing resources",
+  :block/created-at 1656098908486,
+  :block/updated-at 1656098908486}
+ {:block/name "3rd dimension",
+  :block/created-at 1656098890424,
+  :block/updated-at 1656098890424}
+ {:block/name "4d",
+  :block/created-at 1656098890326,
+  :block/updated-at 1656098890326}
+ {:block/name "4th dimension",
+  :block/created-at 1656098890324,
+  :block/updated-at 1656098890324}
+ {:block/name "50 games check in",
+  :block/created-at 1656098893167,
+  :block/updated-at 1656098893167}
+ {:block/name "500 years",
+  :block/created-at 1656098890769,
+  :block/updated-at 1656098890769}
  {:block/name "62b5f533-14fd-4368-a9bc-1d9a560b618c",
   :block/created-at 1656098238949,
   :block/updated-at 1656098238949}
+ {:block/name "7 types of play",
+  :block/created-at 1656098892723,
+  :block/updated-at 1656098892723}
+ {:block/name "8.5x11 1.png",
+  :block/created-at 1656098894159,
+  :block/updated-at 1656098894159}
+ {:block/name "859dab7b-011c-438b-ab6a-0b488ba1cb30.jpg",
+  :block/created-at 1656098908471,
+  :block/updated-at 1656098908471}
+ {:block/name
+  "89  lera boroditsky on language, thought, space, and time#^211244",
+  :block/created-at 1656098892904,
+  :block/updated-at 1656098892904}
+ {:block/name
+  "89  lera boroditsky on language, thought, space, and time#^40104b",
+  :block/created-at 1656098904521,
+  :block/updated-at 1656098904521}
+ {:block/name
+  "89  lera boroditsky on language, thought, space, and time#^f93bdc",
+  :block/created-at 1656098905341,
+  :block/updated-at 1656098905341}
+ {:block/name "[ augmented reality game ]",
+  :block/created-at 1656098897035,
+  :block/updated-at 1656098897035}
+ {:block/name "[ concept",
+  :block/created-at 1656098904738,
+  :block/updated-at 1656098904738}
+ {:block/name "[ document object model ]",
+  :block/created-at 1656098891685,
+  :block/updated-at 1656098891685}
+ {:block/name "[ dungeons and dragons",
+  :block/created-at 1656098891648,
+  :block/updated-at 1656098891648}
+ {:block/name "[ game",
+  :block/created-at 1656098891651,
+  :block/updated-at 1656098891651}
+ {:block/name "[ game/dev",
+  :block/created-at 1656098892958,
+  :block/updated-at 1656098892958}
+ {:block/name "[ game/dev/playtest",
+  :block/created-at 1656098892957,
+  :block/updated-at 1656098892957}
+ {:block/name "[ game/genre ]",
+  :block/created-at 1656098897035,
+  :block/updated-at 1656098897035}
+ {:block/name "[ game/ttrpg",
+  :block/created-at 1656098891649,
+  :block/updated-at 1656098891649}
+ {:block/name "[ internet",
+  :block/created-at 1656098904674,
+  :block/updated-at 1656098904674}
+ {:block/name "[ ref",
+  :block/created-at 1656098891686,
+  :block/updated-at 1656098891686}
+ {:block/name "[ ref/pcom",
+  :block/created-at 1656098903249,
+  :block/updated-at 1656098903249}
+ {:block/name "[ ref/pcom]",
+  :block/created-at 1656098892647,
+  :block/updated-at 1656098892647}
+ {:block/name "[ ref/web",
+  :block/created-at 1656098891687,
+  :block/updated-at 1656098891687}
+ {:block/name "[ ref/web/html",
+  :block/created-at 1656098891685,
+  :block/updated-at 1656098891685}
+ {:block/name "[ seed",
+  :block/created-at 1656098892324,
+  :block/updated-at 1656098892324}
+ {:block/name "[ tech",
+  :block/created-at 1656098908532,
+  :block/updated-at 1656098908532}
+ {:block/name "[ tech ]",
+  :block/created-at 1656098905490,
+  :block/updated-at 1656098905490}
+ {:block/name "[ thresholds ]",
+  :block/created-at 1656098906336,
+  :block/updated-at 1656098906336}
+ {:block/name "[ todo",
+  :block/created-at 1656098904679,
+  :block/updated-at 1656098904679}
+ {:block/name "[ todo/retag",
+  :block/created-at 1656098904675,
+  :block/updated-at 1656098904675}
+ {:block/name "[]",
+  :block/created-at 1656098900919,
+  :block/updated-at 1656098900919}
+ {:block/name "[bees]",
+  :block/created-at 1656098890825,
+  :block/updated-at 1656098890825}
+ {:block/name "[brainstorm",
+  :block/created-at 1656098892763,
+  :block/updated-at 1656098892763}
+ {:block/name "[brainstorm]",
+  :block/created-at 1656098893867,
+  :block/updated-at 1656098893867}
+ {:block/name "[concept",
+  :block/created-at 1656098891852,
+  :block/updated-at 1656098891852}
+ {:block/name "[digital garden",
+  :block/created-at 1656098891896,
+  :block/updated-at 1656098891896}
+ {:block/name "[fact",
+  :block/created-at 1656098890826,
+  :block/updated-at 1656098890826}
+ {:block/name "[game",
+  :block/created-at 1656098892774,
+  :block/updated-at 1656098892774}
+ {:block/name "[game/dev",
+  :block/created-at 1656098906671,
+  :block/updated-at 1656098906671}
+ {:block/name "[game/dev/iteration",
+  :block/created-at 1656098906668,
+  :block/updated-at 1656098906668}
+ {:block/name "[game]",
+  :block/created-at 1656098895341,
+  :block/updated-at 1656098895341}
+ {:block/name "[hyperobjects]",
+  :block/created-at 1656098900919,
+  :block/updated-at 1656098900919}
+ {:block/name "[immersive]",
+  :block/created-at 1656098901077,
+  :block/updated-at 1656098901077}
+ {:block/name "[joules]",
+  :block/created-at 1656098901417,
+  :block/updated-at 1656098901417}
+ {:block/name "[mesh network]",
+  :block/created-at 1656098901949,
+  :block/updated-at 1656098901949}
+ {:block/name "[nano 33 iot]",
+  :block/created-at 1656098890400,
+  :block/updated-at 1656098890400}
+ {:block/name "[node.js]",
+  :block/created-at 1656098902521,
+  :block/updated-at 1656098902521}
+ {:block/name "[oppressive system",
+  :block/created-at 1656098902803,
+  :block/updated-at 1656098902803}
+ {:block/name "[physical computing",
+  :block/created-at 1656098902872,
+  :block/updated-at 1656098902872}
+ {:block/name "[randomness]",
+  :block/created-at 1656098903216,
+  :block/updated-at 1656098903216}
+ {:block/name "[ref",
+  :block/created-at 1656098901419,
+  :block/updated-at 1656098901419}
+ {:block/name "[ref/js]",
+  :block/created-at 1656098905438,
+  :block/updated-at 1656098905438}
+ {:block/name "[ref/obsidian",
+  :block/created-at 1656098904267,
+  :block/updated-at 1656098904267}
+ {:block/name "[ref/obsidian/plugins",
+  :block/created-at 1656098904267,
+  :block/updated-at 1656098904267}
+ {:block/name "[ref/obsidian/plugins/templeter]",
+  :block/created-at 1656098904266,
+  :block/updated-at 1656098904266}
+ {:block/name "[ref/phys",
+  :block/created-at 1656098901419,
+  :block/updated-at 1656098901419}
+ {:block/name "[ref/phys/energy]",
+  :block/created-at 1656098901418,
+  :block/updated-at 1656098901418}
+ {:block/name "[seed",
+  :block/created-at 1656098906271,
+  :block/updated-at 1656098906271}
+ {:block/name "[seed]",
+  :block/created-at 1656098891895,
+  :block/updated-at 1656098891895}
+ {:block/name "[star",
+  :block/created-at 1656098890879,
+  :block/updated-at 1656098890879}
+ {:block/name "[star/creation]",
+  :block/created-at 1656098890879,
+  :block/updated-at 1656098890879}
+ {:block/name "[steno]",
+  :block/created-at 1656098903853,
+  :block/updated-at 1656098903853}
+ {:block/name "[system]",
+  :block/created-at 1656098904045,
+  :block/updated-at 1656098904045}
+ {:block/name "[territory]",
+  :block/created-at 1656098906270,
+  :block/updated-at 1656098906270}
+ {:block/name "[trustless]",
+  :block/created-at 1656098905457,
+  :block/updated-at 1656098905457}
+ {:block/name "[uap]",
+  :block/created-at 1656098905505,
+  :block/updated-at 1656098905505}
+ {:block/name "[wcag]",
+  :block/created-at 1656098905833,
+  :block/updated-at 1656098905833}
  {:block/name "a",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "a day",
+  :block/created-at 1656098900822,
+  :block/updated-at 1656098900822}
+ {:block/name "a dragon in the desert",
+  :block/created-at 1656098893526,
+  :block/updated-at 1656098893526}
+ {:block/name "a flower for spanky",
+  :block/created-at 1656098893435,
+  :block/updated-at 1656098893435}
+ {:block/name "a forest",
+  :block/created-at 1656098892668,
+  :block/updated-at 1656098892668}
+ {:block/name "a future where filter bubbles are entrenched",
+  :block/created-at 1656098905038,
+  :block/updated-at 1656098905038}
+ {:block/name "a game to celebrate the pagan holidays",
+  :block/created-at 1656098893252,
+  :block/updated-at 1656098893252}
+ {:block/name "a life in the year",
+  :block/created-at 1656098893517,
+  :block/updated-at 1656098893517}
+ {:block/name "a narrow path is not an unlikely path",
+  :block/created-at 1656098890592,
+  :block/updated-at 1656098890592}
+ {:block/name "a simple forest",
+  :block/created-at 1656098892668,
+  :block/updated-at 1656098892668}
+ {:block/name "a thing not yet written|perhaps that's where this goes",
+  :block/created-at 1656098902111,
+  :block/updated-at 1656098902111}
+ {:block/name "abelism",
+  :block/created-at 1656098902800,
+  :block/updated-at 1656098902800}
+ {:block/name "ac dimmers",
+  :block/created-at 1656098902868,
+  :block/updated-at 1656098902868}
+ {:block/name "add",
+  :block/created-at 1656098906489,
+  :block/updated-at 1656098906489}
+ {:block/name "adjustments to my 100 days of making process",
+  :block/created-at 1656098893142,
+  :block/updated-at 1656098893142}
+ {:block/name "admonition",
+  :block/created-at 1656098890632,
+  :block/updated-at 1656098890632}
+ {:block/name "advertising",
+  :block/created-at 1656098904071,
+  :block/updated-at 1656098904071}
+ {:block/name "advertsing towns history",
+  :block/created-at 1656098897069,
+  :block/updated-at 1656098897069}
+ {:block/name "afrotectopian ecologies",
+  :block/created-at 1656098893347,
+  :block/updated-at 1656098893347}
+ {:block/name "after effects",
+  :block/created-at 1656098908501,
+  :block/updated-at 1656098908501}
+ {:block/name "aftereffectsshortcuts.pdf",
+  :block/created-at 1656098908503,
+  :block/updated-at 1656098908503}
+ {:block/name "agricola",
+  :block/created-at 1656098897626,
+  :block/updated-at 1656098897626}
+ {:block/name "ai",
+  :block/created-at 1656098892219,
+  :block/updated-at 1656098892219}
+ {:block/name "aidan",
+  :block/created-at 1656098906007,
+  :block/updated-at 1656098906007}
+ {:block/name "american exceptionalism",
+  :block/created-at 1656098902287,
+  :block/updated-at 1656098902287}
+ {:block/name "american history",
+  :block/created-at 1656098892701,
+  :block/updated-at 1656098892701}
+ {:block/name "ancient earth map",
+  :block/created-at 1656098890650,
+  :block/updated-at 1656098890650}
+ {:block/name "andy matuschak",
+  :block/created-at 1656098890675,
+  :block/updated-at 1656098890675}
+ {:block/name "animals",
+  :block/created-at 1656098891946,
+  :block/updated-at 1656098891946}
+ {:block/name "animation",
+  :block/created-at 1656098906523,
+  :block/updated-at 1656098906523}
+ {:block/name "anthropocentrism",
+  :block/created-at 1656098902799,
+  :block/updated-at 1656098902799}
+ {:block/name "anticipate-a-day",
+  :block/created-at 1656098897180,
+  :block/updated-at 1656098897180}
+ {:block/name "antigone",
+  :block/created-at 1656098908469,
+  :block/updated-at 1656098908469}
+ {:block/name "ants",
+  :block/created-at 1656098906206,
+  :block/updated-at 1656098906206}
+ {:block/name "ants royale",
+  :block/created-at 1656098893515,
+  :block/updated-at 1656098893515}
+ {:block/name "antsroyale.jpg",
+  :block/created-at 1656098906616,
+  :block/updated-at 1656098906616}
+ {:block/name "anxiety",
+  :block/created-at 1656098890921,
+  :block/updated-at 1656098890921}
+ {:block/name "any story",
+  :block/created-at 1656098893521,
+  :block/updated-at 1656098893521}
+ {:block/name "apocalypse",
+  :block/created-at 1656098890750,
+  :block/updated-at 1656098890750}
+ {:block/name "app clips",
+  :block/created-at 1656098908529,
+  :block/updated-at 1656098908529}
+ {:block/name "apps",
+  :block/created-at 1656098908532,
+  :block/updated-at 1656098908532}
+ {:block/name "arduino",
+  :block/created-at 1656098890397,
+  :block/updated-at 1656098890397}
+ {:block/name "are superheroes fundamentally racist",
+  :block/created-at 1656098890731,
+  :block/updated-at 1656098890731}
+ {:block/name "arg",
+  :block/created-at 1656098897033,
+  :block/updated-at 1656098897033}
+ {:block/name "article",
+  :block/created-at 1656098891629,
+  :block/updated-at 1656098891629}
  {:block/name "as we may think",
   :block/created-at 1655828541194,
   :block/updated-at 1655828541194}
+ {:block/name "as we may think#^35148d",
+  :block/created-at 1656098904535,
+  :block/updated-at 1656098904535}
+ {:block/name "asking people about the future",
+  :block/created-at 1656098890772,
+  :block/updated-at 1656098890772}
+ {:block/name "assembling california",
+  :block/created-at 1656098904394,
+  :block/updated-at 1656098904394}
+ {:block/name
+  "assignment 1- social experience for two|realtime social spaces class",
+  :block/created-at 1656098895407,
+  :block/updated-at 1656098895407}
+ {:block/name "assymetrical interfaces",
+  :block/created-at 1656098891593,
+  :block/updated-at 1656098891593}
+ {:block/name "astrology game",
+  :block/created-at 1656098890790,
+  :block/updated-at 1656098890790}
+ {:block/name "ate homework for 2021-04-06",
+  :block/created-at 1656098904122,
+  :block/updated-at 1656098904122}
+ {:block/name "atheism",
+  :block/created-at 1656098904471,
+  :block/updated-at 1656098904471}
+ {:block/name "atmospehere",
+  :block/created-at 1656098902006,
+  :block/updated-at 1656098902006}
+ {:block/name "atomic habits",
+  :block/created-at 1656098902258,
+  :block/updated-at 1656098902258}
+ {:block/name "atomic note",
+  :block/created-at 1656098890808,
+  :block/updated-at 1656098890808}
+ {:block/name "autonomous systems",
+  :block/created-at 1656098892470,
+  :block/updated-at 1656098892470}
+ {:block/name "avoid the trap of the too polished prototype",
+  :block/created-at 1656098890876,
+  :block/updated-at 1656098890876}
  {:block/name "b",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
  {:block/name "backlinks",
   :block/created-at 1655828541520,
   :block/updated-at 1655828541520}
+ {:block/name "backpropagation",
+  :block/created-at 1656098892747,
+  :block/updated-at 1656098892747}
+ {:block/name "bad",
+  :block/created-at 1656098903370,
+  :block/updated-at 1656098903370}
+ {:block/name "basic three.js scene template",
+  :block/created-at 1656098906357,
+  :block/updated-at 1656098906357}
+ {:block/name "basin and range",
+  :block/created-at 1656098905635,
+  :block/updated-at 1656098905635}
+ {:block/name "basin and range#^0bf7a1",
+  :block/created-at 1656098904519,
+  :block/updated-at 1656098904519}
+ {:block/name "beat the big",
+  :block/created-at 1656098893520,
+  :block/updated-at 1656098893520}
+ {:block/name "bee",
+  :block/created-at 1656098890821,
+  :block/updated-at 1656098890821}
+ {:block/name "benny",
+  :block/created-at 1656098890458,
+  :block/updated-at 1656098890458}
+ {:block/name "bezark company",
+  :block/created-at 1656098893050,
+  :block/updated-at 1656098893050}
+ {:block/name "biases in futures thinking",
+  :block/created-at 1656098890930,
+  :block/updated-at 1656098890930}
+ {:block/name "big questions in math",
+  :block/created-at 1656098890972,
+  :block/updated-at 1656098890972}
  {:block/name "block",
   :block/created-at 1656098238432,
   :block/updated-at 1656098238432}
+ {:block/name "block references",
+  :block/created-at 1656098891038,
+  :block/updated-at 1656098891038}
+ {:block/name "block references in obsidian",
+  :block/created-at 1656098891035,
+  :block/updated-at 1656098891035}
+ {:block/name "blockchain",
+  :block/created-at 1656098891062,
+  :block/updated-at 1656098891062}
  {:block/name "blog",
   :block/created-at 1655828541524,
   :block/updated-at 1655828541524}
+ {:block/name "bluetooth",
+  :block/created-at 1656098890398,
+  :block/updated-at 1656098890398}
+ {:block/name "blurring",
+  :block/created-at 1656098892192,
+  :block/updated-at 1656098892192}
+ {:block/name
+  "board games inherently reinforce capitalism, colonialism and rescource extraction",
+  :block/created-at 1656098893140,
+  :block/updated-at 1656098893140}
+ {:block/name
+  "board games inherently reinforce capitialism, colonialism and rescource extraction",
+  :block/created-at 1656098893279,
+  :block/updated-at 1656098893279}
+ {:block/name "board.png",
+  :block/created-at 1656098907000,
+  :block/updated-at 1656098907000}
+ {:block/name "bodega cat",
+  :block/created-at 1656098893525,
+  :block/updated-at 1656098893525}
+ {:block/name "boot fall",
+  :block/created-at 1656098893434,
+  :block/updated-at 1656098893434}
  {:block/name "bottom-up",
   :block/created-at 1656098238421,
   :block/updated-at 1656098238421}
+ {:block/name "box two",
+  :block/created-at 1656098902285,
+  :block/updated-at 1656098902285}
+ {:block/name "brainstorm to iterate overthrow the government",
+  :block/created-at 1656098894329,
+  :block/updated-at 1656098894329}
+ {:block/name "bri watts",
+  :block/created-at 1656098900520,
+  :block/updated-at 1656098900520}
+ {:block/name "build a town",
+  :block/created-at 1656098891110,
+  :block/updated-at 1656098891110}
+ {:block/name "build a town playtest",
+  :block/created-at 1656098891098,
+  :block/updated-at 1656098891098}
+ {:block/name "build a town#build",
+  :block/created-at 1656098891109,
+  :block/updated-at 1656098891109}
+ {:block/name "build a town#forage",
+  :block/created-at 1656098891109,
+  :block/updated-at 1656098891109}
+ {:block/name "building a second brain",
+  :block/created-at 1656098902734,
+  :block/updated-at 1656098902734}
+ {:block/name "building a solar powered website",
+  :block/created-at 1656098905072,
+  :block/updated-at 1656098905072}
+ {:block/name "building build a town",
+  :block/created-at 1656098891114,
+  :block/updated-at 1656098891114}
+ {:block/name "bundlers",
+  :block/created-at 1656098891178,
+  :block/updated-at 1656098891178}
  {:block/name "c",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
+ {:block/name "calculating solar efficiency",
+  :block/created-at 1656098891198,
+  :block/updated-at 1656098891198}
+ {:block/name "capitalism",
+  :block/created-at 1656098891223,
+  :block/updated-at 1656098891223}
+ {:block/name "capitalism is inherently racist",
+  :block/created-at 1656098891219,
+  :block/updated-at 1656098891219}
+ {:block/name "capitalism redistributes energy",
+  :block/created-at 1656098891235,
+  :block/updated-at 1656098891235}
+ {:block/name "capture cards",
+  :block/created-at 1656098893520,
+  :block/updated-at 1656098893520}
+ {:block/name "capturecards.csv",
+  :block/created-at 1656098894274,
+  :block/updated-at 1656098894274}
+ {:block/name "car",
+  :block/created-at 1656098892604,
+  :block/updated-at 1656098892604}
  {:block/name "card",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "card-game",
+  :block/created-at 1656098893564,
+  :block/updated-at 1656098893564}
+ {:block/name "cards",
+  :block/created-at 1656098897179,
+  :block/updated-at 1656098897179}
+ {:block/name "casino night",
+  :block/created-at 1656098893510,
+  :block/updated-at 1656098893510}
+ {:block/name "casino night playtest",
+  :block/created-at 1656098893734,
+  :block/updated-at 1656098893734}
+ {:block/name "centralized networks",
+  :block/created-at 1656098901946,
+  :block/updated-at 1656098901946}
+ {:block/name "chaos",
+  :block/created-at 1656098890966,
+  :block/updated-at 1656098890966}
+ {:block/name "chaos performance",
+  :block/created-at 1656098891337,
+  :block/updated-at 1656098891337}
+ {:block/name "chemical reaction",
+  :block/created-at 1656098892135,
+  :block/updated-at 1656098892135}
+ {:block/name "chess",
+  :block/created-at 1656098891382,
+  :block/updated-at 1656098891382}
  {:block/name "children",
   :block/created-at 1656098238430,
   :block/updated-at 1656098238430}
+ {:block/name "choose your own adventure",
+  :block/created-at 1656098893950,
+  :block/updated-at 1656098893950}
+ {:block/name "chroniciling mechanic",
+  :block/created-at 1656098891396,
+  :block/updated-at 1656098891396}
+ {:block/name "cities",
+  :block/created-at 1656098906205,
+  :block/updated-at 1656098906205}
+ {:block/name
+  "civilization has been built on the maximum of human capacity",
+  :block/created-at 1656098891457,
+  :block/updated-at 1656098891457}
+ {:block/name "civilizations",
+  :block/created-at 1656098891781,
+  :block/updated-at 1656098891781}
+ {:block/name "clearview",
+  :block/created-at 1656098891409,
+  :block/updated-at 1656098891409}
+ {:block/name "clients",
+  :block/created-at 1656098905075,
+  :block/updated-at 1656098905075}
+ {:block/name "climate change",
+  :block/created-at 1656098891480,
+  :block/updated-at 1656098891480}
+ {:block/name "clocks",
+  :block/created-at 1656098904520,
+  :block/updated-at 1656098904520}
+ {:block/name "close the loop as quickly as possibe",
+  :block/created-at 1656098891488,
+  :block/updated-at 1656098891488}
+ {:block/name "close the loop as quickly as possibe#^twd3en",
+  :block/created-at 1656098890878,
+  :block/updated-at 1656098890878}
+ {:block/name "co-ops",
+  :block/created-at 1656098905038,
+  :block/updated-at 1656098905038}
+ {:block/name "co2",
+  :block/created-at 1656098902006,
+  :block/updated-at 1656098902006}
+ {:block/name "coal mine.html",
+  :block/created-at 1656098896733,
+  :block/updated-at 1656098896733}
+ {:block/name "colonial",
+  :block/created-at 1656098893429,
+  :block/updated-at 1656098893429}
+ {:block/name "combat",
+  :block/created-at 1656098902207,
+  :block/updated-at 1656098902207}
+ {:block/name "command and control",
+  :block/created-at 1656098891472,
+  :block/updated-at 1656098891472}
+ {:block/name "command line commands",
+  :block/created-at 1656098901689,
+  :block/updated-at 1656098901689}
+ {:block/name "command line tools for my vault",
+  :block/created-at 1656098901690,
+  :block/updated-at 1656098901690}
+ {:block/name "communism",
+  :block/created-at 1656098903745,
+  :block/updated-at 1656098903745}
+ {:block/name "compl",
+  :block/created-at 1656098892318,
+  :block/updated-at 1656098892318}
+ {:block/name "complex systems",
+  :block/created-at 1656098892740,
+  :block/updated-at 1656098892740}
+ {:block/name "complexity book",
+  :block/created-at 1656098906207,
+  :block/updated-at 1656098906207}
+ {:block/name "computer",
+  :block/created-at 1656098900658,
+  :block/updated-at 1656098900658}
+ {:block/name "computing",
+  :block/created-at 1656098891497,
+  :block/updated-at 1656098891497}
+ {:block/name "concept",
+  :block/created-at 1656098890650,
+  :block/updated-at 1656098890650}
+ {:block/name "concept/web",
+  :block/created-at 1656098903140,
+  :block/updated-at 1656098903140}
+ {:block/name "conflict",
+  :block/created-at 1656098906268,
+  :block/updated-at 1656098906268}
+ {:block/name "connectome",
+  :block/created-at 1656098891534,
+  :block/updated-at 1656098891534}
+ {:block/name "connor white sullivan",
+  :block/created-at 1656098903465,
+  :block/updated-at 1656098903465}
+ {:block/name "considerations for accessability of virtual field trip",
+  :block/created-at 1656098891595,
+  :block/updated-at 1656098891595}
+ {:block/name "consumer technology",
+  :block/created-at 1656098902969,
+  :block/updated-at 1656098902969}
  {:block/name "contents",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
+ {:block/name "contributors to wikimedia projects",
+  :block/created-at 1656098903766,
+  :block/updated-at 1656098903766}
+ {:block/name "control",
+  :block/created-at 1656098900898,
+  :block/updated-at 1656098900898}
+ {:block/name "conway's game of life",
+  :block/created-at 1656098897753,
+  :block/updated-at 1656098897753}
+ {:block/name "cool open source software",
+  :block/created-at 1656098891566,
+  :block/updated-at 1656098891566}
+ {:block/name "cooperative",
+  :block/created-at 1656098906668,
+  :block/updated-at 1656098906668}
+ {:block/name "covid",
+  :block/created-at 1656098890455,
+  :block/updated-at 1656098890455}
+ {:block/name "covid-19",
+  :block/created-at 1656098891511,
+  :block/updated-at 1656098891511}
+ {:block/name "creative process",
+  :block/created-at 1656098891579,
+  :block/updated-at 1656098891579}
+ {:block/name "crispr",
+  :block/created-at 1656098891627,
+  :block/updated-at 1656098891627}
+ {:block/name "crowds",
+  :block/created-at 1656098904025,
+  :block/updated-at 1656098904025}
+ {:block/name
+  "crypto tokens a breakthrough in open network design#^2060a3",
+  :block/created-at 1656098891764,
+  :block/updated-at 1656098891764}
+ {:block/name "crypto-art",
+  :block/created-at 1656098897497,
+  :block/updated-at 1656098897497}
+ {:block/name "cryptocurrencies",
+  :block/created-at 1656098891244,
+  :block/updated-at 1656098891244}
+ {:block/name "css",
+  :block/created-at 1656098891521,
+  :block/updated-at 1656098891521}
+ {:block/name "css in obsidian",
+  :block/created-at 1656098891519,
+  :block/updated-at 1656098891519}
+ {:block/name "currencey",
+  :block/created-at 1656098893432,
+  :block/updated-at 1656098893432}
+ {:block/name "currency",
+  :block/created-at 1656098897568,
+  :block/updated-at 1656098897568}
+ {:block/name "cybernetics",
+  :block/created-at 1656098903586,
+  :block/updated-at 1656098903586}
+ {:block/name "cyclical clock.excalidraw",
+  :block/created-at 1656098902299,
+  :block/updated-at 1656098902299}
+ {:block/name "cyclical clock.excalidraw.png",
+  :block/created-at 1656098902298,
+  :block/updated-at 1656098902298}
+ {:block/name "d&d",
+  :block/created-at 1656098891646,
+  :block/updated-at 1656098891646}
+ {:block/name "dafa3cca-b98e-4458-8f2c-c10d6c45fa4e.jpeg",
+  :block/created-at 1656098892954,
+  :block/updated-at 1656098892954}
+ {:block/name "daily practice",
+  :block/created-at 1656098891659,
+  :block/updated-at 1656098891659}
+ {:block/name "darwinian evolution",
+  :block/created-at 1656098901670,
+  :block/updated-at 1656098901670}
+ {:block/name "data",
+  :block/created-at 1656098891696,
+  :block/updated-at 1656098891696}
+ {:block/name "dataview",
+  :block/created-at 1656098891722,
+  :block/updated-at 1656098891722}
+ {:block/name "dave currie",
+  :block/created-at 1656098893081,
+  :block/updated-at 1656098893081}
+ {:block/name "days as bubbles",
+  :block/created-at 1656098891710,
+  :block/updated-at 1656098891710}
+ {:block/name "days of noise",
+  :block/created-at 1656098891747,
+  :block/updated-at 1656098891747}
+ {:block/name "dc motor",
+  :block/created-at 1656098902237,
+  :block/updated-at 1656098902237}
+ {:block/name "deadline",
+  :block/created-at 1656098892013,
+  :block/updated-at 1656098892013}
+ {:block/name "death",
+  :block/created-at 1656098905950,
+  :block/updated-at 1656098905950}
+ {:block/name "death is not the antonym to life",
+  :block/created-at 1656098891734,
+  :block/updated-at 1656098891734}
  {:block/name "decentralized",
   :block/created-at 1656098238422,
   :block/updated-at 1656098238422}
+ {:block/name "decentralized networks",
+  :block/created-at 1656098891762,
+  :block/updated-at 1656098891762}
+ {:block/name "decolonial",
+  :block/created-at 1656098891770,
+  :block/updated-at 1656098891770}
+ {:block/name "decompensate",
+  :block/created-at 1656098891807,
+  :block/updated-at 1656098891807}
+ {:block/name "decompensation",
+  :block/created-at 1656098891811,
+  :block/updated-at 1656098891811}
+ {:block/name "deep time",
+  :block/created-at 1656098890920,
+  :block/updated-at 1656098890920}
+ {:block/name "democracy",
+  :block/created-at 1656098904605,
+  :block/updated-at 1656098904605}
+ {:block/name "demographic transitions",
+  :block/created-at 1656098891779,
+  :block/updated-at 1656098891779}
+ {:block/name "descartes",
+  :block/created-at 1656098902286,
+  :block/updated-at 1656098902286}
+ {:block/name "deterministic",
+  :block/created-at 1656098890595,
+  :block/updated-at 1656098890595}
+ {:block/name "deterministic random and probabilistic processes",
+  :block/created-at 1656098890595,
+  :block/updated-at 1656098890595}
+ {:block/name "dfm project",
+  :block/created-at 1656098893049,
+  :block/updated-at 1656098893049}
+ {:block/name "dice bocce",
+  :block/created-at 1656098893435,
+  :block/updated-at 1656098893435}
+ {:block/name "dice bocce playtest 2021-02-16",
+  :block/created-at 1656098893698,
+  :block/updated-at 1656098893698}
+ {:block/name "dice bomb",
+  :block/created-at 1656098893527,
+  :block/updated-at 1656098893527}
+ {:block/name "difference between sigils and tarrot",
+  :block/created-at 1656098891865,
+  :block/updated-at 1656098891865}
  {:block/name "digital garden",
   :block/created-at 1655828541463,
   :block/updated-at 1655828541463}
+ {:block/name "digital gardens",
+  :block/created-at 1656098891894,
+  :block/updated-at 1656098891894}
+ {:block/name "digital gardens|digital garden",
+  :block/created-at 1656098904335,
+  :block/updated-at 1656098904335}
+ {:block/name "digital performance",
+  :block/created-at 1656098904369,
+  :block/updated-at 1656098904369}
+ {:block/name "dimensions",
+  :block/created-at 1656098891924,
+  :block/updated-at 1656098891924}
+ {:block/name "discord",
+  :block/created-at 1656098892479,
+  :block/updated-at 1656098892479}
+ {:block/name "disensus",
+  :block/created-at 1656098891962,
+  :block/updated-at 1656098891962}
  {:block/name "distributed",
   :block/created-at 1656098238639,
   :block/updated-at 1656098238639}
+ {:block/name "dna",
+  :block/created-at 1656098891626,
+  :block/updated-at 1656098891626}
+ {:block/name "dna gif",
+  :block/created-at 1656098891627,
+  :block/updated-at 1656098891627}
+ {:block/name "dnd ]",
+  :block/created-at 1656098891649,
+  :block/updated-at 1656098891649}
+ {:block/name "do your homework",
+  :block/created-at 1656098893518,
+  :block/updated-at 1656098893518}
+ {:block/name "does the order of the string of the string matter",
+  :block/created-at 1656098901199,
+  :block/updated-at 1656098901199}
  {:block/name "doing",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "dom",
+  :block/created-at 1656098891684,
+  :block/updated-at 1656098891684}
+ {:block/name "domesticated animals",
+  :block/created-at 1656098891944,
+  :block/updated-at 1656098891944}
+ {:block/name "domesticating",
+  :block/created-at 1656098891947,
+  :block/updated-at 1656098891947}
+ {:block/name "don't get sick",
+  :block/created-at 1656098893437,
+  :block/updated-at 1656098893437}
  {:block/name "done",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
  {:block/name "donella h. meadows",
   :block/created-at 1655828541163,
   :block/updated-at 1655828541163}
+ {:block/name "dr",
+  :block/created-at 1656098895362,
+  :block/updated-at 1656098895362}
+ {:block/name "dr rablats rablats brainstorm",
+  :block/created-at 1656098897138,
+  :block/updated-at 1656098897138}
+ {:block/name "dr. rablat's lab rats",
+  :block/created-at 1656098895407,
+  :block/updated-at 1656098895407}
+ {:block/name "dr. rablat's lab rats prototype",
+  :block/created-at 1656098893524,
+  :block/updated-at 1656098893524}
+ {:block/name "dr. rablat's lab rats|web version",
+  :block/created-at 1656098893524,
+  :block/updated-at 1656098893524}
+ {:block/name "dr/ rablat's lab rats",
+  :block/created-at 1656098895362,
+  :block/updated-at 1656098895362}
+ {:block/name "dr/ rablat's lab rats prototype",
+  :block/created-at 1656098895400,
+  :block/updated-at 1656098895400}
+ {:block/name "dr/ rablat_s lab rats",
+  :block/created-at 1656098895389,
+  :block/updated-at 1656098895389}
+ {:block/name "dr1.png",
+  :block/created-at 1656098895411,
+  :block/updated-at 1656098895411}
+ {:block/name "dr2.png",
+  :block/created-at 1656098895410,
+  :block/updated-at 1656098895410}
+ {:block/name "dr3.png",
+  :block/created-at 1656098895410,
+  :block/updated-at 1656098895410}
+ {:block/name "dr4.png",
+  :block/created-at 1656098895410,
+  :block/updated-at 1656098895410}
+ {:block/name "dr5.png",
+  :block/created-at 1656098895409,
+  :block/updated-at 1656098895409}
+ {:block/name "dr6.png",
+  :block/created-at 1656098895409,
+  :block/updated-at 1656098895409}
+ {:block/name "dr7.png",
+  :block/created-at 1656098895408,
+  :block/updated-at 1656098895408}
+ {:block/name "dr8.png",
+  :block/created-at 1656098895408,
+  :block/updated-at 1656098895408}
+ {:block/name "dr9.png",
+  :block/created-at 1656098895407,
+  :block/updated-at 1656098895407}
  {:block/name "dynamic",
   :block/created-at 1655828541463,
   :block/updated-at 1655828541463}
+ {:block/name "e=mc^2",
+  :block/created-at 1656098892115,
+  :block/updated-at 1656098892115}
+ {:block/name "eadweard muybridge",
+  :block/created-at 1656098891625,
+  :block/updated-at 1656098891625}
+ {:block/name "earth",
+  :block/created-at 1656098906153,
+  :block/updated-at 1656098906153}
+ {:block/name "economic science fictions",
+  :block/created-at 1656098901240,
+  :block/updated-at 1656098901240}
+ {:block/name "economic science fictions#^296231",
+  :block/created-at 1656098901240,
+  :block/updated-at 1656098901240}
+ {:block/name "economic science fictions#^6f9107",
+  :block/created-at 1656098901241,
+  :block/updated-at 1656098901241}
+ {:block/name "economics",
+  :block/created-at 1656098891971,
+  :block/updated-at 1656098891971}
+ {:block/name "economics is fundamentally busted",
+  :block/created-at 1656098891969,
+  :block/updated-at 1656098891969}
+ {:block/name "edge computing",
+  :block/created-at 1656098905767,
+  :block/updated-at 1656098905767}
+ {:block/name "edit",
+  :block/created-at 1656098890602,
+  :block/updated-at 1656098890602}
+ {:block/name "edit ]",
+  :block/created-at 1656098904678,
+  :block/updated-at 1656098904678}
+ {:block/name "edit/clarify",
+  :block/created-at 1656098903971,
+  :block/updated-at 1656098903971}
+ {:block/name "edit/expand",
+  :block/created-at 1656098903092,
+  :block/updated-at 1656098903092}
+ {:block/name "edit]",
+  :block/created-at 1656098906274,
+  :block/updated-at 1656098906274}
+ {:block/name "einstein",
+  :block/created-at 1656098904521,
+  :block/updated-at 1656098904521}
+ {:block/name "emergence",
+  :block/created-at 1656098890969,
+  :block/updated-at 1656098890969}
+ {:block/name "emergence|emerges",
+  :block/created-at 1656098906386,
+  :block/updated-at 1656098906386}
  {:block/name "emergent",
   :block/created-at 1656098238420,
   :block/updated-at 1656098238420}
+ {:block/name "emergent deadlines",
+  :block/created-at 1656098892011,
+  :block/updated-at 1656098892011}
+ {:block/name "emergent media",
+  :block/created-at 1656098892042,
+  :block/updated-at 1656098892042}
+ {:block/name "emergent strategy",
+  :block/created-at 1656098902285,
+  :block/updated-at 1656098902285}
+ {:block/name "emerging game ideas",
+  :block/created-at 1656098893649,
+  :block/updated-at 1656098893649}
+ {:block/name "emerging technology",
+  :block/created-at 1656098892218,
+  :block/updated-at 1656098892218}
+ {:block/name "emerging threads",
+  :block/created-at 1656098892068,
+  :block/updated-at 1656098892068}
+ {:block/name "encrypt",
+  :block/created-at 1656098892471,
+  :block/updated-at 1656098892471}
+ {:block/name "end-to-end encryption",
+  :block/created-at 1656098905072,
+  :block/updated-at 1656098905072}
+ {:block/name "energy",
+  :block/created-at 1656098892117,
+  :block/updated-at 1656098892117}
+ {:block/name "energy class",
+  :block/created-at 1656098893348,
+  :block/updated-at 1656098893348}
+ {:block/name "energy class discussion on the morality of energy",
+  :block/created-at 1656098891461,
+  :block/updated-at 1656098891461}
+ {:block/name
+  "energy class discussion on the morality of energy#^cda55a",
+  :block/created-at 1656098891461,
+  :block/updated-at 1656098891461}
+ {:block/name "energy required for machine learning",
+  :block/created-at 1656098892100,
+  :block/updated-at 1656098892100}
+ {:block/name "energy slaves",
+  :block/created-at 1656098891462,
+  :block/updated-at 1656098891462}
+ {:block/name "energy smil|highlights from smil",
+  :block/created-at 1656098892116,
+  :block/updated-at 1656098892116}
+ {:block/name "engineering",
+  :block/created-at 1656098904206,
+  :block/updated-at 1656098904206}
+ {:block/name "entropy",
+  :block/created-at 1656098892134,
+  :block/updated-at 1656098892134}
+ {:block/name "entropy is the antonym to life",
+  :block/created-at 1656098891735,
+  :block/updated-at 1656098891735}
+ {:block/name "environmental destruction",
+  :block/created-at 1656098905418,
+  :block/updated-at 1656098905418}
+ {:block/name "epigenetics",
+  :block/created-at 1656098892166,
+  :block/updated-at 1656098892166}
+ {:block/name "espruino",
+  :block/created-at 1656098906498,
+  :block/updated-at 1656098906498}
+ {:block/name "evergreen notes",
+  :block/created-at 1656098890677,
+  :block/updated-at 1656098890677}
+ {:block/name "every holiday",
+  :block/created-at 1656098891580,
+  :block/updated-at 1656098891580}
+ {:block/name "everything is so byzantine",
+  :block/created-at 1656098892322,
+  :block/updated-at 1656098892322}
+ {:block/name "evolution",
+  :block/created-at 1656098902206,
+  :block/updated-at 1656098902206}
+ {:block/name "examples of democracy failing",
+  :block/created-at 1656098892265,
+  :block/updated-at 1656098892265}
+ {:block/name "exerpts from raise race rays raze",
+  :block/created-at 1656098904122,
+  :block/updated-at 1656098904122}
+ {:block/name "experiments with slime mold",
+  :block/created-at 1656098892244,
+  :block/updated-at 1656098892244}
+ {:block/name "exponentialcubes.jpg",
+  :block/created-at 1656098900302,
+  :block/updated-at 1656098900302}
+ {:block/name "facial recognition",
+  :block/created-at 1656098891410,
+  :block/updated-at 1656098891410}
+ {:block/name "fact",
+  :block/created-at 1656098891202,
+  :block/updated-at 1656098891202}
+ {:block/name "fake game",
+  :block/created-at 1656098897211,
+  :block/updated-at 1656098897211}
  {:block/name "favorites",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "fearing the end of the world",
+  :block/created-at 1656098890917,
+  :block/updated-at 1656098890917}
+ {:block/name "feedback from aidan on dr",
+  :block/created-at 1656098893765,
+  :block/updated-at 1656098893765}
+ {:block/name "feedback from aidan on dr/ rabat's lab rats",
+  :block/created-at 1656098893765,
+  :block/updated-at 1656098893765}
+ {:block/name "feedback from aidan on dr/ rabat_s lab rats",
+  :block/created-at 1656098893776,
+  :block/updated-at 1656098893776}
+ {:block/name "feedback loop",
+  :block/created-at 1656098892294,
+  :block/updated-at 1656098892294}
+ {:block/name "feels about demographic transitions",
+  :block/created-at 1656098891780,
+  :block/updated-at 1656098891780}
+ {:block/name "fern",
+  :block/created-at 1656098892484,
+  :block/updated-at 1656098892484}
+ {:block/name "fiction",
+  :block/created-at 1656098901358,
+  :block/updated-at 1656098901358}
+ {:block/name "field",
+  :block/created-at 1656098893095,
+  :block/updated-at 1656098893095}
+ {:block/name "figuring things out on walks",
+  :block/created-at 1656098892586,
+  :block/updated-at 1656098892586}
+ {:block/name "file system",
+  :block/created-at 1656098892468,
+  :block/updated-at 1656098892468}
+ {:block/name "filter bubbles",
+  :block/created-at 1656098892363,
+  :block/updated-at 1656098892363}
+ {:block/name "find the bridge",
+  :block/created-at 1656098893281,
+  :block/updated-at 1656098893281}
+ {:block/name "find the bridge playtest",
+  :block/created-at 1656098893890,
+  :block/updated-at 1656098893890}
+ {:block/name
+  "first attempt at setting up a raspberry pi host#linux caveat",
+  :block/created-at 1656098903243,
+  :block/updated-at 1656098903243}
+ {:block/name "flattening a complex system",
+  :block/created-at 1656098892741,
+  :block/updated-at 1656098892741}
+ {:block/name "flattening complexity",
+  :block/created-at 1656098890913,
+  :block/updated-at 1656098890913}
+ {:block/name "fleeting notes",
+  :block/created-at 1656098901705,
+  :block/updated-at 1656098901705}
+ {:block/name "flipper zero",
+  :block/created-at 1656098892644,
+  :block/updated-at 1656098892644}
+ {:block/name "flock",
+  :block/created-at 1656098903138,
+  :block/updated-at 1656098903138}
+ {:block/name "focalin",
+  :block/created-at 1656098897016,
+  :block/updated-at 1656098897016}
+ {:block/name "focusing on process over product",
+  :block/created-at 1656098892632,
+  :block/updated-at 1656098892632}
+ {:block/name "focusing on product over process",
+  :block/created-at 1656098892633,
+  :block/updated-at 1656098892633}
+ {:block/name "folders",
+  :block/created-at 1656098900533,
+  :block/updated-at 1656098900533}
+ {:block/name "folk games",
+  :block/created-at 1656098902672,
+  :block/updated-at 1656098902672}
+ {:block/name "fonm paper inntro",
+  :block/created-at 1656098892533,
+  :block/updated-at 1656098892533}
+ {:block/name "force",
+  :block/created-at 1656098892114,
+  :block/updated-at 1656098892114}
+ {:block/name "forcing effect",
+  :block/created-at 1656098902006,
+  :block/updated-at 1656098902006}
+ {:block/name "forecasts",
+  :block/created-at 1656098903072,
+  :block/updated-at 1656098903072}
+ {:block/name "forests",
+  :block/created-at 1656098892669,
+  :block/updated-at 1656098892669}
+ {:block/name "forking paths",
+  :block/created-at 1656098897174,
+  :block/updated-at 1656098897174}
+ {:block/name "fractal",
+  :block/created-at 1656098891332,
+  :block/updated-at 1656098891332}
+ {:block/name "fractals meshes and future topologies of the internet",
+  :block/created-at 1656098892482,
+  :block/updated-at 1656098892482}
+ {:block/name "framework laptop",
+  :block/created-at 1656098892380,
+  :block/updated-at 1656098892380}
+ {:block/name "freedom",
+  :block/created-at 1656098891846,
+  :block/updated-at 1656098891846}
+ {:block/name "freedomdreams_black_feminist_dreams.pdf",
+  :block/created-at 1656098905006,
+  :block/updated-at 1656098905006}
+ {:block/name "fronts.png",
+  :block/created-at 1656098907000,
+  :block/updated-at 1656098907000}
+ {:block/name "fuck capitalism",
+  :block/created-at 1656098892547,
+  :block/updated-at 1656098892547}
+ {:block/name "fuck stalin",
+  :block/created-at 1656098903742,
+  :block/updated-at 1656098903742}
+ {:block/name "fuck technology",
+  :block/created-at 1656098892317,
+  :block/updated-at 1656098892317}
+ {:block/name "future",
+  :block/created-at 1656098891335,
+  :block/updated-at 1656098891335}
+ {:block/name
+  "future knowledges and the dilemmas of decolonization#^testy",
+  :block/created-at 1656098902286,
+  :block/updated-at 1656098902286}
+ {:block/name "future of driving",
+  :block/created-at 1656098892602,
+  :block/updated-at 1656098892602}
+ {:block/name "future of new media research paper",
+  :block/created-at 1656098892481,
+  :block/updated-at 1656098892481}
+ {:block/name "futures",
+  :block/created-at 1656098892657,
+  :block/updated-at 1656098892657}
+ {:block/name "futures cone",
+  :block/created-at 1656098892617,
+  :block/updated-at 1656098892617}
+ {:block/name "game",
+  :block/created-at 1656098890796,
+  :block/updated-at 1656098890796}
+ {:block/name "game 13 brainstorming",
+  :block/created-at 1656098897177,
+  :block/updated-at 1656098897177}
+ {:block/name "game 14 brainstorming",
+  :block/created-at 1656098897198,
+  :block/updated-at 1656098897198}
+ {:block/name "game 16 brainstorming",
+  :block/created-at 1656098897241,
+  :block/updated-at 1656098897241}
+ {:block/name "game 17 brainstorm",
+  :block/created-at 1656098897268,
+  :block/updated-at 1656098897268}
+ {:block/name "game 18 brainstorm",
+  :block/created-at 1656098897342,
+  :block/updated-at 1656098897342}
+ {:block/name "game 19 brainstorm",
+  :block/created-at 1656098897404,
+  :block/updated-at 1656098897404}
+ {:block/name "game 20 brainstorm",
+  :block/created-at 1656098897289,
+  :block/updated-at 1656098897289}
+ {:block/name "game 21 brainstorm",
+  :block/created-at 1656098897312,
+  :block/updated-at 1656098897312}
+ {:block/name "game 23 brainstorm",
+  :block/created-at 1656098897424,
+  :block/updated-at 1656098897424}
+ {:block/name "game 24 brainstorm",
+  :block/created-at 1656098897501,
+  :block/updated-at 1656098897501}
+ {:block/name "game 25 brainstorm",
+  :block/created-at 1656098897461,
+  :block/updated-at 1656098897461}
+ {:block/name "game 26 brainstorm",
+  :block/created-at 1656098897545,
+  :block/updated-at 1656098897545}
+ {:block/name "game 27 brainstorm",
+  :block/created-at 1656098900150,
+  :block/updated-at 1656098900150}
+ {:block/name "game 28 brainstorm",
+  :block/created-at 1656098897565,
+  :block/updated-at 1656098897565}
+ {:block/name "game 29 brainstorm",
+  :block/created-at 1656098891095,
+  :block/updated-at 1656098891095}
+ {:block/name "game 29 brainstorm#^70a334",
+  :block/created-at 1656098891111,
+  :block/updated-at 1656098891111}
+ {:block/name "game 29 brainstorm#^7246e0",
+  :block/created-at 1656098891110,
+  :block/updated-at 1656098891110}
+ {:block/name "game 30 brainstorm",
+  :block/created-at 1656098891098,
+  :block/updated-at 1656098891098}
+ {:block/name "game 30 brainstorm#different buildings should be",
+  :block/created-at 1656098891112,
+  :block/updated-at 1656098891112}
+ {:block/name "game 30 brainstorm#different natural features could be",
+  :block/created-at 1656098891111,
+  :block/updated-at 1656098891111}
+ {:block/name "game 31 brainstorm",
+  :block/created-at 1656098891099,
+  :block/updated-at 1656098891099}
+ {:block/name "game 33 brainstorm 1",
+  :block/created-at 1656098891102,
+  :block/updated-at 1656098891102}
+ {:block/name "game 33 brainstorm 2",
+  :block/created-at 1656098891102,
+  :block/updated-at 1656098891102}
+ {:block/name "game 35 brainstorm",
+  :block/created-at 1656098893864,
+  :block/updated-at 1656098893864}
+ {:block/name "game 38 brainstorm",
+  :block/created-at 1656098896729,
+  :block/updated-at 1656098896729}
+ {:block/name "game ]",
+  :block/created-at 1656098891651,
+  :block/updated-at 1656098891651}
+ {:block/name "game design",
+  :block/created-at 1656098892783,
+  :block/updated-at 1656098892783}
+ {:block/name "game dev dashboard",
+  :block/created-at 1656098891750,
+  :block/updated-at 1656098891750}
+ {:block/name "game i want to make",
+  :block/created-at 1656098893254,
+  :block/updated-at 1656098893254}
+ {:block/name "game ideas",
+  :block/created-at 1656098893568,
+  :block/updated-at 1656098893568}
+ {:block/name "game prototyping resources",
+  :block/created-at 1656098892797,
+  :block/updated-at 1656098892797}
+ {:block/name "game/2player",
+  :block/created-at 1656098894160,
+  :block/updated-at 1656098894160}
+ {:block/name "game/asymmetrical",
+  :block/created-at 1656098894228,
+  :block/updated-at 1656098894228}
+ {:block/name "game/cardgame",
+  :block/created-at 1656098894229,
+  :block/updated-at 1656098894229}
+ {:block/name "game/co-op",
+  :block/created-at 1656098895404,
+  :block/updated-at 1656098895404}
+ {:block/name "game/communication",
+  :block/created-at 1656098895404,
+  :block/updated-at 1656098895404}
+ {:block/name "game/competitive",
+  :block/created-at 1656098896588,
+  :block/updated-at 1656098896588}
+ {:block/name "game/currency",
+  :block/created-at 1656098896610,
+  :block/updated-at 1656098896610}
+ {:block/name "game/cya",
+  :block/created-at 1656098895243,
+  :block/updated-at 1656098895243}
+ {:block/name "game/design",
+  :block/created-at 1656098892785,
+  :block/updated-at 1656098892785}
+ {:block/name "game/dev",
+  :block/created-at 1656098892846,
+  :block/updated-at 1656098892846}
+ {:block/name "game/dev ]",
+  :block/created-at 1656098893385,
+  :block/updated-at 1656098893385}
+ {:block/name "game/dev/archive",
+  :block/created-at 1656098893702,
+  :block/updated-at 1656098893702}
+ {:block/name "game/dev/brainstorm",
+  :block/created-at 1656098892843,
+  :block/updated-at 1656098892843}
+ {:block/name "game/dev/iteration",
+  :block/created-at 1656098892989,
+  :block/updated-at 1656098892989}
+ {:block/name "game/dev/playtest",
+  :block/created-at 1656098903017,
+  :block/updated-at 1656098903017}
+ {:block/name "game/dice",
+  :block/created-at 1656098894196,
+  :block/updated-at 1656098894196}
+ {:block/name "game/dice ]",
+  :block/created-at 1656098895290,
+  :block/updated-at 1656098895290}
+ {:block/name "game/hiddenidentity",
+  :block/created-at 1656098895468,
+  :block/updated-at 1656098895468}
+ {:block/name "game/idea",
+  :block/created-at 1656098892911,
+  :block/updated-at 1656098892911}
+ {:block/name "game/mechanic",
+  :block/created-at 1656098891399,
+  :block/updated-at 1656098891399}
+ {:block/name "game/multiplayer",
+  :block/created-at 1656098895269,
+  :block/updated-at 1656098895269}
+ {:block/name "game/partygame",
+  :block/created-at 1656098896955,
+  :block/updated-at 1656098896955}
+ {:block/name "game/rpg",
+  :block/created-at 1656098891650,
+  :block/updated-at 1656098891650}
+ {:block/name "game/rts",
+  :block/created-at 1656098894161,
+  :block/updated-at 1656098894161}
+ {:block/name "game/singleplayer",
+  :block/created-at 1656098894197,
+  :block/updated-at 1656098894197}
+ {:block/name "game/socialgame",
+  :block/created-at 1656098895470,
+  :block/updated-at 1656098895470}
+ {:block/name "game/sport",
+  :block/created-at 1656098894160,
+  :block/updated-at 1656098894160}
+ {:block/name "game/teams",
+  :block/created-at 1656098908403,
+  :block/updated-at 1656098908403}
+ {:block/name "game/trading",
+  :block/created-at 1656098896611,
+  :block/updated-at 1656098896611}
+ {:block/name "game/ttrpg",
+  :block/created-at 1656098893564,
+  :block/updated-at 1656098893564}
+ {:block/name "game/videogame",
+  :block/created-at 1656098895310,
+  :block/updated-at 1656098895310}
+ {:block/name "game]",
+  :block/created-at 1656098892763,
+  :block/updated-at 1656098892763}
+ {:block/name "games",
+  :block/created-at 1656098897020,
+  :block/updated-at 1656098897020}
+ {:block/name "games i've made so far",
+  :block/created-at 1656098893138,
+  :block/updated-at 1656098893138}
+ {:block/name "games with different maps",
+  :block/created-at 1656098892908,
+  :block/updated-at 1656098892908}
+ {:block/name "gartner hype cycle",
+  :block/created-at 1656098892890,
+  :block/updated-at 1656098892890}
+ {:block/name "gear box",
+  :block/created-at 1656098893011,
+  :block/updated-at 1656098893011}
+ {:block/name "gender",
+  :block/created-at 1656098902798,
+  :block/updated-at 1656098902798}
+ {:block/name "generation ship game",
+  :block/created-at 1656098892843,
+  :block/updated-at 1656098892843}
+ {:block/name "generational",
+  :block/created-at 1656098906411,
+  :block/updated-at 1656098906411}
+ {:block/name "generative",
+  :block/created-at 1656098900971,
+  :block/updated-at 1656098900971}
+ {:block/name "genetics",
+  :block/created-at 1656098892167,
+  :block/updated-at 1656098892167}
+ {:block/name "genres of games",
+  :block/created-at 1656098893570,
+  :block/updated-at 1656098893570}
+ {:block/name "geocaching",
+  :block/created-at 1656098899977,
+  :block/updated-at 1656098899977}
+ {:block/name "geology",
+  :block/created-at 1656098890648,
+  :block/updated-at 1656098890648}
+ {:block/name "getting a raspberry to pull a github repo on boot",
+  :block/created-at 1656098893024,
+  :block/updated-at 1656098893024}
+ {:block/name "ghost house",
+  :block/created-at 1656098893048,
+  :block/updated-at 1656098893048}
+ {:block/name "ghostworld",
+  :block/created-at 1656098893080,
+  :block/updated-at 1656098893080}
+ {:block/name "gif",
+  :block/created-at 1656098891626,
+  :block/updated-at 1656098891626}
+ {:block/name "git",
+  :block/created-at 1656098908640,
+  :block/updated-at 1656098908640}
  {:block/name "github",
   :block/created-at 1655828541527,
   :block/updated-at 1655828541527}
+ {:block/name "good",
+  :block/created-at 1656098903370,
+  :block/updated-at 1656098903370}
+ {:block/name "grand transitions",
+  :block/created-at 1656098891781,
+  :block/updated-at 1656098891781}
+ {:block/name "grandma mary jane",
+  :block/created-at 1656098900935,
+  :block/updated-at 1656098900935}
  {:block/name "graph",
   :block/created-at 1656098238414,
   :block/updated-at 1656098238414}
@@ -88,72 +1684,2003 @@
  {:block/name "graphs",
   :block/created-at 1655828541525,
   :block/updated-at 1655828541525}
+ {:block/name "gravity",
+  :block/created-at 1656098900613,
+  :block/updated-at 1656098900613}
+ {:block/name "greg treffery",
+  :block/created-at 1656098894002,
+  :block/updated-at 1656098894002}
+ {:block/name "habit making",
+  :block/created-at 1656098900321,
+  :block/updated-at 1656098900321}
+ {:block/name "habit making strategies",
+  :block/created-at 1656098900324,
+  :block/updated-at 1656098900324}
+ {:block/name "habits",
+  :block/created-at 1656098900326,
+  :block/updated-at 1656098900326}
+ {:block/name "happy britday make a wish",
+  :block/created-at 1656098893516,
+  :block/updated-at 1656098893516}
+ {:block/name "hardship scratch",
+  :block/created-at 1656098897403,
+  :block/updated-at 1656098897403}
+ {:block/name "hash functions",
+  :block/created-at 1656098903241,
+  :block/updated-at 1656098903241}
+ {:block/name "haunt that house scratch",
+  :block/created-at 1656098897402,
+  :block/updated-at 1656098897402}
+ {:block/name "headed",
+  :block/created-at 1656098902107,
+  :block/updated-at 1656098902107}
+ {:block/name "healthcare",
+  :block/created-at 1656098892318,
+  :block/updated-at 1656098892318}
+ {:block/name "heart rate performance",
+  :block/created-at 1656098900697,
+  :block/updated-at 1656098900697}
+ {:block/name "heatwave",
+  :block/created-at 1656098900637,
+  :block/updated-at 1656098900637}
+ {:block/name "hero's journey",
+  :block/created-at 1656098903905,
+  :block/updated-at 1656098903905}
+ {:block/name "hex.png",
+  :block/created-at 1656098896586,
+  :block/updated-at 1656098896586}
+ {:block/name "hexapods",
+  :block/created-at 1656098893437,
+  :block/updated-at 1656098893437}
+ {:block/name "hierarchies",
+  :block/created-at 1656098905074,
+  :block/updated-at 1656098905074}
+ {:block/name "highdeas",
+  :block/created-at 1656098893052,
+  :block/updated-at 1656098893052}
+ {:block/name "highdeas 2021-04-01",
+  :block/created-at 1656098906526,
+  :block/updated-at 1656098906526}
+ {:block/name "highdeas 2021-04-21",
+  :block/created-at 1656098906462,
+  :block/updated-at 1656098906462}
+ {:block/name "highdeas about steno",
+  :block/created-at 1656098900664,
+  :block/updated-at 1656098900664}
+ {:block/name "highdeas on 2021-04-02",
+  :block/created-at 1656098906497,
+  :block/updated-at 1656098906497}
+ {:block/name "highdeas on 2021-05-13",
+  :block/created-at 1656098906406,
+  :block/updated-at 1656098906406}
+ {:block/name "highdeas on 2021-07-07",
+  :block/created-at 1656098900634,
+  :block/updated-at 1656098900634}
  {:block/name "highlights",
   :block/created-at 1656098238641,
   :block/updated-at 1656098238641}
+ {:block/name "highways",
+  :block/created-at 1656098904441,
+  :block/updated-at 1656098904441}
+ {:block/name "history",
+  :block/created-at 1656098892067,
+  :block/updated-at 1656098892067}
+ {:block/name "history of energy megagame",
+  :block/created-at 1656098893252,
+  :block/updated-at 1656098893252}
+ {:block/name "history of energy research project",
+  :block/created-at 1656098896729,
+  :block/updated-at 1656098896729}
+ {:block/name "hololens",
+  :block/created-at 1656098902034,
+  :block/updated-at 1656098902034}
+ {:block/name "hotkeys",
+  :block/created-at 1656098905555,
+  :block/updated-at 1656098905555}
+ {:block/name "how does technology impact my thinking",
+  :block/created-at 1656098900783,
+  :block/updated-at 1656098900783}
+ {:block/name "how to break a bad habit",
+  :block/created-at 1656098900356,
+  :block/updated-at 1656098900356}
+ {:block/name "how to clarify this vault",
+  :block/created-at 1656098900534,
+  :block/updated-at 1656098900534}
+ {:block/name "how to create a good habit",
+  :block/created-at 1656098900386,
+  :block/updated-at 1656098900386}
  {:block/name "how to find your way",
   :block/created-at 1656098238426,
   :block/updated-at 1656098238426}
+ {:block/name "how to playtest ",
+  :block/created-at 1656098893243,
+  :block/updated-at 1656098893243}
+ {:block/name "how to read a research paper",
+  :block/created-at 1656098901020,
+  :block/updated-at 1656098901020}
+ {:block/name
+  "how to run a small social network site for your friends#^b05bc8",
+  :block/created-at 1656098901885,
+  :block/updated-at 1656098901885}
+ {:block/name "how to three",
+  :block/created-at 1656098900753,
+  :block/updated-at 1656098900753}
+ {:block/name "how to three.js",
+  :block/created-at 1656098906355,
+  :block/updated-at 1656098906355}
+ {:block/name "how to three/js",
+  :block/created-at 1656098900752,
+  :block/updated-at 1656098900752}
+ {:block/name "how to track objects in three",
+  :block/created-at 1656098901055,
+  :block/updated-at 1656098901055}
+ {:block/name "how to track objects in three.js",
+  :block/created-at 1656098900750,
+  :block/updated-at 1656098900750}
+ {:block/name "how to track objects in three/js",
+  :block/created-at 1656098901054,
+  :block/updated-at 1656098901054}
+ {:block/name "humans",
+  :block/created-at 1656098906269,
+  :block/updated-at 1656098906269}
+ {:block/name "humans are bad at living with uncertainty",
+  :block/created-at 1656098890926,
+  :block/updated-at 1656098890926}
+ {:block/name "humans are bad at understanding exponential trends",
+  :block/created-at 1656098900820,
+  :block/updated-at 1656098900820}
+ {:block/name "humans are linear thinkers",
+  :block/created-at 1656098890929,
+  :block/updated-at 1656098890929}
+ {:block/name "hyperobject",
+  :block/created-at 1656098900918,
+  :block/updated-at 1656098900918}
+ {:block/name "hyperobjects",
+  :block/created-at 1656098902287,
+  :block/updated-at 1656098902287}
+ {:block/name "hypertext gardens",
+  :block/created-at 1656098891890,
+  :block/updated-at 1656098891890}
+ {:block/name "hypochondira as an epigentic phenomenonn",
+  :block/created-at 1656098900937,
+  :block/updated-at 1656098900937}
+ {:block/name "hypochondria",
+  :block/created-at 1656098890453,
+  :block/updated-at 1656098890453}
+ {:block/name "i am stuck on build a town",
+  :block/created-at 1656098906731,
+  :block/updated-at 1656098906731}
+ {:block/name "i am writing myself into existence",
+  :block/created-at 1656098906465,
+  :block/updated-at 1656098906465}
+ {:block/name "i cannot control time",
+  :block/created-at 1656098900891,
+  :block/updated-at 1656098900891}
+ {:block/name "i2c",
+  :block/created-at 1656098903239,
+  :block/updated-at 1656098903239}
+ {:block/name "ice cube sliders",
+  :block/created-at 1656098893511,
+  :block/updated-at 1656098893511}
+ {:block/name "icm",
+  :block/created-at 1656098908455,
+  :block/updated-at 1656098908455}
+ {:block/name "idea",
+  :block/created-at 1656098891972,
+  :block/updated-at 1656098891972}
+ {:block/name "idea for a generative ttrpg",
+  :block/created-at 1656098893567,
+  :block/updated-at 1656098893567}
+ {:block/name "idea/code",
+  :block/created-at 1656098901871,
+  :block/updated-at 1656098901871}
+ {:block/name "idea/game",
+  :block/created-at 1656098904174,
+  :block/updated-at 1656098904174}
+ {:block/name "idea]",
+  :block/created-at 1656098893572,
+  :block/updated-at 1656098893572}
+ {:block/name "ideal virtual field trip teacher controls",
+  :block/created-at 1656098891594,
+  :block/updated-at 1656098891594}
+ {:block/name
+  "ideal virtual field trip teacher controls|teacher controls",
+  :block/created-at 1656098895340,
+  :block/updated-at 1656098895340}
+ {:block/name "ideas",
+  :block/created-at 1656098905722,
+  :block/updated-at 1656098905722}
+ {:block/name "ideas on 2021-04-08",
+  :block/created-at 1656098906556,
+  :block/updated-at 1656098906556}
+ {:block/name "ideas on 2021-04-08#^hkb0fat",
+  :block/created-at 1656098891520,
+  :block/updated-at 1656098891520}
+ {:block/name "ideas on geology",
+  :block/created-at 1656098893093,
+  :block/updated-at 1656098893093}
+ {:block/name
+  "ideas on geology#when all the continents were different",
+  :block/created-at 1656098890794,
+  :block/updated-at 1656098890794}
+ {:block/name "identity",
+  :block/created-at 1656098906268,
+  :block/updated-at 1656098906268}
+ {:block/name "idiosyncrasies of three",
+  :block/created-at 1656098908587,
+  :block/updated-at 1656098908587}
+ {:block/name "idiosyncrasies of three.js",
+  :block/created-at 1656098906356,
+  :block/updated-at 1656098906356}
+ {:block/name "idiosyncrasies of three/js",
+  :block/created-at 1656098908587,
+  :block/updated-at 1656098908587}
+ {:block/name "img_0004.jpeg",
+  :block/created-at 1656098903306,
+  :block/updated-at 1656098903306}
+ {:block/name "img_4464.jpg",
+  :block/created-at 1656098896764,
+  :block/updated-at 1656098896764}
+ {:block/name "img_4650.jpg",
+  :block/created-at 1656098906616,
+  :block/updated-at 1656098906616}
+ {:block/name "img_4855.jpg",
+  :block/created-at 1656098896639,
+  :block/updated-at 1656098896639}
+ {:block/name "img_4856.jpg",
+  :block/created-at 1656098896638,
+  :block/updated-at 1656098896638}
+ {:block/name "immersive experience",
+  :block/created-at 1656098897568,
+  :block/updated-at 1656098897568}
+ {:block/name "important",
+  :block/created-at 1656098905721,
+  :block/updated-at 1656098905721}
+ {:block/name "in reverance of the sun",
+  :block/created-at 1656098893516,
+  :block/updated-at 1656098893516}
+ {:block/name "in suspect terrain",
+  :block/created-at 1656098904388,
+  :block/updated-at 1656098904388}
+ {:block/name "in the valley and finding a center",
+  :block/created-at 1656098893143,
+  :block/updated-at 1656098893143}
+ {:block/name "in the valley and finding a center#^56bcc8",
+  :block/created-at 1656098893610,
+  :block/updated-at 1656098893610}
+ {:block/name "in the valley and finding a center#^576844",
+  :block/created-at 1656098893608,
+  :block/updated-at 1656098893608}
+ {:block/name "in the valley and finding a center#^9d50be",
+  :block/created-at 1656098893610,
+  :block/updated-at 1656098893610}
  {:block/name "in-progress",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
+ {:block/name "incompleteness",
+  :block/created-at 1656098890924,
+  :block/updated-at 1656098890924}
+ {:block/name "incongruous things from time",
+  :block/created-at 1656098892868,
+  :block/updated-at 1656098892868}
+ {:block/name "incongruous things from time v1",
+  :block/created-at 1656098892867,
+  :block/updated-at 1656098892867}
+ {:block/name "index",
+  :block/created-at 1656098901121,
+  :block/updated-at 1656098901121}
+ {:block/name "index notes",
+  :block/created-at 1656098901119,
+  :block/updated-at 1656098901119}
+ {:block/name "inflation",
+  :block/created-at 1656098902839,
+  :block/updated-at 1656098902839}
+ {:block/name "information",
+  :block/created-at 1656098891473,
+  :block/updated-at 1656098891473}
+ {:block/name "information flows",
+  :block/created-at 1656098897016,
+  :block/updated-at 1656098897016}
+ {:block/name "information theory",
+  :block/created-at 1656098890967,
+  :block/updated-at 1656098890967}
+ {:block/name "infromation theory",
+  :block/created-at 1656098891697,
+  :block/updated-at 1656098891697}
+ {:block/name "insects",
+  :block/created-at 1656098890825,
+  :block/updated-at 1656098890825}
+ {:block/name "instagram",
+  :block/created-at 1656098893633,
+  :block/updated-at 1656098893633}
+ {:block/name "instagram post - 10.png",
+  :block/created-at 1656098893482,
+  :block/updated-at 1656098893482}
+ {:block/name "instagram post - 11.png",
+  :block/created-at 1656098893481,
+  :block/updated-at 1656098893481}
+ {:block/name "instagram post - 12.png",
+  :block/created-at 1656098893481,
+  :block/updated-at 1656098893481}
+ {:block/name "instagram post - 13.png",
+  :block/created-at 1656098893480,
+  :block/updated-at 1656098893480}
+ {:block/name "instagram post - 14.png",
+  :block/created-at 1656098893480,
+  :block/updated-at 1656098893480}
+ {:block/name "instagram post - 2.png",
+  :block/created-at 1656098895434,
+  :block/updated-at 1656098895434}
+ {:block/name "instagram post - 3.png",
+  :block/created-at 1656098895433,
+  :block/updated-at 1656098895433}
+ {:block/name "instagram post - 4.png",
+  :block/created-at 1656098895433,
+  :block/updated-at 1656098895433}
+ {:block/name "instagram post - 5.png",
+  :block/created-at 1656098893484,
+  :block/updated-at 1656098893484}
+ {:block/name "instagram post - 6.png",
+  :block/created-at 1656098893484,
+  :block/updated-at 1656098893484}
+ {:block/name "instagram post - 7.png",
+  :block/created-at 1656098893483,
+  :block/updated-at 1656098893483}
+ {:block/name "instagram post - 8.png",
+  :block/created-at 1656098893483,
+  :block/updated-at 1656098893483}
+ {:block/name "instagram post - 9.png",
+  :block/created-at 1656098893482,
+  :block/updated-at 1656098893482}
+ {:block/name "interactive fiction",
+  :block/created-at 1656098905472,
+  :block/updated-at 1656098905472}
+ {:block/name "interactive systems",
+  :block/created-at 1656098900787,
+  :block/updated-at 1656098900787}
+ {:block/name "internet service providers",
+  :block/created-at 1656098892532,
+  :block/updated-at 1656098892532}
+ {:block/name "internet service providers|isps",
+  :block/created-at 1656098892531,
+  :block/updated-at 1656098892531}
  {:block/name "interoperable",
   :block/created-at 1656098238646,
   :block/updated-at 1656098238646}
+ {:block/name "invention",
+  :block/created-at 1656098904523,
+  :block/updated-at 1656098904523}
+ {:block/name "invisible boundaries",
+  :block/created-at 1656098901172,
+  :block/updated-at 1656098901172}
  {:block/name "ipfs",
   :block/created-at 1656098238640,
   :block/updated-at 1656098238640}
+ {:block/name "it feels hard to focus here",
+  :block/created-at 1656098901215,
+  :block/updated-at 1656098901215}
+ {:block/name
+  "it is easier to imagine the end of the world than the end of capitalism",
+  :block/created-at 1656098890915,
+  :block/updated-at 1656098890915}
+ {:block/name "iteration",
+  :block/created-at 1656098891489,
+  :block/updated-at 1656098891489}
+ {:block/name "itft v1 playtest",
+  :block/created-at 1656098892954,
+  :block/updated-at 1656098892954}
+ {:block/name "itp",
+  :block/created-at 1656098890461,
+  :block/updated-at 1656098890461}
+ {:block/name "itp alum",
+  :block/created-at 1656098903719,
+  :block/updated-at 1656098903719}
+ {:block/name "itp thesis",
+  :block/created-at 1656098901092,
+  :block/updated-at 1656098901092}
+ {:block/name "itp/100days",
+  :block/created-at 1656098893217,
+  :block/updated-at 1656098893217}
+ {:block/name "itp/100days/blog",
+  :block/created-at 1656098893217,
+  :block/updated-at 1656098893217}
+ {:block/name "itp/100days/blog/games i've made so far",
+  :block/created-at 1656098893634,
+  :block/updated-at 1656098893634}
+ {:block/name "itp/100days/blog/reflections",
+  :block/created-at 1656098893224,
+  :block/updated-at 1656098893224}
+ {:block/name "itp/100days/blog/reflections/100 days of making games",
+  :block/created-at 1656098893221,
+  :block/updated-at 1656098893221}
+ {:block/name "itp/100days/blog/thegames",
+  :block/created-at 1656098893218,
+  :block/updated-at 1656098893218}
+ {:block/name "itp/100days/blog/thegames/100 days of making games",
+  :block/created-at 1656098893571,
+  :block/updated-at 1656098893571}
+ {:block/name
+  "itp/100days/blog/thegames/adjustments to my 100 days of making process",
+  :block/created-at 1656098893954,
+  :block/updated-at 1656098893954}
+ {:block/name "itp/100days/blog/thegames/assets",
+  :block/created-at 1656098895437,
+  :block/updated-at 1656098895437}
+ {:block/name "itp/100days/blog/thegames/assets/dontgetsickpics",
+  :block/created-at 1656098895438,
+  :block/updated-at 1656098895438}
+ {:block/name
+  "itp/100days/blog/thegames/assets/dontgetsickpics/instagram post - 1.png",
+  :block/created-at 1656098895434,
+  :block/updated-at 1656098895434}
+ {:block/name
+  "itp/100days/blog/thegames/sigil story playtest 2021-02-13",
+  :block/created-at 1656098893216,
+  :block/updated-at 1656098893216}
+ {:block/name "itp/class",
+  :block/created-at 1656098891597,
+  :block/updated-at 1656098891597}
+ {:block/name "itp/class/blog",
+  :block/created-at 1656098893027,
+  :block/updated-at 1656098893027}
+ {:block/name "itp/class/notes",
+  :block/created-at 1656098891596,
+  :block/updated-at 1656098891596}
+ {:block/name "itp/notes",
+  :block/created-at 1656098902693,
+  :block/updated-at 1656098902693}
+ {:block/name "itp/thesis",
+  :block/created-at 1656098890775,
+  :block/updated-at 1656098890775}
+ {:block/name "itp/thesis]",
+  :block/created-at 1656098906669,
+  :block/updated-at 1656098906669}
+ {:block/name "itp100days",
+  :block/created-at 1656098895284,
+  :block/updated-at 1656098895284}
+ {:block/name "james watt",
+  :block/created-at 1656098892590,
+  :block/updated-at 1656098892590}
+ {:block/name "javascript",
+  :block/created-at 1656098902072,
+  :block/updated-at 1656098902072}
+ {:block/name "javascript libraries",
+  :block/created-at 1656098901309,
+  :block/updated-at 1656098901309}
+ {:block/name "jazz moves from future to past",
+  :block/created-at 1656098901324,
+  :block/updated-at 1656098901324}
  {:block/name "john bezark",
   :block/created-at 1656098238413,
   :block/updated-at 1656098238413}
+ {:block/name "john mcphee",
+  :block/created-at 1656098901300,
+  :block/updated-at 1656098901300}
+ {:block/name "john mcphee’",
+  :block/created-at 1656098891825,
+  :block/updated-at 1656098891825}
+ {:block/name "joule",
+  :block/created-at 1656098892115,
+  :block/updated-at 1656098892115}
+ {:block/name "journal from 2050",
+  :block/created-at 1656098901362,
+  :block/updated-at 1656098901362}
+ {:block/name "journaling",
+  :block/created-at 1656098906025,
+  :block/updated-at 1656098906025}
+ {:block/name "js",
+  :block/created-at 1656098891181,
+  :block/updated-at 1656098891181}
+ {:block/name "js class",
+  :block/created-at 1656098901285,
+  :block/updated-at 1656098901285}
  {:block/name "jun 24th, 2022",
   :block/created-at 1656098242384,
   :block/updated-at 1656098242384}
+ {:block/name "keword notes",
+  :block/created-at 1656098901433,
+  :block/updated-at 1656098901433}
+ {:block/name "key actions of my vault",
+  :block/created-at 1656098900523,
+  :block/updated-at 1656098900523}
+ {:block/name "keyboard",
+  :block/created-at 1656098900656,
+  :block/updated-at 1656098900656}
+ {:block/name "kinetic project - wind powered website",
+  :block/created-at 1656098901968,
+  :block/updated-at 1656098901968}
+ {:block/name "kinetic project - wind powered website|kinetic website",
+  :block/created-at 1656098903720,
+  :block/updated-at 1656098903720}
+ {:block/name "knowledge graph",
+  :block/created-at 1656098901447,
+  :block/updated-at 1656098901447}
+ {:block/name "lammas larp",
+  :block/created-at 1656098892827,
+  :block/updated-at 1656098892827}
+ {:block/name "land ordinance of 1785",
+  :block/created-at 1656098891103,
+  :block/updated-at 1656098891103}
+ {:block/name "landscapes",
+  :block/created-at 1656098901837,
+  :block/updated-at 1656098901837}
+ {:block/name "language",
+  :block/created-at 1656098905349,
+  :block/updated-at 1656098905349}
+ {:block/name "larp",
+  :block/created-at 1656098897500,
+  :block/updated-at 1656098897500}
+ {:block/name "last 7 games",
+  :block/created-at 1656098893146,
+  :block/updated-at 1656098893146}
+ {:block/name "last cube on the rube",
+  :block/created-at 1656098893522,
+  :block/updated-at 1656098893522}
  {:block/name "later",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "layla f",
+  :block/created-at 1656098901472,
+  :block/updated-at 1656098901472}
+ {:block/name "layla f/ saad",
+  :block/created-at 1656098901472,
+  :block/updated-at 1656098901472}
+ {:block/name "learning",
+  :block/created-at 1656098904772,
+  :block/updated-at 1656098904772}
+ {:block/name "learning github",
+  :block/created-at 1656098901550,
+  :block/updated-at 1656098901550}
+ {:block/name "learning obsidian",
+  :block/created-at 1656098901490,
+  :block/updated-at 1656098901490}
+ {:block/name "left over questions from end of fall semsester",
+  :block/created-at 1656098901590,
+  :block/updated-at 1656098901590}
+ {:block/name "legacy games",
+  :block/created-at 1656098891398,
+  :block/updated-at 1656098891398}
+ {:block/name "legacy life among the ruins",
+  :block/created-at 1656098892905,
+  :block/updated-at 1656098892905}
+ {:block/name "legibility of a message",
+  :block/created-at 1656098901199,
+  :block/updated-at 1656098901199}
+ {:block/name "length",
+  :block/created-at 1656098892116,
+  :block/updated-at 1656098892116}
+ {:block/name "letter - 1 1.png",
+  :block/created-at 1656098896609,
+  :block/updated-at 1656098896609}
+ {:block/name "letter writing rpg",
+  :block/created-at 1656098897431,
+  :block/updated-at 1656098897431}
+ {:block/name "library",
+  :block/created-at 1656098906353,
+  :block/updated-at 1656098906353}
+ {:block/name "life",
+  :block/created-at 1656098892136,
+  :block/updated-at 1656098892136}
+ {:block/name "light cones",
+  :block/created-at 1656098901752,
+  :block/updated-at 1656098901752}
+ {:block/name "limited evidence creates limited worldviews",
+  :block/created-at 1656098892878,
+  :block/updated-at 1656098892878}
+ {:block/name "linear",
+  :block/created-at 1656098897175,
+  :block/updated-at 1656098897175}
  {:block/name "linked references",
   :block/created-at 1656098238427,
   :block/updated-at 1656098238427}
  {:block/name "links",
   :block/created-at 1655828541197,
   :block/updated-at 1655828541197}
+ {:block/name "linux",
+  :block/created-at 1656098901621,
+  :block/updated-at 1656098901621}
+ {:block/name "linux command line",
+  :block/created-at 1656098901623,
+  :block/updated-at 1656098901623}
+ {:block/name "literature notes",
+  :block/created-at 1656098901706,
+  :block/updated-at 1656098901706}
+ {:block/name "live coding",
+  :block/created-at 1656098901735,
+  :block/updated-at 1656098901735}
+ {:block/name "live coding in obsidian",
+  :block/created-at 1656098901729,
+  :block/updated-at 1656098901729}
+ {:block/name "logic",
+  :block/created-at 1656098905352,
+  :block/updated-at 1656098905352}
+ {:block/name "logistic map",
+  :block/created-at 1656098890966,
+  :block/updated-at 1656098890966}
  {:block/name "logseq",
   :block/created-at 1655828541196,
   :block/updated-at 1655828541196}
+ {:block/name "long term virtual field trip goals",
+  :block/created-at 1656098891180,
+  :block/updated-at 1656098891180}
+ {:block/name "machine learning",
+  :block/created-at 1656098892101,
+  :block/updated-at 1656098892101}
+ {:block/name "macro",
+  :block/created-at 1656098891272,
+  :block/updated-at 1656098891272}
+ {:block/name "maggie appleton",
+  :block/created-at 1656098891895,
+  :block/updated-at 1656098891895}
+ {:block/name "magical candy factory",
+  :block/created-at 1656098893383,
+  :block/updated-at 1656098893383}
+ {:block/name "magical candy factory - stats.jpg",
+  :block/created-at 1656098896681,
+  :block/updated-at 1656098896681}
+ {:block/name "magical candy factory playtest 2021-02-18",
+  :block/created-at 1656098893382,
+  :block/updated-at 1656098893382}
+ {:block/name "magical candy factory.png",
+  :block/created-at 1656098896686,
+  :block/updated-at 1656098896686}
+ {:block/name "make a game",
+  :block/created-at 1656098893479,
+  :block/updated-at 1656098893479}
+ {:block/name "make your own gears gears",
+  :block/created-at 1656098901816,
+  :block/updated-at 1656098901816}
+ {:block/name "making a rpg in three",
+  :block/created-at 1656098908615,
+  :block/updated-at 1656098908615}
+ {:block/name "making a rpg in three/js",
+  :block/created-at 1656098908614,
+  :block/updated-at 1656098908614}
+ {:block/name "making generative landscapes",
+  :block/created-at 1656098901835,
+  :block/updated-at 1656098901835}
+ {:block/name "making larger games",
+  :block/created-at 1656098893136,
+  :block/updated-at 1656098893136}
+ {:block/name "making money from nothing",
+  :block/created-at 1656098893517,
+  :block/updated-at 1656098893517}
+ {:block/name "making obsidian plugins",
+  :block/created-at 1656098902600,
+  :block/updated-at 1656098902600}
+ {:block/name "making things in markdown",
+  :block/created-at 1656098901868,
+  :block/updated-at 1656098901868}
+ {:block/name "manic markets",
+  :block/created-at 1656098893526,
+  :block/updated-at 1656098893526}
+ {:block/name "manicmarketexample.png",
+  :block/created-at 1656098896610,
+  :block/updated-at 1656098896610}
+ {:block/name "mantel poem",
+  :block/created-at 1656098901854,
+  :block/updated-at 1656098901854}
+ {:block/name "map",
+  :block/created-at 1656098890933,
+  :block/updated-at 1656098890933}
+ {:block/name "map]",
+  :block/created-at 1656098892775,
+  :block/updated-at 1656098892775}
+ {:block/name "margret mead",
+  :block/created-at 1656098903585,
+  :block/updated-at 1656098903585}
+ {:block/name "markdown",
+  :block/created-at 1656098902735,
+  :block/updated-at 1656098902735}
+ {:block/name "markets",
+  :block/created-at 1656098893432,
+  :block/updated-at 1656098893432}
+ {:block/name "mass incarceration",
+  :block/created-at 1656098902791,
+  :block/updated-at 1656098902791}
+ {:block/name "mastadon",
+  :block/created-at 1656098901883,
+  :block/updated-at 1656098901883}
+ {:block/name "math",
+  :block/created-at 1656098890964,
+  :block/updated-at 1656098890964}
  {:block/name "matrix",
   :block/created-at 1656098237994,
   :block/updated-at 1656098237994}
+ {:block/name "max",
+  :block/created-at 1656098901733,
+  :block/updated-at 1656098901733}
+ {:block/name "maxmsp",
+  :block/created-at 1656098901767,
+  :block/updated-at 1656098901767}
+ {:block/name "me",
+  :block/created-at 1656098891811,
+  :block/updated-at 1656098891811}
+ {:block/name "me and white supremacy",
+  :block/created-at 1656098901471,
+  :block/updated-at 1656098901471}
+ {:block/name "me/anxiety",
+  :block/created-at 1656098891810,
+  :block/updated-at 1656098891810}
+ {:block/name "me/anxiety/stressed",
+  :block/created-at 1656098895284,
+  :block/updated-at 1656098895284}
+ {:block/name "mechanics",
+  :block/created-at 1656098893436,
+  :block/updated-at 1656098893436}
+ {:block/name "mechanics| mechanic",
+  :block/created-at 1656098891398,
+  :block/updated-at 1656098891398}
+ {:block/name "media",
+  :block/created-at 1656098902840,
+  :block/updated-at 1656098902840}
+ {:block/name "media soup",
+  :block/created-at 1656098906005,
+  :block/updated-at 1656098906005}
+ {:block/name "mediastreams",
+  :block/created-at 1656098905855,
+  :block/updated-at 1656098905855}
+ {:block/name "meet me rooms",
+  :block/created-at 1656098892469,
+  :block/updated-at 1656098892469}
+ {:block/name "meeting with aidan",
+  :block/created-at 1656098901966,
+  :block/updated-at 1656098901966}
+ {:block/name "megagame",
+  :block/created-at 1656098893348,
+  :block/updated-at 1656098893348}
+ {:block/name "memex",
+  :block/created-at 1656098901901,
+  :block/updated-at 1656098901901}
+ {:block/name "memory",
+  :block/created-at 1656098905351,
+  :block/updated-at 1656098905351}
+ {:block/name "mermaid charts",
+  :block/created-at 1656098891519,
+  :block/updated-at 1656098891519}
+ {:block/name "mesh networks",
+  :block/created-at 1656098892478,
+  :block/updated-at 1656098892478}
+ {:block/name "metaverse",
+  :block/created-at 1656098902036,
+  :block/updated-at 1656098902036}
+ {:block/name "meter",
+  :block/created-at 1656098901415,
+  :block/updated-at 1656098901415}
+ {:block/name "methane",
+  :block/created-at 1656098902004,
+  :block/updated-at 1656098902004}
+ {:block/name "micro",
+  :block/created-at 1656098891537,
+  :block/updated-at 1656098891537}
+ {:block/name "micro]",
+  :block/created-at 1656098890827,
+  :block/updated-at 1656098890827}
+ {:block/name "microcontrollers",
+  :block/created-at 1656098903240,
+  :block/updated-at 1656098903240}
+ {:block/name "microknowledge",
+  :block/created-at 1656098902141,
+  :block/updated-at 1656098902141}
+ {:block/name "microstates",
+  :block/created-at 1656098892192,
+  :block/updated-at 1656098892192}
+ {:block/name "mistaking allergies for covid",
+  :block/created-at 1656098891510,
+  :block/updated-at 1656098891510}
+ {:block/name "mistaking motion for action",
+  :block/created-at 1656098897016,
+  :block/updated-at 1656098897016}
+ {:block/name "misunderstanding the industrial revolution",
+  :block/created-at 1656098900215,
+  :block/updated-at 1656098900215}
+ {:block/name "ml for web",
+  :block/created-at 1656098902167,
+  :block/updated-at 1656098902167}
+ {:block/name "ml5",
+  :block/created-at 1656098901314,
+  :block/updated-at 1656098901314}
+ {:block/name "money",
+  :block/created-at 1656098891238,
+  :block/updated-at 1656098891238}
+ {:block/name "money is energy",
+  :block/created-at 1656098891244,
+  :block/updated-at 1656098891244}
+ {:block/name "monitor",
+  :block/created-at 1656098900656,
+  :block/updated-at 1656098900656}
+ {:block/name "monster coference playtest 2021-02-19",
+  :block/created-at 1656098893699,
+  :block/updated-at 1656098893699}
+ {:block/name "monster conference",
+  :block/created-at 1656098893521,
+  :block/updated-at 1656098893521}
+ {:block/name "monster conference brainstorming",
+  :block/created-at 1656098899845,
+  :block/updated-at 1656098899845}
+ {:block/name "motors",
+  :block/created-at 1656098902238,
+  :block/updated-at 1656098902238}
+ {:block/name "move along poem",
+  :block/created-at 1656098902360,
+  :block/updated-at 1656098902360}
+ {:block/name "mqtt",
+  :block/created-at 1656098902406,
+  :block/updated-at 1656098902406}
+ {:block/name "mso",
+  :block/created-at 1656098904171,
+  :block/updated-at 1656098904171}
+ {:block/name "multiplayer shared knowledge",
+  :block/created-at 1656098903466,
+  :block/updated-at 1656098903466}
+ {:block/name "musings on emergent strategy",
+  :block/created-at 1656098902205,
+  :block/updated-at 1656098902205}
+ {:block/name "musings on patterns growth and time",
+  :block/created-at 1656098902299,
+  :block/updated-at 1656098902299}
+ {:block/name "musings on patterns growth and time#^zwn0k5g",
+  :block/created-at 1656098890919,
+  :block/updated-at 1656098890919}
+ {:block/name "musings on the emergence of my cat toy",
+  :block/created-at 1656098891997,
+  :block/updated-at 1656098891997}
+ {:block/name "mutual aid",
+  :block/created-at 1656098906414,
+  :block/updated-at 1656098906414}
+ {:block/name "mvp",
+  :block/created-at 1656098902370,
+  :block/updated-at 1656098902370}
+ {:block/name "my body",
+  :block/created-at 1656098900899,
+  :block/updated-at 1656098900899}
+ {:block/name "my first itp playtest",
+  :block/created-at 1656098893143,
+  :block/updated-at 1656098893143}
+ {:block/name "my first memory of  hypochondria",
+  :block/created-at 1656098900935,
+  :block/updated-at 1656098900935}
+ {:block/name "my microbiome",
+  :block/created-at 1656098904070,
+  :block/updated-at 1656098904070}
+ {:block/name "my mind",
+  :block/created-at 1656098900899,
+  :block/updated-at 1656098900899}
+ {:block/name "mystery house",
+  :block/created-at 1656098897567,
+  :block/updated-at 1656098897567}
+ {:block/name "natural gas",
+  :block/created-at 1656098902535,
+  :block/updated-at 1656098902535}
+ {:block/name "nature",
+  :block/created-at 1656098891848,
+  :block/updated-at 1656098891848}
+ {:block/name "negentropy",
+  :block/created-at 1656098906101,
+  :block/updated-at 1656098906101}
+ {:block/name "networks",
+  :block/created-at 1656098892484,
+  :block/updated-at 1656098892484}
+ {:block/name "networks hierarchies and note taking",
+  :block/created-at 1656098902454,
+  :block/updated-at 1656098902454}
+ {:block/name
+  "networks of new york#^881343|already screaming all the time",
+  :block/created-at 1656098892477,
+  :block/updated-at 1656098892477}
+ {:block/name "networks of new york#^ze9804",
+  :block/created-at 1656098901946,
+  :block/updated-at 1656098901946}
+ {:block/name "new media festivals",
+  :block/created-at 1656098902504,
+  :block/updated-at 1656098902504}
+ {:block/name "new york",
+  :block/created-at 1656098890460,
+  :block/updated-at 1656098890460}
+ {:block/name "new york city",
+  :block/created-at 1656098904069,
+  :block/updated-at 1656098904069}
+ {:block/name "news",
+  :block/created-at 1656098902839,
+  :block/updated-at 1656098902839}
+ {:block/name "newton",
+  :block/created-at 1656098892115,
+  :block/updated-at 1656098892115}
+ {:block/name "no one wants the first pancake",
+  :block/created-at 1656098906119,
+  :block/updated-at 1656098906119}
+ {:block/name "node",
+  :block/created-at 1656098902404,
+  :block/updated-at 1656098902404}
+ {:block/name "node.js",
+  :block/created-at 1656098901734,
+  :block/updated-at 1656098901734}
+ {:block/name "node|node.js",
+  :block/created-at 1656098903240,
+  :block/updated-at 1656098903240}
+ {:block/name "noise",
+  :block/created-at 1656098902552,
+  :block/updated-at 1656098902552}
+ {:block/name "note refactor",
+  :block/created-at 1656098906456,
+  :block/updated-at 1656098906456}
+ {:block/name "notes on design matters with seth godin",
+  :block/created-at 1656098892012,
+  :block/updated-at 1656098892012}
+ {:block/name "notes on energy and civilization smil#^09ac98",
+  :block/created-at 1656098891458,
+  :block/updated-at 1656098891458}
+ {:block/name "notes on energy and civilization smil#^3569c5",
+  :block/created-at 1656098891460,
+  :block/updated-at 1656098891460}
+ {:block/name "notes on energy and civilization smil#^a17760",
+  :block/created-at 1656098891460,
+  :block/updated-at 1656098891460}
+ {:block/name "notes on energy and civilization smil#^c736cd",
+  :block/created-at 1656098891459,
+  :block/updated-at 1656098891459}
+ {:block/name "notes on energy and civilization smil#jevons paradox",
+  :block/created-at 1656098891459,
+  :block/updated-at 1656098891459}
+ {:block/name "notes on itp thesis presentation 2021",
+  :block/created-at 1656098902690,
+  :block/updated-at 1656098902690}
+ {:block/name "notes on plasmodial improprieties",
+  :block/created-at 1656098892242,
+  :block/updated-at 1656098892242}
+ {:block/name "notes on plasmodial improprieties#^755f2a",
+  :block/created-at 1656098902149,
+  :block/updated-at 1656098902149}
+ {:block/name "notes on slime mold making music",
+  :block/created-at 1656098902583,
+  :block/updated-at 1656098902583}
+ {:block/name "notion",
+  :block/created-at 1656098890468,
+  :block/updated-at 1656098890468}
  {:block/name "now",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
+ {:block/name "now play this 2021",
+  :block/created-at 1656098902671,
+  :block/updated-at 1656098902671}
+ {:block/name "nyc mesh",
+  :block/created-at 1656098901944,
+  :block/updated-at 1656098901944}
+ {:block/name "nyu",
+  :block/created-at 1656098906006,
+  :block/updated-at 1656098906006}
+ {:block/name "nyudaily",
+  :block/created-at 1656098895283,
+  :block/updated-at 1656098895283}
+ {:block/name "oa legacy one-shot",
+  :block/created-at 1656098900969,
+  :block/updated-at 1656098900969}
+ {:block/name "oath",
+  :block/created-at 1656098891398,
+  :block/updated-at 1656098891398}
+ {:block/name "objective",
+  :block/created-at 1656098904125,
+  :block/updated-at 1656098904125}
+ {:block/name "obsidian",
+  :block/created-at 1656098891038,
+  :block/updated-at 1656098891038}
+ {:block/name "obsidian plugin ideas",
+  :block/created-at 1656098901496,
+  :block/updated-at 1656098901496}
+ {:block/name "obsidian plugin ideas#^2309f3",
+  :block/created-at 1656098906500,
+  :block/updated-at 1656098906500}
+ {:block/name "obsidian plugins",
+  :block/created-at 1656098901496,
+  :block/updated-at 1656098901496}
+ {:block/name "obsidian roundup 2021-08-28 - 20 bits",
+  :block/created-at 1656098901488,
+  :block/updated-at 1656098901488}
+ {:block/name "obsidian styling",
+  :block/created-at 1656098902643,
+  :block/updated-at 1656098902643}
+ {:block/name "obsidian to web export",
+  :block/created-at 1656098902709,
+  :block/updated-at 1656098902709}
+ {:block/name "obsidian-highlights",
+  :block/created-at 1656098891064,
+  :block/updated-at 1656098891064}
+ {:block/name "office hours shiff",
+  :block/created-at 1656098901835,
+  :block/updated-at 1656098901835}
+ {:block/name "office hours shiff#pixel checking",
+  :block/created-at 1656098901833,
+  :block/updated-at 1656098901833}
+ {:block/name "office hours shiff#resources",
+  :block/created-at 1656098901834,
+  :block/updated-at 1656098901834}
+ {:block/name "offrice hours with cezar",
+  :block/created-at 1656098901834,
+  :block/updated-at 1656098901834}
+ {:block/name "on the map",
+  :block/created-at 1656098891113,
+  :block/updated-at 1656098891113}
+ {:block/name "on the map cards.pdf|buildings deck",
+  :block/created-at 1656098906755,
+  :block/updated-at 1656098906755}
+ {:block/name "on the map playtest",
+  :block/created-at 1656098891100,
+  :block/updated-at 1656098891100}
+ {:block/name "open source",
+  :block/created-at 1656098902772,
+  :block/updated-at 1656098902772}
+ {:block/name "oppressive systems",
+  :block/created-at 1656098893279,
+  :block/updated-at 1656098893279}
+ {:block/name "oppressive systems|oppressive system",
+  :block/created-at 1656098903369,
+  :block/updated-at 1656098903369}
+ {:block/name "optimism as a practice",
+  :block/created-at 1656098902822,
+  :block/updated-at 1656098902822}
+ {:block/name "our need for narrative drives crisis",
+  :block/created-at 1656098902837,
+  :block/updated-at 1656098902837}
+ {:block/name "outside",
+  :block/created-at 1656098902424,
+  :block/updated-at 1656098902424}
+ {:block/name "overthrow the government",
+  :block/created-at 1656098893519,
+  :block/updated-at 1656098893519}
+ {:block/name "ownership",
+  :block/created-at 1656098891221,
+  :block/updated-at 1656098891221}
+ {:block/name "p5",
+  :block/created-at 1656098904305,
+  :block/updated-at 1656098904305}
+ {:block/name "p5 instance mode",
+  :block/created-at 1656098906136,
+  :block/updated-at 1656098906136}
+ {:block/name "p5 live media",
+  :block/created-at 1656098906137,
+  :block/updated-at 1656098906137}
+ {:block/name "p5.js",
+  :block/created-at 1656098901315,
+  :block/updated-at 1656098901315}
+ {:block/name "padied.jpg",
+  :block/created-at 1656098896988,
+  :block/updated-at 1656098896988}
  {:block/name "page property",
   :block/created-at 1655828541521,
   :block/updated-at 1655828541521}
  {:block/name "pages",
   :block/created-at 1656098238429,
   :block/updated-at 1656098238429}
+ {:block/name "pandemic",
+  :block/created-at 1656098890454,
+  :block/updated-at 1656098890454}
+ {:block/name "paradigm",
+  :block/created-at 1656098902970,
+  :block/updated-at 1656098902970}
+ {:block/name "park scavenveger hunt ideas",
+  :block/created-at 1656098892828,
+  :block/updated-at 1656098892828}
+ {:block/name "pasted image 20210129144956.png",
+  :block/created-at 1656098896614,
+  :block/updated-at 1656098896614}
+ {:block/name "pasted image 20210130192031.png",
+  :block/created-at 1656098895313,
+  :block/updated-at 1656098895313}
+ {:block/name "pasted image 20210130192312.png",
+  :block/created-at 1656098895312,
+  :block/updated-at 1656098895312}
+ {:block/name "pasted image 20210130192325.png",
+  :block/created-at 1656098895312,
+  :block/updated-at 1656098895312}
+ {:block/name "pasted image 20210130192344.png",
+  :block/created-at 1656098895311,
+  :block/updated-at 1656098895311}
+ {:block/name "pasted image 20210130192405.png",
+  :block/created-at 1656098895311,
+  :block/updated-at 1656098895311}
+ {:block/name "pasted image 20210131190022.png",
+  :block/created-at 1656098895311,
+  :block/updated-at 1656098895311}
+ {:block/name "pasted image 20210209145341.png",
+  :block/created-at 1656098893440,
+  :block/updated-at 1656098893440}
+ {:block/name "pasted image 20210218161835.png",
+  :block/created-at 1656098908586,
+  :block/updated-at 1656098908586}
+ {:block/name "pasted image 20210219165212.png",
+  :block/created-at 1656098893384,
+  :block/updated-at 1656098893384}
+ {:block/name "pasted image 20210219175615.png",
+  :block/created-at 1656098894007,
+  :block/updated-at 1656098894007}
+ {:block/name "pasted image 20210219180317.png",
+  :block/created-at 1656098894006,
+  :block/updated-at 1656098894006}
+ {:block/name "pasted image 20210219192301.png",
+  :block/created-at 1656098894003,
+  :block/updated-at 1656098894003}
+ {:block/name "pasted image 20210307192004.png",
+  :block/created-at 1656098903017,
+  :block/updated-at 1656098903017}
+ {:block/name "pasted image 20210314200628.png",
+  :block/created-at 1656098903006,
+  :block/updated-at 1656098903006}
+ {:block/name "pasted image 20210325152800.png",
+  :block/created-at 1656098893283,
+  :block/updated-at 1656098893283}
+ {:block/name "pasted image 20210404154845.png",
+  :block/created-at 1656098893888,
+  :block/updated-at 1656098893888}
+ {:block/name "pasted image 20210406212453.png",
+  :block/created-at 1656098903585,
+  :block/updated-at 1656098903585}
+ {:block/name "pasted image 20210412172137.png",
+  :block/created-at 1656098891462,
+  :block/updated-at 1656098891462}
+ {:block/name "patriarchal",
+  :block/created-at 1656098905074,
+  :block/updated-at 1656098905074}
+ {:block/name "patterns",
+  :block/created-at 1656098902290,
+  :block/updated-at 1656098902290}
+ {:block/name "pax",
+  :block/created-at 1656098897568,
+  :block/updated-at 1656098897568}
+ {:block/name "pcom",
+  :block/created-at 1656098902870,
+  :block/updated-at 1656098902870}
+ {:block/name "pcomp]",
+  :block/created-at 1656098902873,
+  :block/updated-at 1656098902873}
+ {:block/name "peer to peer",
+  :block/created-at 1656098902920,
+  :block/updated-at 1656098902920}
+ {:block/name "peer-to-peer",
+  :block/created-at 1656098905890,
+  :block/updated-at 1656098905890}
+ {:block/name "performance",
+  :block/created-at 1656098891331,
+  :block/updated-at 1656098891331}
+ {:block/name "permanent notes",
+  :block/created-at 1656098892210,
+  :block/updated-at 1656098892210}
+ {:block/name "person",
+  :block/created-at 1656098890678,
+  :block/updated-at 1656098890678}
+ {:block/name "person/author",
+  :block/created-at 1656098901302,
+  :block/updated-at 1656098901302}
+ {:block/name "person/pkm",
+  :block/created-at 1656098901802,
+  :block/updated-at 1656098901802}
+ {:block/name "philly",
+  :block/created-at 1656098890459,
+  :block/updated-at 1656098890459}
+ {:block/name "physics",
+  :block/created-at 1656098892191,
+  :block/updated-at 1656098892191}
+ {:block/name "pi cam",
+  :block/created-at 1656098903238,
+  :block/updated-at 1656098903238}
+ {:block/name "piggies to market",
+  :block/created-at 1656098893511,
+  :block/updated-at 1656098893511}
+ {:block/name "piggies to market playtest",
+  :block/created-at 1656098894034,
+  :block/updated-at 1656098894034}
+ {:block/name "piggies to market#buying animals|buying animals",
+  :block/created-at 1656098896639,
+  :block/updated-at 1656098896639}
+ {:block/name "pkm",
+  :block/created-at 1656098892211,
+  :block/updated-at 1656098892211}
+ {:block/name "pkm ref",
+  :block/created-at 1656098906233,
+  :block/updated-at 1656098906233}
+ {:block/name "pkm ref/pkm",
+  :block/created-at 1656098906232,
+  :block/updated-at 1656098906232}
  {:block/name "places to start",
   :block/created-at 1656098237973,
   :block/updated-at 1656098237973}
+ {:block/name "platform",
+  :block/created-at 1656098902970,
+  :block/updated-at 1656098902970}
+ {:block/name "platform obsessed",
+  :block/created-at 1656098902939,
+  :block/updated-at 1656098902939}
+ {:block/name "platforms are paradigms",
+  :block/created-at 1656098902967,
+  :block/updated-at 1656098902967}
+ {:block/name "plato's cave",
+  :block/created-at 1656098897061,
+  :block/updated-at 1656098897061}
+ {:block/name "play",
+  :block/created-at 1656098892720,
+  :block/updated-at 1656098892720}
+ {:block/name "playtest of ants royale 2021-03-19",
+  :block/created-at 1656098893701,
+  :block/updated-at 1656098893701}
+ {:block/name "playtest of virtual field trip",
+  :block/created-at 1656098903015,
+  :block/updated-at 1656098903015}
  {:block/name "plugin",
   :block/created-at 1655828541526,
   :block/updated-at 1655828541526}
+ {:block/name "podcasts",
+  :block/created-at 1656098904191,
+  :block/updated-at 1656098904191}
+ {:block/name "podcasts i should listen to",
+  :block/created-at 1656098902987,
+  :block/updated-at 1656098902987}
+ {:block/name "points",
+  :block/created-at 1656098893433,
+  :block/updated-at 1656098893433}
+ {:block/name "pop os",
+  :block/created-at 1656098892373,
+  :block/updated-at 1656098892373}
+ {:block/name "posix directory structure",
+  :block/created-at 1656098901622,
+  :block/updated-at 1656098901622}
  {:block/name "post",
   :block/created-at 1655828541633,
   :block/updated-at 1655828541633}
+ {:block/name "post-apocalypse",
+  :block/created-at 1656098898865,
+  :block/updated-at 1656098898865}
+ {:block/name "posture",
+  :block/created-at 1656098900655,
+  :block/updated-at 1656098900655}
+ {:block/name "potential energy",
+  :block/created-at 1656098900616,
+  :block/updated-at 1656098900616}
+ {:block/name "prediction as planning",
+  :block/created-at 1656098891971,
+  :block/updated-at 1656098891971}
+ {:block/name "prediction as planning syllabus",
+  :block/created-at 1656098903071,
+  :block/updated-at 1656098903071}
+ {:block/name "prelimary-assessment-uap-20210625.pdf",
+  :block/created-at 1656098905505,
+  :block/updated-at 1656098905505}
+ {:block/name "probabilistic processes",
+  :block/created-at 1656098891847,
+  :block/updated-at 1656098891847}
+ {:block/name "probability",
+  :block/created-at 1656098890599,
+  :block/updated-at 1656098890599}
+ {:block/name "procederal",
+  :block/created-at 1656098903088,
+  :block/updated-at 1656098903088}
+ {:block/name "process oriented",
+  :block/created-at 1656098893280,
+  :block/updated-at 1656098893280}
+ {:block/name "product oriented",
+  :block/created-at 1656098893281,
+  :block/updated-at 1656098893281}
+ {:block/name "programming",
+  :block/created-at 1656098902073,
+  :block/updated-at 1656098902073}
+ {:block/name "project",
+  :block/created-at 1656098890796,
+  :block/updated-at 1656098890796}
+ {:block/name "project/idea",
+  :block/created-at 1656098890795,
+  :block/updated-at 1656098890795}
+ {:block/name "projects on deck",
+  :block/created-at 1656098892014,
+  :block/updated-at 1656098892014}
+ {:block/name "proof of stake",
+  :block/created-at 1656098897497,
+  :block/updated-at 1656098897497}
+ {:block/name "proof of trust",
+  :block/created-at 1656098905036,
+  :block/updated-at 1656098905036}
+ {:block/name "proof of work",
+  :block/created-at 1656098891243,
+  :block/updated-at 1656098891243}
+ {:block/name "proportional  payment",
+  :block/created-at 1656098905039,
+  :block/updated-at 1656098905039}
+ {:block/name "proportional crypto currency",
+  :block/created-at 1656098897496,
+  :block/updated-at 1656098897496}
+ {:block/name "protocol",
+  :block/created-at 1656098902405,
+  :block/updated-at 1656098902405}
+ {:block/name "proximity chat",
+  :block/created-at 1656098903139,
+  :block/updated-at 1656098903139}
+ {:block/name "pyramid scheme",
+  :block/created-at 1656098892510,
+  :block/updated-at 1656098892510}
+ {:block/name "quantum",
+  :block/created-at 1656098890924,
+  :block/updated-at 1656098890924}
+ {:block/name "quantum mechanics",
+  :block/created-at 1656098890970,
+  :block/updated-at 1656098890970}
  {:block/name "question",
   :block/created-at 1655828541635,
   :block/updated-at 1655828541635}
+ {:block/name "questions about what is a narrative",
+  :block/created-at 1656098903188,
+  :block/updated-at 1656098903188}
  {:block/name "quick capture",
   :block/created-at 1655828541162,
   :block/updated-at 1655828541162}
+ {:block/name "qwerty",
+  :block/created-at 1656098900657,
+  :block/updated-at 1656098900657}
+ {:block/name "r and j game",
+  :block/created-at 1656098899982,
+  :block/updated-at 1656098899982}
+ {:block/name "race to build a town",
+  :block/created-at 1656098891112,
+  :block/updated-at 1656098891112}
+ {:block/name "racist",
+  :block/created-at 1656098891222,
+  :block/updated-at 1656098891222}
+ {:block/name "random",
+  :block/created-at 1656098890596,
+  :block/updated-at 1656098890596}
+ {:block/name "random walks",
+  :block/created-at 1656098905718,
+  :block/updated-at 1656098905718}
+ {:block/name "randomness",
+  :block/created-at 1656098903187,
+  :block/updated-at 1656098903187}
+ {:block/name "rapid systemic collapse",
+  :block/created-at 1656098900636,
+  :block/updated-at 1656098900636}
+ {:block/name "raspberry pi",
+  :block/created-at 1656098893026,
+  :block/updated-at 1656098893026}
+ {:block/name "rate",
+  :block/created-at 1656098900823,
+  :block/updated-at 1656098900823}
+ {:block/name "rate of change",
+  :block/created-at 1656098900821,
+  :block/updated-at 1656098900821}
+ {:block/name "re-read",
+  :block/created-at 1656098905719,
+  :block/updated-at 1656098905719}
+ {:block/name "reaction to build a town",
+  :block/created-at 1656098891096,
+  :block/updated-at 1656098891096}
+ {:block/name "reactions to mirrorworld",
+  :block/created-at 1656098902036,
+  :block/updated-at 1656098902036}
+ {:block/name "read",
+  :block/created-at 1656098901445,
+  :block/updated-at 1656098901445}
  {:block/name "readme",
   :block/created-at 1655491669117,
   :block/updated-at 1655491669117}
+ {:block/name "real growth takes time",
+  :block/created-at 1656098903305,
+  :block/updated-at 1656098903305}
+ {:block/name "reassurance is futile",
+  :block/created-at 1656098893303,
+  :block/updated-at 1656098893303}
+ {:block/name "rebecca solnit",
+  :block/created-at 1656098903270,
+  :block/updated-at 1656098903270}
+ {:block/name "recording 20210213144131.webm",
+  :block/created-at 1656098893953,
+  :block/updated-at 1656098893953}
+ {:block/name "recording 20210329134735.webm",
+  :block/created-at 1656098893682,
+  :block/updated-at 1656098893682}
+ {:block/name "recording 20210412144313.webm",
+  :block/created-at 1656098906901,
+  :block/updated-at 1656098906901}
+ {:block/name "recording 20210418142137.webm",
+  :block/created-at 1656098894034,
+  :block/updated-at 1656098894034}
+ {:block/name "ref",
+  :block/created-at 1656098890404,
+  :block/updated-at 1656098890404}
+ {:block/name "ref ]",
+  :block/created-at 1656098908533,
+  :block/updated-at 1656098908533}
+ {:block/name "ref/bio",
+  :block/created-at 1656098892168,
+  :block/updated-at 1656098892168}
+ {:block/name "ref/book",
+  :block/created-at 1656098893037,
+  :block/updated-at 1656098893037}
+ {:block/name "ref/chem",
+  :block/created-at 1656098902007,
+  :block/updated-at 1656098902007}
+ {:block/name "ref/coding",
+  :block/created-at 1656098901947,
+  :block/updated-at 1656098901947}
+ {:block/name "ref/env",
+  :block/created-at 1656098902538,
+  :block/updated-at 1656098902538}
+ {:block/name "ref/fab",
+  :block/created-at 1656098901818,
+  :block/updated-at 1656098901818}
+ {:block/name "ref/game",
+  :block/created-at 1656098892798,
+  :block/updated-at 1656098892798}
+ {:block/name "ref/hci",
+  :block/created-at 1656098905819,
+  :block/updated-at 1656098905819}
+ {:block/name "ref/js",
+  :block/created-at 1656098900760,
+  :block/updated-at 1656098900760}
+ {:block/name "ref/js ]",
+  :block/created-at 1656098891686,
+  :block/updated-at 1656098891686}
+ {:block/name "ref/js/p5",
+  :block/created-at 1656098906137,
+  :block/updated-at 1656098906137}
+ {:block/name "ref/js/p5/lib",
+  :block/created-at 1656098906249,
+  :block/updated-at 1656098906249}
+ {:block/name "ref/js/three",
+  :block/created-at 1656098900757,
+  :block/updated-at 1656098900757}
+ {:block/name "ref/lib",
+  :block/created-at 1656098905867,
+  :block/updated-at 1656098905867}
+ {:block/name "ref/linux",
+  :block/created-at 1656098901624,
+  :block/updated-at 1656098901624}
+ {:block/name "ref/linux ]",
+  :block/created-at 1656098903249,
+  :block/updated-at 1656098903249}
+ {:block/name "ref/linux/popos",
+  :block/created-at 1656098903057,
+  :block/updated-at 1656098903057}
+ {:block/name "ref/math",
+  :block/created-at 1656098902133,
+  :block/updated-at 1656098902133}
+ {:block/name "ref/ml",
+  :block/created-at 1656098902169,
+  :block/updated-at 1656098902169}
+ {:block/name "ref/obsidian",
+  :block/created-at 1656098891725,
+  :block/updated-at 1656098891725}
+ {:block/name "ref/obsidian/plugin",
+  :block/created-at 1656098891724,
+  :block/updated-at 1656098891724}
+ {:block/name "ref/obsidian/plugins",
+  :block/created-at 1656098902601,
+  :block/updated-at 1656098902601}
+ {:block/name "ref/pcom",
+  :block/created-at 1656098890402,
+  :block/updated-at 1656098890402}
+ {:block/name "ref/pcom/motors",
+  :block/created-at 1656098903886,
+  :block/updated-at 1656098903886}
+ {:block/name "ref/phys",
+  :block/created-at 1656098891204,
+  :block/updated-at 1656098891204}
+ {:block/name "ref/phys/energy",
+  :block/created-at 1656098891202,
+  :block/updated-at 1656098891202}
+ {:block/name "ref/pkm",
+  :block/created-at 1656098891723,
+  :block/updated-at 1656098891723}
+ {:block/name "ref/protocol",
+  :block/created-at 1656098902407,
+  :block/updated-at 1656098902407}
+ {:block/name "ref/raspi",
+  :block/created-at 1656098903516,
+  :block/updated-at 1656098903516}
+ {:block/name "ref/software",
+  :block/created-at 1656098905473,
+  :block/updated-at 1656098905473}
+ {:block/name "ref/tech",
+  :block/created-at 1656098903732,
+  :block/updated-at 1656098903732}
+ {:block/name "ref/tech/solar",
+  :block/created-at 1656098903723,
+  :block/updated-at 1656098903723}
+ {:block/name "ref/web",
+  :block/created-at 1656098891182,
+  :block/updated-at 1656098891182}
+ {:block/name "ref/web/css",
+  :block/created-at 1656098891522,
+  :block/updated-at 1656098891522}
+ {:block/name "refinements for 50 games",
+  :block/created-at 1656098894082,
+  :block/updated-at 1656098894082}
+ {:block/name "reganism",
+  :block/created-at 1656098905418,
+  :block/updated-at 1656098905418}
+ {:block/name "regex",
+  :block/created-at 1656098903320,
+  :block/updated-at 1656098903320}
+ {:block/name "relatavity",
+  :block/created-at 1656098904520,
+  :block/updated-at 1656098904520}
+ {:block/name "relationships are spectrums",
+  :block/created-at 1656098903351,
+  :block/updated-at 1656098903351}
+ {:block/name "relays",
+  :block/created-at 1656098902868,
+  :block/updated-at 1656098902868}
+ {:block/name "removing good and bad from my voacubulary",
+  :block/created-at 1656098903368,
+  :block/updated-at 1656098903368}
+ {:block/name "reparations",
+  :block/created-at 1656098906414,
+  :block/updated-at 1656098906414}
+ {:block/name "resource management",
+  :block/created-at 1656098897087,
+  :block/updated-at 1656098897087}
+ {:block/name "resource-management",
+  :block/created-at 1656098906667,
+  :block/updated-at 1656098906667}
+ {:block/name "resources",
+  :block/created-at 1656098891826,
+  :block/updated-at 1656098891826}
+ {:block/name "resources/highlights",
+  :block/created-at 1656098892511,
+  :block/updated-at 1656098892511}
+ {:block/name "resources/highlights/emergent strategy",
+  :block/created-at 1656098892509,
+  :block/updated-at 1656098892509}
+ {:block/name "resources/readwise",
+  :block/created-at 1656098891827,
+  :block/updated-at 1656098891827}
+ {:block/name "resources/readwise/books",
+  :block/created-at 1656098891828,
+  :block/updated-at 1656098891828}
+ {:block/name "resources/readwise/books/basin and range",
+  :block/created-at 1656098891824,
+  :block/updated-at 1656098891824}
+ {:block/name "resources/readwise/books/emergent strategy",
+  :block/created-at 1656098902213,
+  :block/updated-at 1656098902213}
+ {:block/name "resources/readwise/books/energy#^cd2d29",
+  :block/created-at 1656098901669,
+  :block/updated-at 1656098901669}
+ {:block/name
+  "response to rethinking the apocalypse an indigenous anti-futurist manifesto",
+  :block/created-at 1656098903402,
+  :block/updated-at 1656098903402}
+ {:block/name "retag",
+  :block/created-at 1656098901870,
+  :block/updated-at 1656098901870}
+ {:block/name "reverse my document structure",
+  :block/created-at 1656098903444,
+  :block/updated-at 1656098903444}
+ {:block/name "review",
+  :block/created-at 1656098890603,
+  :block/updated-at 1656098890603}
+ {:block/name "review ]",
+  :block/created-at 1656098891852,
+  :block/updated-at 1656098891852}
+ {:block/name "review/futures",
+  :block/created-at 1656098892603,
+  :block/updated-at 1656098892603}
+ {:block/name "review/games",
+  :block/created-at 1656098892912,
+  :block/updated-at 1656098892912}
+ {:block/name "review/games ]",
+  :block/created-at 1656098892957,
+  :block/updated-at 1656098892957}
+ {:block/name "review/itp",
+  :block/created-at 1656098904529,
+  :block/updated-at 1656098904529}
+ {:block/name "review/sort",
+  :block/created-at 1656098904393,
+  :block/updated-at 1656098904393}
+ {:block/name "review/tutorials",
+  :block/created-at 1656098892242,
+  :block/updated-at 1656098892242}
+ {:block/name "review/watch",
+  :block/created-at 1656098905006,
+  :block/updated-at 1656098905006}
+ {:block/name "revising six by six braintorm",
+  :block/created-at 1656098891106,
+  :block/updated-at 1656098891106}
+ {:block/name "rising from the plains",
+  :block/created-at 1656098904390,
+  :block/updated-at 1656098904390}
+ {:block/name "rivers",
+  :block/created-at 1656098903487,
+  :block/updated-at 1656098903487}
+ {:block/name "roam",
+  :block/created-at 1656098890466,
+  :block/updated-at 1656098890466}
+ {:block/name "rocks",
+  :block/created-at 1656098905716,
+  :block/updated-at 1656098905716}
+ {:block/name "roots",
+  :block/created-at 1656098905717,
+  :block/updated-at 1656098905717}
+ {:block/name "route",
+  :block/created-at 1656098903487,
+  :block/updated-at 1656098903487}
+ {:block/name "routers",
+  :block/created-at 1656098892472,
+  :block/updated-at 1656098892472}
+ {:block/name "routes",
+  :block/created-at 1656098905717,
+  :block/updated-at 1656098905717}
+ {:block/name "routes rutt",
+  :block/created-at 1656098892590,
+  :block/updated-at 1656098892590}
+ {:block/name "routes to victory",
+  :block/created-at 1656098900222,
+  :block/updated-at 1656098900222}
+ {:block/name "royal party pairs",
+  :block/created-at 1656098893519,
+  :block/updated-at 1656098893519}
+ {:block/name "royal party pairs playtest 2021-02-26",
+  :block/created-at 1656098893700,
+  :block/updated-at 1656098893700}
+ {:block/name "rpg",
+  :block/created-at 1656098905303,
+  :block/updated-at 1656098905303}
+ {:block/name "rpm",
+  :block/created-at 1656098893013,
+  :block/updated-at 1656098893013}
+ {:block/name "rtss class",
+  :block/created-at 1656098906248,
+  :block/updated-at 1656098906248}
+ {:block/name "rtss class notes",
+  :block/created-at 1656098891684,
+  :block/updated-at 1656098891684}
+ {:block/name "rtss final project - prototype of virtual field trips",
+  :block/created-at 1656098895340,
+  :block/updated-at 1656098895340}
+ {:block/name "rules",
+  :block/created-at 1656098893634,
+  :block/updated-at 1656098893634}
+ {:block/name "runic",
+  :block/created-at 1656098893565,
+  :block/updated-at 1656098893565}
+ {:block/name "running obsidian on raspberry pi 4",
+  :block/created-at 1656098903515,
+  :block/updated-at 1656098903515}
+ {:block/name "rutts",
+  :block/created-at 1656098905716,
+  :block/updated-at 1656098905716}
+ {:block/name "sailing",
+  :block/created-at 1656098903541,
+  :block/updated-at 1656098903541}
+ {:block/name "scavenger hunt",
+  :block/created-at 1656098899979,
+  :block/updated-at 1656098899979}
  {:block/name "schema",
   :block/created-at 1655491706995,
   :block/updated-at 1655491787992}
+ {:block/name "science",
+  :block/created-at 1656098891849,
+  :block/updated-at 1656098891849}
+ {:block/name "screen shot 2021-02-14 at 2.38.51 pm.png",
+  :block/created-at 1656098897197,
+  :block/updated-at 1656098897197}
+ {:block/name "screen shot 2021-02-14 at 2.38.56 pm.png",
+  :block/created-at 1656098897198,
+  :block/updated-at 1656098897198}
+ {:block/name "screen shot 2021-02-14 at 2.39.11 pm.png",
+  :block/created-at 1656098897197,
+  :block/updated-at 1656098897197}
+ {:block/name "screen shot 2021-02-14 at 2.44.38 pm.png",
+  :block/created-at 1656098897196,
+  :block/updated-at 1656098897196}
+ {:block/name "screen shot 2021-02-25 at 3.42.01 pm.png",
+  :block/created-at 1656098893303,
+  :block/updated-at 1656098893303}
+ {:block/name "screen shot 2021-02-26 at 11.08.42 am.png",
+  :block/created-at 1656098902453,
+  :block/updated-at 1656098902453}
+ {:block/name "screen shot 2021-04-21 at 6.30.14 pm.png",
+  :block/created-at 1656098896879,
+  :block/updated-at 1656098896879}
+ {:block/name "screen shot 2021-05-01 at 10.11.07 am.png",
+  :block/created-at 1656098903851,
+  :block/updated-at 1656098903851}
+ {:block/name "screenshot from 2021-10-07 11-42-57.png",
+  :block/created-at 1656098901885,
+  :block/updated-at 1656098901885}
+ {:block/name
+  "sean carroll's mindscape: science, society, philosophy, culture, arts, and ideas",
+  :block/created-at 1656098901327,
+  :block/updated-at 1656098901327}
+ {:block/name "seasons",
+  :block/created-at 1656098900822,
+  :block/updated-at 1656098900822}
+ {:block/name "second brain]",
+  :block/created-at 1656098891896,
+  :block/updated-at 1656098891896}
+ {:block/name "second order cybernetics",
+  :block/created-at 1656098903583,
+  :block/updated-at 1656098903583}
+ {:block/name "secret life of viruses#^c981b4",
+  :block/created-at 1656098901671,
+  :block/updated-at 1656098901671}
+ {:block/name "seed",
+  :block/created-at 1656098890600,
+  :block/updated-at 1656098890600}
+ {:block/name "seedlings",
+  :block/created-at 1656098905722,
+  :block/updated-at 1656098905722}
+ {:block/name "seeds",
+  :block/created-at 1656098906228,
+  :block/updated-at 1656098906228}
+ {:block/name "self correcting",
+  :block/created-at 1656098903136,
+  :block/updated-at 1656098903136}
+ {:block/name "self-organizing",
+  :block/created-at 1656098892136,
+  :block/updated-at 1656098892136}
+ {:block/name "semantic versioning",
+  :block/created-at 1656098903525,
+  :block/updated-at 1656098903525}
+ {:block/name "semantic web",
+  :block/created-at 1656098892531,
+  :block/updated-at 1656098892531}
+ {:block/name "seperating signal from noise",
+  :block/created-at 1656098890928,
+  :block/updated-at 1656098890928}
+ {:block/name "servers",
+  :block/created-at 1656098901734,
+  :block/updated-at 1656098901734}
+ {:block/name "set theory",
+  :block/created-at 1656098890972,
+  :block/updated-at 1656098890972}
+ {:block/name "sexism",
+  :block/created-at 1656098902792,
+  :block/updated-at 1656098902792}
+ {:block/name "shawn van every",
+  :block/created-at 1656098905888,
+  :block/updated-at 1656098905888}
+ {:block/name "shifting landscape",
+  :block/created-at 1656098903602,
+  :block/updated-at 1656098903602}
+ {:block/name "should games be fair",
+  :block/created-at 1656098893140,
+  :block/updated-at 1656098893140}
+ {:block/name "sigil story",
+  :block/created-at 1656098893522,
+  :block/updated-at 1656098893522}
+ {:block/name "sigil story playtest 2021-02-13",
+  :block/created-at 1656098893698,
+  :block/updated-at 1656098893698}
+ {:block/name "sigils",
+  :block/created-at 1656098891865,
+  :block/updated-at 1656098891865}
+ {:block/name "signal",
+  :block/created-at 1656098903621,
+  :block/updated-at 1656098903621}
+ {:block/name "simple-peer",
+  :block/created-at 1656098906249,
+  :block/updated-at 1656098906249}
+ {:block/name "six by six playtest",
+  :block/created-at 1656098891105,
+  :block/updated-at 1656098891105}
+ {:block/name "six by six township",
+  :block/created-at 1656098891114,
+  :block/updated-at 1656098891114}
+ {:block/name "six by six township v2",
+  :block/created-at 1656098906953,
+  :block/updated-at 1656098906953}
+ {:block/name "skyboxes",
+  :block/created-at 1656098903653,
+  :block/updated-at 1656098903653}
+ {:block/name "slime mold",
+  :block/created-at 1656098892245,
+  :block/updated-at 1656098892245}
+ {:block/name
+  "snippet from neta to melissa in the last class of 100 days of making",
+  :block/created-at 1656098903671,
+  :block/updated-at 1656098903671}
+ {:block/name "social media",
+  :block/created-at 1656098901886,
+  :block/updated-at 1656098901886}
+ {:block/name "socket.io",
+  :block/created-at 1656098906248,
+  :block/updated-at 1656098906248}
+ {:block/name "software",
+  :block/created-at 1656098901759,
+  :block/updated-at 1656098901759}
+ {:block/name "sol de witt",
+  :block/created-at 1656098902289,
+  :block/updated-at 1656098902289}
+ {:block/name "solar energy",
+  :block/created-at 1656098891202,
+  :block/updated-at 1656098891202}
+ {:block/name "solar panels",
+  :block/created-at 1656098891201,
+  :block/updated-at 1656098891201}
+ {:block/name "solar powered reparations - rafael smith",
+  :block/created-at 1656098906413,
+  :block/updated-at 1656098906413}
+ {:block/name "solar powered smart home hub",
+  :block/created-at 1656098906552,
+  :block/updated-at 1656098906552}
+ {:block/name "solar powered website",
+  :block/created-at 1656098901967,
+  :block/updated-at 1656098901967}
+ {:block/name "some of the perils self organized systems",
+  :block/created-at 1656098903785,
+  :block/updated-at 1656098903785}
+ {:block/name "soviet calendars",
+  :block/created-at 1656098903748,
+  :block/updated-at 1656098903748}
+ {:block/name "spaced repetition",
+  :block/created-at 1656098903768,
+  :block/updated-at 1656098903768}
+ {:block/name "spacetime",
+  :block/created-at 1656098892905,
+  :block/updated-at 1656098892905}
+ {:block/name "speech recognition",
+  :block/created-at 1656098903799,
+  :block/updated-at 1656098903799}
+ {:block/name "spi",
+  :block/created-at 1656098903239,
+  :block/updated-at 1656098903239}
+ {:block/name "stalin",
+  :block/created-at 1656098903743,
+  :block/updated-at 1656098903743}
+ {:block/name "star",
+  :block/created-at 1656098891490,
+  :block/updated-at 1656098891490}
+ {:block/name "star/creation",
+  :block/created-at 1656098891489,
+  :block/updated-at 1656098891489}
+ {:block/name "start",
+  :block/created-at 1656098902302,
+  :block/updated-at 1656098902302}
+ {:block/name "statistics",
+  :block/created-at 1656098890597,
+  :block/updated-at 1656098890597}
+ {:block/name "steel owl",
+  :block/created-at 1656098897567,
+  :block/updated-at 1656098897567}
+ {:block/name "stenography",
+  :block/created-at 1656098900655,
+  :block/updated-at 1656098900655}
+ {:block/name "steppers",
+  :block/created-at 1656098902869,
+  :block/updated-at 1656098902869}
+ {:block/name "stories",
+  :block/created-at 1656098900849,
+  :block/updated-at 1656098900849}
+ {:block/name "stories in 7 frames",
+  :block/created-at 1656098903908,
+  :block/updated-at 1656098903908}
+ {:block/name "story cycles",
+  :block/created-at 1656098897196,
+  :block/updated-at 1656098897196}
+ {:block/name "study on walking through crowds",
+  :block/created-at 1656098904023,
+  :block/updated-at 1656098904023}
+ {:block/name "substack",
+  :block/created-at 1656098906459,
+  :block/updated-at 1656098906459}
+ {:block/name "summer plans",
+  :block/created-at 1656098897459,
+  :block/updated-at 1656098897459}
+ {:block/name "super organism",
+  :block/created-at 1656098890824,
+  :block/updated-at 1656098890824}
+ {:block/name "surveillance",
+  :block/created-at 1656098906289,
+  :block/updated-at 1656098906289}
+ {:block/name "survival of the fittest",
+  :block/created-at 1656098902206,
+  :block/updated-at 1656098902206}
+ {:block/name "switch case example",
+  :block/created-at 1656098903868,
+  :block/updated-at 1656098903868}
+ {:block/name "system",
+  :block/created-at 1656098892136,
+  :block/updated-at 1656098892136}
+ {:block/name "systems",
+  :block/created-at 1656098891272,
+  :block/updated-at 1656098891272}
+ {:block/name "systems design",
+  :block/created-at 1656098904039,
+  :block/updated-at 1656098904039}
+ {:block/name "systems i  interact with on a day to day basis",
+  :block/created-at 1656098904074,
+  :block/updated-at 1656098904074}
+ {:block/name "systems mapping",
+  :block/created-at 1656098903968,
+  :block/updated-at 1656098903968}
+ {:block/name "systems of oppression]",
+  :block/created-at 1656098902803,
+  :block/updated-at 1656098902803}
+ {:block/name "systems thinking",
+  :block/created-at 1656098904040,
+  :block/updated-at 1656098904040}
+ {:block/name "systems|system",
+  :block/created-at 1656098891237,
+  :block/updated-at 1656098891237}
+ {:block/name "tags",
+  :block/created-at 1656098900533,
+  :block/updated-at 1656098900533}
+ {:block/name "talisman",
+  :block/created-at 1656098904127,
+  :block/updated-at 1656098904127}
+ {:block/name "talismans of illness anxiety in covid",
+  :block/created-at 1656098904121,
+  :block/updated-at 1656098904121}
+ {:block/name "talks by achielle mbembe#^ee5032",
+  :block/created-at 1656098902150,
+  :block/updated-at 1656098902150}
+ {:block/name "tamagatchi time machine",
+  :block/created-at 1656098904172,
+  :block/updated-at 1656098904172}
+ {:block/name "tarrot",
+  :block/created-at 1656098891863,
+  :block/updated-at 1656098891863}
+ {:block/name "taxonomy of tags",
+  :block/created-at 1656098900521,
+  :block/updated-at 1656098900521}
+ {:block/name "tech",
+  :block/created-at 1656098891411,
+  :block/updated-at 1656098891411}
+ {:block/name "tech/open-source",
+  :block/created-at 1656098891569,
+  :block/updated-at 1656098891569}
+ {:block/name "tech/software",
+  :block/created-at 1656098900527,
+  :block/updated-at 1656098900527}
+ {:block/name "tech/web",
+  :block/created-at 1656098903469,
+  :block/updated-at 1656098903469}
+ {:block/name "technology",
+  :block/created-at 1656098891499,
+  :block/updated-at 1656098891499}
+ {:block/name "tee vee",
+  :block/created-at 1656098904306,
+  :block/updated-at 1656098904306}
+ {:block/name "tell the tale",
+  :block/created-at 1656098893519,
+  :block/updated-at 1656098893519}
+ {:block/name "tell the tale adventure journal text",
+  :block/created-at 1656098908185,
+  :block/updated-at 1656098908185}
+ {:block/name "tell the tale instruction booklet text",
+  :block/created-at 1656098908250,
+  :block/updated-at 1656098908250}
+ {:block/name "templater",
+  :block/created-at 1656098906457,
+  :block/updated-at 1656098906457}
+ {:block/name "templates",
+  :block/created-at 1656098906460,
+  :block/updated-at 1656098906460}
+ {:block/name "templeter new file function",
+  :block/created-at 1656098904259,
+  :block/updated-at 1656098904259}
+ {:block/name "temptation bundling",
+  :block/created-at 1656098900441,
+  :block/updated-at 1656098900441}
+ {:block/name "tend",
+  :block/created-at 1656098901330,
+  :block/updated-at 1656098901330}
+ {:block/name "tend/grow",
+  :block/created-at 1656098901328,
+  :block/updated-at 1656098901328}
+ {:block/name "tend/link",
+  :block/created-at 1656098902971,
+  :block/updated-at 1656098902971}
+ {:block/name "tending my garden",
+  :block/created-at 1656098904332,
+  :block/updated-at 1656098904332}
+ {:block/name "tenney farm",
+  :block/created-at 1656098904438,
+  :block/updated-at 1656098904438}
+ {:block/name "terrain",
+  :block/created-at 1656098906270,
+  :block/updated-at 1656098906270}
+ {:block/name "territories",
+  :block/created-at 1656098906266,
+  :block/updated-at 1656098906266}
+ {:block/name "territory control",
+  :block/created-at 1656098893433,
+  :block/updated-at 1656098893433}
  {:block/name "test",
   :block/created-at 1656091129890,
   :block/updated-at 1656091129890}
@@ -163,42 +3690,657 @@
  {:block/name "test/thing",
   :block/created-at 1656091129889,
   :block/updated-at 1656091133682}
+ {:block/name "text based digital performance",
+  :block/created-at 1656098904367,
+  :block/updated-at 1656098904367}
  {:block/name "tft",
   :block/created-at 1655828541192,
   :block/updated-at 1655828541192}
+ {:block/name "the american dream",
+  :block/created-at 1656098905418,
+  :block/updated-at 1656098905418}
+ {:block/name "the anals of the former world",
+  :block/created-at 1656098901301,
+  :block/updated-at 1656098901301}
+ {:block/name "the antikythera mechanism",
+  :block/created-at 1656098904535,
+  :block/updated-at 1656098904535}
+ {:block/name "the atheism at the center of the green knight",
+  :block/created-at 1656098904472,
+  :block/updated-at 1656098904472}
+ {:block/name
+  "the blockchain ethical design framework for social impact#^113a52",
+  :block/created-at 1656098891063,
+  :block/updated-at 1656098891063}
+ {:block/name "the civil war",
+  :block/created-at 1656098890770,
+  :block/updated-at 1656098890770}
+ {:block/name "the dangers of emergent media",
+  :block/created-at 1656098892264,
+  :block/updated-at 1656098892264}
+ {:block/name
+  "the dangers of emergent media|many dangers from emergent media",
+  :block/created-at 1656098905417,
+  :block/updated-at 1656098905417}
+ {:block/name "the difficulty of seeing",
+  :block/created-at 1656098904718,
+  :block/updated-at 1656098904718}
+ {:block/name "the difficulty of seeing outside paradigms",
+  :block/created-at 1656098892906,
+  :block/updated-at 1656098892906}
+ {:block/name "the exptended present",
+  :block/created-at 1656098904588,
+  :block/updated-at 1656098904588}
+ {:block/name "the exptended present in obsidian",
+  :block/created-at 1656098904586,
+  :block/updated-at 1656098904586}
+ {:block/name "the fragility of democratic systems",
+  :block/created-at 1656098904604,
+  :block/updated-at 1656098904604}
+ {:block/name "the future",
+  :block/created-at 1656098892619,
+  :block/updated-at 1656098892619}
+ {:block/name "the future of new media",
+  :block/created-at 1656098892618,
+  :block/updated-at 1656098892618}
+ {:block/name "the garden",
+  :block/created-at 1656098891250,
+  :block/updated-at 1656098891250}
+ {:block/name "the garden and the stream",
+  :block/created-at 1656098904621,
+  :block/updated-at 1656098904621}
+ {:block/name "the garden and the stream a technopastoral",
+  :block/created-at 1656098891891,
+  :block/updated-at 1656098891891}
+ {:block/name "the garden and the stream a technopastoral#^qewzvw",
+  :block/created-at 1656098891889,
+  :block/updated-at 1656098891889}
  {:block/name "the garden of forking paths",
   :block/created-at 1655828541195,
   :block/updated-at 1655828541195}
+ {:block/name "the garden/energy",
+  :block/created-at 1656098891237,
+  :block/updated-at 1656098891237}
+ {:block/name "the garden/games",
+  :block/created-at 1656098892067,
+  :block/updated-at 1656098892067}
+ {:block/name "the garden/games/100 days of making games",
+  :block/created-at 1656098896992,
+  :block/updated-at 1656098896992}
+ {:block/name "the garden/games/100 days of making games/process",
+  :block/created-at 1656098896992,
+  :block/updated-at 1656098896992}
+ {:block/name
+  "the garden/games/100 days of making games/process/lifeintheyear.pdf",
+  :block/created-at 1656098896989,
+  :block/updated-at 1656098896989}
+ {:block/name "the garden/itp",
+  :block/created-at 1656098904068,
+  :block/updated-at 1656098904068}
+ {:block/name "the garden/procederal",
+  :block/created-at 1656098897174,
+  :block/updated-at 1656098897174}
+ {:block/name "the garden/questions about what is a narrative",
+  :block/created-at 1656098897178,
+  :block/updated-at 1656098897178}
+ {:block/name "the garden/stories in 7 frames",
+  :block/created-at 1656098897178,
+  :block/updated-at 1656098897178}
+ {:block/name "the ghost radio arcade",
+  :block/created-at 1656098899986,
+  :block/updated-at 1656098899986}
+ {:block/name "the good ancestor podcast",
+  :block/created-at 1656098901470,
+  :block/updated-at 1656098901470}
+ {:block/name "the gravitational field",
+  :block/created-at 1656098904634,
+  :block/updated-at 1656098904634}
+ {:block/name "the green knight",
+  :block/created-at 1656098904471,
+  :block/updated-at 1656098904471}
+ {:block/name "the hero's journey",
+  :block/created-at 1656098902287,
+  :block/updated-at 1656098902287}
+ {:block/name "the history of capitalism",
+  :block/created-at 1656098904653,
+  :block/updated-at 1656098904653}
+ {:block/name "the history of capitalism is energy optimization",
+  :block/created-at 1656098893350,
+  :block/updated-at 1656098893350}
+ {:block/name "the history of energy",
+  :block/created-at 1656098900146,
+  :block/updated-at 1656098900146}
+ {:block/name "the house",
+  :block/created-at 1656098897175,
+  :block/updated-at 1656098897175}
+ {:block/name "the house/projects",
+  :block/created-at 1656098897176,
+  :block/updated-at 1656098897176}
+ {:block/name "the house/projects/anticipate a day thematic ideas",
+  :block/created-at 1656098897173,
+  :block/updated-at 1656098897173}
+ {:block/name "the industrial revolution",
+  :block/created-at 1656098904649,
+  :block/updated-at 1656098904649}
+ {:block/name "the information#^4d8af3",
+  :block/created-at 1656098904525,
+  :block/updated-at 1656098904525}
+ {:block/name "the internet",
+  :block/created-at 1656098892262,
+  :block/updated-at 1656098892262}
+ {:block/name "the internet|internet",
+  :block/created-at 1656098905078,
+  :block/updated-at 1656098905078}
+ {:block/name "the itp encylopedia should be written in obsidian",
+  :block/created-at 1656098902453,
+  :block/updated-at 1656098902453}
  {:block/name "the memex",
   :block/created-at 1655828541194,
   :block/updated-at 1655828541194}
+ {:block/name "the military",
+  :block/created-at 1656098891474,
+  :block/updated-at 1656098891474}
  {:block/name "the mother of all demos",
   :block/created-at 1655828541191,
   :block/updated-at 1655828541191}
+ {:block/name "the order of time#^27eca1",
+  :block/created-at 1656098904534,
+  :block/updated-at 1656098904534}
+ {:block/name "the order of time#^6f6d6a",
+  :block/created-at 1656098901753,
+  :block/updated-at 1656098901753}
+ {:block/name "the order of time#^7za32r",
+  :block/created-at 1656098892193,
+  :block/updated-at 1656098892193}
+ {:block/name "the order of time#^a987fa",
+  :block/created-at 1656098904516,
+  :block/updated-at 1656098904516}
+ {:block/name "the order of time#^d84b48",
+  :block/created-at 1656098904635,
+  :block/updated-at 1656098904635}
+ {:block/name "the order of time#^ogkum6",
+  :block/created-at 1656098904519,
+  :block/updated-at 1656098904519}
+ {:block/name "the order of time#^uctnom",
+  :block/created-at 1656098904534,
+  :block/updated-at 1656098904534}
+ {:block/name "the order of time#^z1nujf",
+  :block/created-at 1656098901753,
+  :block/updated-at 1656098901753}
+ {:block/name "the origins of the end of the world",
+  :block/created-at 1656098904519,
+  :block/updated-at 1656098904519}
+ {:block/name "the owner of an english coal mine",
+  :block/created-at 1656098893350,
+  :block/updated-at 1656098893350}
+ {:block/name "the past",
+  :block/created-at 1656098900849,
+  :block/updated-at 1656098900849}
+ {:block/name "the path",
+  :block/created-at 1656098891711,
+  :block/updated-at 1656098891711}
+ {:block/name "the picture",
+  :block/created-at 1656098904736,
+  :block/updated-at 1656098904736}
+ {:block/name "the postal system",
+  :block/created-at 1656098904068,
+  :block/updated-at 1656098904068}
+ {:block/name "the printing press",
+  :block/created-at 1656098904523,
+  :block/updated-at 1656098904523}
+ {:block/name "the real questions",
+  :block/created-at 1656098892065,
+  :block/updated-at 1656098892065}
+ {:block/name "the shape of me",
+  :block/created-at 1656098893026,
+  :block/updated-at 1656098893026}
+ {:block/name "the solar powered library from 2272",
+  :block/created-at 1656098905769,
+  :block/updated-at 1656098905769}
+ {:block/name "the steam engine",
+  :block/created-at 1656098892589,
+  :block/updated-at 1656098892589}
+ {:block/name "the stream",
+  :block/created-at 1656098891887,
+  :block/updated-at 1656098891887}
+ {:block/name "the sun",
+  :block/created-at 1656098904802,
+  :block/updated-at 1656098904802}
+ {:block/name "the train game",
+  :block/created-at 1656098893351,
+  :block/updated-at 1656098893351}
+ {:block/name "the valley of death",
+  :block/created-at 1656098893282,
+  :block/updated-at 1656098893282}
+ {:block/name "the water system",
+  :block/created-at 1656098904063,
+  :block/updated-at 1656098904063}
+ {:block/name "the web ]",
+  :block/created-at 1656098904675,
+  :block/updated-at 1656098904675}
+ {:block/name "the west is burning",
+  :block/created-at 1656098904837,
+  :block/updated-at 1656098904837}
+ {:block/name "the wheel of the year",
+  :block/created-at 1656098891581,
+  :block/updated-at 1656098891581}
+ {:block/name "the will of the people",
+  :block/created-at 1656098893512,
+  :block/updated-at 1656098893512}
+ {:block/name "the will of the people playtest",
+  :block/created-at 1656098894065,
+  :block/updated-at 1656098894065}
+ {:block/name "the world",
+  :block/created-at 1656098890752,
+  :block/updated-at 1656098890752}
+ {:block/name "the world is ending",
+  :block/created-at 1656098893510,
+  :block/updated-at 1656098893510}
+ {:block/name "the world is ending playtest",
+  :block/created-at 1656098896820,
+  :block/updated-at 1656098896820}
+ {:block/name "the world is ending v2",
+  :block/created-at 1656098896881,
+  :block/updated-at 1656098896881}
  {:block/name "the world wide web",
   :block/created-at 1655828541193,
   :block/updated-at 1655828541193}
+ {:block/name "theater",
+  :block/created-at 1656098891331,
+  :block/updated-at 1656098891331}
+ {:block/name "thermometor",
+  :block/created-at 1656098904128,
+  :block/updated-at 1656098904128}
+ {:block/name "thesis reserarch paper draft",
+  :block/created-at 1656098905219,
+  :block/updated-at 1656098905219}
+ {:block/name "thesis reserarch paper draft 2",
+  :block/created-at 1656098904941,
+  :block/updated-at 1656098904941}
+ {:block/name "thief and the cobbler",
+  :block/created-at 1656098900145,
+  :block/updated-at 1656098900145}
+ {:block/name "things i learned in therapy 2020",
+  :block/created-at 1656098890457,
+  :block/updated-at 1656098890457}
  {:block/name "thinking in systems",
   :block/created-at 1655828541162,
   :block/updated-at 1655828541162}
+ {:block/name "thought",
+  :block/created-at 1656098905349,
+  :block/updated-at 1656098905349}
+ {:block/name "thoughts after 10 games",
+  :block/created-at 1656098893142,
+  :block/updated-at 1656098893142}
+ {:block/name "thoughts after white feminism",
+  :block/created-at 1656098905005,
+  :block/updated-at 1656098905005}
+ {:block/name "thoughts at the end of fall 2020",
+  :block/created-at 1656098890463,
+  :block/updated-at 1656098890463}
+ {:block/name "thoughts on decentralized networks",
+  :block/created-at 1656098891763,
+  :block/updated-at 1656098891763}
+ {:block/name "thoughts on the structure of the internet",
+  :block/created-at 1656098905070,
+  :block/updated-at 1656098905070}
+ {:block/name "thousand year old vampire",
+  :block/created-at 1656098897429,
+  :block/updated-at 1656098897429}
+ {:block/name "three",
+  :block/created-at 1656098906358,
+  :block/updated-at 1656098906358}
+ {:block/name "three.js",
+  :block/created-at 1656098900756,
+  :block/updated-at 1656098900756}
+ {:block/name "three.js ",
+  :block/created-at 1656098893050,
+  :block/updated-at 1656098893050}
+ {:block/name "three.js user data",
+  :block/created-at 1656098906355,
+  :block/updated-at 1656098906355}
+ {:block/name "three/js",
+  :block/created-at 1656098906357,
+  :block/updated-at 1656098906357}
+ {:block/name "threshold",
+  :block/created-at 1656098891809,
+  :block/updated-at 1656098891809}
+ {:block/name "thresholds",
+  :block/created-at 1656098901175,
+  :block/updated-at 1656098901175}
+ {:block/name "threshold|thresholds",
+  :block/created-at 1656098905288,
+  :block/updated-at 1656098905288}
+ {:block/name "time",
+  :block/created-at 1656098890326,
+  :block/updated-at 1656098890326}
+ {:block/name "time travel sketch",
+  :block/created-at 1656098904170,
+  :block/updated-at 1656098904170}
+ {:block/name "tipping points",
+  :block/created-at 1656098890918,
+  :block/updated-at 1656098890918}
  {:block/name "todo",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801045}
+ {:block/name "todo article wired#^380230",
+  :block/created-at 1656098906024,
+  :block/updated-at 1656098906024}
+ {:block/name "todo article wired#^dcd454",
+  :block/created-at 1656098906024,
+  :block/updated-at 1656098906024}
+ {:block/name "todo/delete",
+  :block/created-at 1656098901121,
+  :block/updated-at 1656098901121}
+ {:block/name "todo/edit",
+  :block/created-at 1656098891735,
+  :block/updated-at 1656098891735}
+ {:block/name "todo/edit ]",
+  :block/created-at 1656098892326,
+  :block/updated-at 1656098892326}
+ {:block/name "todo/lookup",
+  :block/created-at 1656098904389,
+  :block/updated-at 1656098904389}
+ {:block/name "todo/retag",
+  :block/created-at 1656098891510,
+  :block/updated-at 1656098891510}
  {:block/name "tools for thought",
   :block/created-at 1655828541196,
   :block/updated-at 1655828541196}
+ {:block/name "top of mind",
+  :block/created-at 1656098905325,
+  :block/updated-at 1656098905325}
  {:block/name "topofmind",
   :block/created-at 1655828541634,
   :block/updated-at 1655828541634}
+ {:block/name "topology",
+  :block/created-at 1656098892481,
+  :block/updated-at 1656098892481}
+ {:block/name "torque",
+  :block/created-at 1656098893012,
+  :block/updated-at 1656098893012}
+ {:block/name "towns",
+  :block/created-at 1656098897070,
+  :block/updated-at 1656098897070}
+ {:block/name "tracery.js",
+  :block/created-at 1656098894081,
+  :block/updated-at 1656098894081}
+ {:block/name "traces of my connectome",
+  :block/created-at 1656098905350,
+  :block/updated-at 1656098905350}
+ {:block/name "trading",
+  :block/created-at 1656098893430,
+  :block/updated-at 1656098893430}
+ {:block/name
+  "traditional hierarchal media is not necessarily better than emergent sources",
+  :block/created-at 1656098892264,
+  :block/updated-at 1656098892264}
+ {:block/name "traditional media institutions",
+  :block/created-at 1656098904488,
+  :block/updated-at 1656098904488}
+ {:block/name "train game",
+  :block/created-at 1656098891107,
+  :block/updated-at 1656098891107}
+ {:block/name "transatlantic cable",
+  :block/created-at 1656098892469,
+  :block/updated-at 1656098892469}
  {:block/name "transclusion",
   :block/created-at 1655828541198,
   :block/updated-at 1655828541198}
+ {:block/name "transistors",
+  :block/created-at 1656098902870,
+  :block/updated-at 1656098902870}
+ {:block/name "transitions",
+  :block/created-at 1656098904440,
+  :block/updated-at 1656098904440}
+ {:block/name "transportation",
+  :block/created-at 1656098904440,
+  :block/updated-at 1656098904440}
+ {:block/name "trash",
+  :block/created-at 1656098904070,
+  :block/updated-at 1656098904070}
+ {:block/name "tree",
+  :block/created-at 1656098892468,
+  :block/updated-at 1656098892468}
+ {:block/name "trees",
+  :block/created-at 1656098902288,
+  :block/updated-at 1656098902288}
+ {:block/name "trust",
+  :block/created-at 1656098905037,
+  :block/updated-at 1656098905037}
+ {:block/name "trustless systems",
+  :block/created-at 1656098905039,
+  :block/updated-at 1656098905039}
+ {:block/name "ttrpg",
+  :block/created-at 1656098891648,
+  :block/updated-at 1656098891648}
+ {:block/name "tv",
+  :block/created-at 1656098904304,
+  :block/updated-at 1656098904304}
+ {:block/name "twine",
+  :block/created-at 1656098896730,
+  :block/updated-at 1656098896730}
+ {:block/name "types of energy",
+  :block/created-at 1656098892117,
+  :block/updated-at 1656098892117}
+ {:block/name "typescript",
+  :block/created-at 1656098905437,
+  :block/updated-at 1656098905437}
+ {:block/name "ufo",
+  :block/created-at 1656098905503,
+  :block/updated-at 1656098905503}
+ {:block/name "ufo encounter in basin and range",
+  :block/created-at 1656098904516,
+  :block/updated-at 1656098904516}
+ {:block/name "ultra wide band",
+  :block/created-at 1656098905486,
+  :block/updated-at 1656098905486}
+ {:block/name "understanding networks",
+  :block/created-at 1656098892475,
+  :block/updated-at 1656098892475}
+ {:block/name "unity",
+  :block/created-at 1656098905566,
+  :block/updated-at 1656098905566}
+ {:block/name "unix",
+  :block/created-at 1656098892479,
+  :block/updated-at 1656098892479}
+ {:block/name "unreal",
+  :block/created-at 1656098906523,
+  :block/updated-at 1656098906523}
+ {:block/name "usa",
+  :block/created-at 1656098891771,
+  :block/updated-at 1656098891771}
+ {:block/name "using a li-poly battery with a 33iot",
+  :block/created-at 1656098890394,
+  :block/updated-at 1656098890394}
+ {:block/name "ussr",
+  :block/created-at 1656098891771,
+  :block/updated-at 1656098891771}
+ {:block/name "valley of dissilusionment",
+  :block/created-at 1656098893282,
+  :block/updated-at 1656098893282}
+ {:block/name "variable benchtop power supply",
+  :block/created-at 1656098902869,
+  :block/updated-at 1656098902869}
+ {:block/name "vault structure.excalidraw",
+  :block/created-at 1656098900521,
+  :block/updated-at 1656098900521}
+ {:block/name "very fancy very serious interpretive dance contest",
+  :block/created-at 1656098893518,
+  :block/updated-at 1656098893518}
+ {:block/name "victory conditions",
+  :block/created-at 1656098902208,
+  :block/updated-at 1656098902208}
+ {:block/name "video instructions",
+  :block/created-at 1656098893634,
+  :block/updated-at 1656098893634}
+ {:block/name "video instructions are very effective",
+  :block/created-at 1656098893631,
+  :block/updated-at 1656098893631}
+ {:block/name "violence is power",
+  :block/created-at 1656098893349,
+  :block/updated-at 1656098893349}
+ {:block/name "virtual field trip to the hall of african mammals",
+  :block/created-at 1656098897309,
+  :block/updated-at 1656098897309}
+ {:block/name "virtual field trips",
+  :block/created-at 1656098895339,
+  :block/updated-at 1656098895339}
+ {:block/name "vr",
+  :block/created-at 1656098902688,
+  :block/updated-at 1656098902688}
+ {:block/name "vulcanists vs neptunists megagame",
+  :block/created-at 1656098905641,
+  :block/updated-at 1656098905641}
+ {:block/name "vulcanists vs neptunists megagame#idea",
+  :block/created-at 1656098892902,
+  :block/updated-at 1656098892902}
  {:block/name "wait",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
  {:block/name "waiting",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "walk",
+  :block/created-at 1656098892588,
+  :block/updated-at 1656098892588}
+ {:block/name "walking",
+  :block/created-at 1656098892591,
+  :block/updated-at 1656098892591}
+ {:block/name "wanderlust",
+  :block/created-at 1656098892591,
+  :block/updated-at 1656098892591}
+ {:block/name "wasif's tangible interaction papers",
+  :block/created-at 1656098905817,
+  :block/updated-at 1656098905817}
+ {:block/name "waste management",
+  :block/created-at 1656098904071,
+  :block/updated-at 1656098904071}
+ {:block/name "water",
+  :block/created-at 1656098903487,
+  :block/updated-at 1656098903487}
+ {:block/name "web",
+  :block/created-at 1656098905912,
+  :block/updated-at 1656098905912}
+ {:block/name "web 2.0",
+  :block/created-at 1656098891888,
+  :block/updated-at 1656098891888}
+ {:block/name "web 3",
+  :block/created-at 1656098905771,
+  :block/updated-at 1656098905771}
+ {:block/name "web 3.0",
+  :block/created-at 1656098902919,
+  :block/updated-at 1656098902919}
+ {:block/name "web 3/0",
+  :block/created-at 1656098905770,
+  :block/updated-at 1656098905770}
+ {:block/name "web content accessability guidlines",
+  :block/created-at 1656098891594,
+  :block/updated-at 1656098891594}
+ {:block/name "web rtc",
+  :block/created-at 1656098904306,
+  :block/updated-at 1656098904306}
+ {:block/name "web rtc video notes",
+  :block/created-at 1656098905863,
+  :block/updated-at 1656098905863}
+ {:block/name "webgl",
+  :block/created-at 1656098906354,
+  :block/updated-at 1656098906354}
+ {:block/name "webrtc",
+  :block/created-at 1656098905856,
+  :block/updated-at 1656098905856}
+ {:block/name "website",
+  :block/created-at 1656098903720,
+  :block/updated-at 1656098903720}
  {:block/name "welcome",
-  :block/created-at 1655491695159, 
-  :block/updated-at 1655491695159}]
+  :block/created-at 1655491695159,
+  :block/updated-at 1655491695159}
+ {:block/name "what happens after death",
+  :block/created-at 1656098905951,
+  :block/updated-at 1656098905951}
+ {:block/name
+  "what i've learned about myself over 100 days of making games",
+  :block/created-at 1656098893144,
+  :block/updated-at 1656098893144}
+ {:block/name "what if we have economics all wrong",
+  :block/created-at 1656098905964,
+  :block/updated-at 1656098905964}
+ {:block/name "what is a game",
+  :block/created-at 1656098893139,
+  :block/updated-at 1656098893139}
+ {:block/name "what is a game#a game is",
+  :block/created-at 1656098906728,
+  :block/updated-at 1656098906728}
+ {:block/name "what is a game|this definition of what a game is",
+  :block/created-at 1656098893611,
+  :block/updated-at 1656098893611}
+ {:block/name "what is the world and how would it end",
+  :block/created-at 1656098890751,
+  :block/updated-at 1656098890751}
+ {:block/name
+  "when time became regular and universal, it changed history",
+  :block/created-at 1656098890927,
+  :block/updated-at 1656098890927}
+ {:block/name "white supremacy",
+  :block/created-at 1656098902788,
+  :block/updated-at 1656098902788}
+ {:block/name "why am i making 50 games in 100 days",
+  :block/created-at 1656098893141,
+  :block/updated-at 1656098893141}
+ {:block/name "why do i write all the time",
+  :block/created-at 1656098906022,
+  :block/updated-at 1656098906022}
+ {:block/name "wicked problems",
+  :block/created-at 1656098890923,
+  :block/updated-at 1656098890923}
+ {:block/name "widespread conspiracy theories",
+  :block/created-at 1656098904489,
+  :block/updated-at 1656098904489}
+ {:block/name "wifi",
+  :block/created-at 1656098890399,
+  :block/updated-at 1656098890399}
+ {:block/name "wikidata",
+  :block/created-at 1656098892532,
+  :block/updated-at 1656098892532}
+ {:block/name "wikipedia",
+  :block/created-at 1656098905041,
+  :block/updated-at 1656098905041}
+ {:block/name "wind",
+  :block/created-at 1656098903547,
+  :block/updated-at 1656098903547}
+ {:block/name "writing",
+  :block/created-at 1656098900788,
+  :block/updated-at 1656098900788}
+ {:block/name "writing/poem",
+  :block/created-at 1656098901856,
+  :block/updated-at 1656098901856}
+ {:block/name "writing/response",
+  :block/created-at 1656098903404,
+  :block/updated-at 1656098903404}
+ {:block/name "wysiwyg",
+  :block/created-at 1656098906499,
+  :block/updated-at 1656098906499}
+ {:block/name "xy plotter",
+  :block/created-at 1656098892240,
+  :block/updated-at 1656098892240}
+ {:block/name "year1.jpg",
+  :block/created-at 1656098896988,
+  :block/updated-at 1656098896988}
+ {:block/name "yorb",
+  :block/created-at 1656098903138,
+  :block/updated-at 1656098903138}
+ {:block/name "yorb-like",
+  :block/created-at 1656098893049,
+  :block/updated-at 1656098893049}
+ {:block/name "youtube recommendation algorithm",
+  :block/created-at 1656098904488,
+  :block/updated-at 1656098904488}
+ {:block/name "zero",
+  :block/created-at 1656098904522,
+  :block/updated-at 1656098904522}
+ {:block/name "zettlekasten",
+  :block/created-at 1656098901715,
+  :block/updated-at 1656098901715}
+ {:block/name "zoltan's zarkade",
+  :block/created-at 1656098892478, 
+  :block/updated-at 1656098892478}]
