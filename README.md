@@ -8,5 +8,5 @@
 	- ## [[How to Find Your Way]]
 		- [[Pages]] are often empty, but that doesn't mean they're useless- check out a pages [[Linked References]] to find any other time the page is mentioned in the graph.
 		- Clicking a bullet point will zoom in on the particular [[block]] and it's [[children]]
-		- Feel free to follow any of the [[links]] to start exploring
-		-
+		- Feel free to follow any of the [[links]] to start exploring or check out [[Places to Start]]
+-
