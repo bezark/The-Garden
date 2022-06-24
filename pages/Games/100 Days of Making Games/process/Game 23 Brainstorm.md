@@ -38,6 +38,3 @@ There could be different historical events that tie to different pages
 or if there was a way to track the days somehow?
 
 [[A Life in the Year]]
-
-
-

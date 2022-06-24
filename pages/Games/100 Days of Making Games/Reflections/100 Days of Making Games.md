@@ -6,14 +6,9 @@ In the Spring of 2021 I set out to make as many games as possible in 100 Days. A
 
 - [[Why am I making 50 Games in 100 Days]]
 - [[What is a Game]]
-  
-  ![[Games I've Made So Far]]
-  
-  ![[100 Days Playtesting]]
-  
-  
-  
-  [[Making Larger Games]]
+- [[Games I've Made So Far]]
+- [[100 Days Playtesting]]
+- [[Making Larger Games]]
 ## Reflections
 - [[Should Games Be Fair]]
 - [[Board Games Inherently Reinforce Capitalism, Colonialism and Rescource Extraction]]
