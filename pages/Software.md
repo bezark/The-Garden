@@ -1,0 +1,6 @@
+---
+publish: true
+tags:
+---
+[[Computing]]
+

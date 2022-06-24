@@ -1,0 +1,46 @@
+---
+publish: true
+tags: map, todo/edit, blog, itp
+---
+- There are many things in this Roam That I want to hold onto. Here's a shortlist of what I want to hold in my Minds Eye:
+    - [[Thoughts at the end of Fall 2020]]
+        - "More importantly, I didn't let the perfect eclipse the good. I think I'm really proud of of the way I managed my stress and kept things in perspective. I focused on tangible goals and really used the lens of iteration and MVP. It turns out that just doing that several times in a row produces results that far surpass MVPness!!!"
+        - I want to actually come back and answer these: 
+            - "Reflection"
+                - "What project was I most proud of over the course of the semester?"
+                - "What project was the most difficult?"
+                - "What big ideas did I encounter this semester that I want to hold onto?"
+                - "What parts really worked well for me remotely?"
+                - "What did not work well for me remotely?"
+                - "What were my biggest hurdles?"
+                - "What was my low point?"
+                - "What was my high point?"
+                - "What skills did I develop?"
+                - "What areas do I want to circle back to?"
+            - "Projection"
+                - "Make a list of at least 10 people I really want to work with next semester"
+                    - "En Tung"
+                    - "Vivien "
+                    - "Duncan"
+                    - "Rajershee"
+                    - "Ami"
+                    - "Brandon"
+                    - "Phil"
+                    - "Eamon"
+                - "What do I want to change at ITP?"
+                - "What clubs do I want to join?"
+                - "What do I want to focus on next semester?"
+                - "Which faculty do I want to spend more time with?"
+                    - "Michelle"
+                    - "Rios"
+                    - "Mimi"
+                    - "Greg"
+                    - "Marina Zurkow"
+                - "What skills do I want to learn?"
+                - "What Tools (if any) should I gain practice?"
+                - "What Ideas do I want to encounter?"
+    - [[The Real Questions]]
+    - [[Systems]]
+    - [[Prediction As Planning]]
+    - [[History]]
+    - [[The Garden/Games]]

@@ -1,0 +1,12 @@
+#seed #TopOfMind  #tend/link
+
+Fundamentally a [[technology]] [[platform]] is just a scientific [[paradigm]]: and is a way of protocols and beliefs that are enforced by a worldview and are enforced by constraints and design choices made.
+
+[[Technology]] is the application of [[Science]] towards the betterment of The human condition. [[Consumer technology]] is is the application of science towards the betterment of humanity through the coordinating mechanism of [[Capitalism]].
+
+Capitalism facilitates the interaction between ideas research development and distribution; capitalism is the engine that drives that process. However technology does not come from capitalism - capitalism is itself a technology. Capitalism is synonymous with the consolidation of power: capitalism is itself a consolidation of power in that it is a store of value and energy it is literally a store of power. Money is energy capitalism is power. Technology predates capitalism, and the jury is out on whether or not it predates power.
+
+To return to the point of paradigms though - we know fundamentally that paradigms change when there is the acceptance of contradictory evidence against the paradigm. Theoretically the progress of science is determined by the entire scientific community agreeing upon the validity of this Enterprise. In science, or at least in my naive interpretation of it, value does not depend on success. There is a toxic relationship between capitalism and science or capitalism corrupt scientific progress through economic value invested corporate interests,
+
+It is incredibly important to develop platforms that are independent from current platforms. Open source software is the foundation of paradigm shifts in technology.
+The iPhone did not exist before it existed. This is obvious, but in many ways is also unobvious: it is genuinely difficult to remember what the world was like before we all had smartphones. I literally have a hard time recalling how I process the world without that technology. Smartphones were not anything. They truly were a revolutionary technology. However as soon as they hit the market we were all instantly inside their paradigm. We were folded into the universe where those objects existed and they quickly became the norm for how we processed information, news, our social lives, our entire way of making sense of the universe has been condensed into a glass box. In a sense our screens are a portal through which we stepped and we stepped into that paradigm.

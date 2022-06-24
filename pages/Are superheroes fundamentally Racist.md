@@ -1,0 +1,3 @@
+#seed
+### Are superheroes fundamentally Racist?
+Seeing a marvel movie out of the corner of my eye. Hawkeye kills a Japanese man with his badass samurai sword skills makes me wonder about the genre. Heroes are exceptional humans . humans that are fundamentally superior to others. That are genetically better than normal people, reinforcing the idea that humans of different physical ability are more important than others

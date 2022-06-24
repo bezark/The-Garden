@@ -1,0 +1,24 @@
+---
+publish: true
+tags: systems, map, macro, micro, edit/expand
+---
+   - The shower and [[The Water System]]
+	- The power grid
+	- [[The Internet]]
+	- The food system
+	- [[The Postal System]]
+	- [[The Garden/ITP]]
+	- The news cycle
+	- My family and friend system
+	- Systemic Racism
+	- The New York City Ecosystem
+	- [[New York City]]
+	- [[My Microbiome]]
+	- [[Trash]]
+	-  Recycling
+	- [[Waste management]]
+	- My mental landscape
+	- [[Advertising]]
+	- [[Hypochondria]]
+	- [[Social Media]]
+	- Content

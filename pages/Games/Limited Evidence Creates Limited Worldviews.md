@@ -1,0 +1,1 @@
+Biggest #concept was limited evidence yields smaller imaginations. In [[Incongruous Things from Time v1]] people concoted whole ideas about worlds based solely off of a few artifacts. As soon as they found more they radically expanded their notions of what was possible. This reveals that people tend to work with what they got before they explore new horizons.

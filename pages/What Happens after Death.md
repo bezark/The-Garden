@@ -1,0 +1,2 @@
+## What Happens after [[Death]]
+when I die I will return to the earth break down and become the stuff of [[The Path]]. I will be there on the path. My particles will create [[Life]] and good probability for those who come after me. 

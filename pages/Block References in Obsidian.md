@@ -1,0 +1,22 @@
+---
+publish: true
+tags: ref
+---
+[[Block References]] in [[Obsidian]]
+
+cc @The_Badjer I have seen several questions / confusion around block refs in Obsidian compared to Roam. Here is a full collection of different posts/discussions to hopefully give you a better understanding of how block refs work in Obsidian & can get you closer to feeling like they are just as effective as in Roam. Some of these messages come from the Tools for Thought: Roam server that you may have to join (link: [https://discord.gg/WqyWyuTDKf](https://discord.gg/WqyWyuTDKf "https://discord.gg/WqyWyuTDKf")) See the following posts which should give you 1) explanation of how to do block refs without any plugins 2) templater scripts to easily create/copy/move block refs and 3) css on how to make the block refs look more like Roam "inline". To "see the text content vs UID" you just flip to preview mode. When WYSIWYG is implemented then it will be a lot "smoother" as you won't have to switch between edit / preview mode. How to search/find/create block refs: [https://discord.com/channels/824179057620811806/824179205993922601/837722052244275321](https://discord.com/channels/824179057620811806/824179205993922601/837722052244275321 "https://discord.com/channels/824179057620811806/824179205993922601/837722052244275321") [https://discord.com/channels/824179057620811806/824179205993922601/833828811002871869](https://discord.com/channels/824179057620811806/824179205993922601/833828811002871869 "https://discord.com/channels/824179057620811806/824179205993922601/833828811002871869") [https://discord.com/channels/824179057620811806/824179205993922601/833819622805340170](https://discord.com/channels/824179057620811806/824179205993922601/833819622805340170 "https://discord.com/channels/824179057620811806/824179205993922601/833819622805340170") See group of Templater scripts here (most help with block ref stuff): [https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase?discussions_q=category%3A%22Templates+Showcase%22+author%3AGitMurf](https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase?discussions_q=category%3A%22Templates+Showcase%22+author%3AGitMurf "https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase?discussions_q=category%3A%22Templates+Showcase%22+author%3AGitMurf") Messages discussing these Templater scripts: [https://discord.com/channels/686053708261228577/707816848615407697/834877489318330388](https://discord.com/channels/686053708261228577/707816848615407697/834877489318330388 "https://discord.com/channels/686053708261228577/707816848615407697/834877489318330388") [https://discord.com/channels/686053708261228577/707816848615407697/837170446583332914](https://discord.com/channels/686053708261228577/707816848615407697/837170446583332914 "https://discord.com/channels/686053708261228577/707816848615407697/837170446583332914") Creating & running your first Templater script: [https://github.com/SilentVoid13/Templater/discussions/187](https://github.com/SilentVoid13/Templater/discussions/187 "https://github.com/SilentVoid13/Templater/discussions/187") CSS for block refs to look/feel like Roam: [https://discord.com/channels/686053708261228577/702656734631821413/834293731343466548](https://discord.com/channels/686053708261228577/702656734631821413/834293731343466548 "https://discord.com/channels/686053708261228577/702656734631821413/834293731343466548") Link to similar post in TfT server: [https://discord.com/channels/824179057620811806/824179205993922601/838857405335863327](https://discord.com/channels/824179057620811806/824179205993922601/838857405335863327 "https://discord.com/channels/824179057620811806/824179205993922601/838857405335863327")(edited)
+
+![⭐](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)
+
+9
+
+![🔖](https://discord.com/assets/2424297076c0d1c8499820fc4f9d9f57.svg)
+
+12
+
+![](https://cdn.discordapp.com/avatars/181496824673206272/0ed646eec55abfbfbfe6b28790893c82.webp?size=256)@foreveryone
+
+>**music player** out of interest I went to see if you could scrobble from emacs
+
+
+[Murf talks about them](https://discord.com/channels/686053708261228577/694233507500916796/838859649192296509)

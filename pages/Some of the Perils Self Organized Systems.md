@@ -1,0 +1,3 @@
+- They are chaotic
+- They are contradictory
+- They resist hierarchal classification
