@@ -1,3 +1,2 @@
 -
 - [[TopOfMind]] - things I'm thinking about currently
-	- {{query [[TopOfMind]]}}
