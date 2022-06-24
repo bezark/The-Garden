@@ -43,24 +43,24 @@ _Your village is in crisis. The dragon must be stopped._
 - **The Dragon**
 	- Battling the dragon works just like any other challenge, but if you only get one shot. If you win, you win, if you lose, YOU LOSE.
 - # Desert (Clubs)
-- | Card                     | Event                                                                          | Efect                                                                                                                     |
-  | ---------- |--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-  | Ace:   | The Dragon. Fearsome and scary.                                                                    | **Challenge 7**                                                                                                           |
-  | Two:   | A sea of endless Dunes.                                                                            | The sand stretches on and on. Gain an additional thirst each time you enter this space including the time it is revealed. |
-  | Three: | An Oasis                                                                                           | The sand stretches on and on. Gain an additional thirst each time you enter this space including the time it is revealed. |
-  | Four:  | A Goblin camp.                                                                                     | **Challenge 4**                                                                                                           |
-  | Five:  | A steep an treacherous canyon. There appears to be something glistening half way up the cliff face | **Challenge 3**                                                                                                           |
-  | Six:   | A band of marauders                                                                                | **Challenge 5**                                                                                                           |
-  | Seven: | An expanse of spikey rocks. You see a horse wandering in the distance                              | **Challenge 2**                                                                                                           |
-  | Eight: | A shady cave to rest your head.                                                                    | You gain no thirst if you end your day here                                                                               |
-# Rewards (Diamonds)
-| Card   | Effect                                                                     |
-| ------ | -------------------------------------------------------------------------- |
-| Ace:   | The Royal Scimitar. **+5 Strength**                                        |
-| Two:   | Aemon's Shield. **+4 Strength**                                            |
-| Three: | A rusty Spear **+3 Strength**                                              |
-| Four:  | A full waterskin! Lose 2 thirst                                            |
-| Five:  | The Helm of Fate. Discard this reward to immediately reroll one challenge. |
-| Six:   | Dust and Bones                                                             |
+	- | Card                     | Event                                                                          | Efect                                                                                                                     |
+	  | ---------- |--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+	  | Ace:   | The Dragon. Fearsome and scary.                                                                    | **Challenge 7**                                                                                                           |
+	  | Two:   | A sea of endless Dunes.                                                                            | The sand stretches on and on. Gain an additional thirst each time you enter this space including the time it is revealed. |
+	  | Three: | An Oasis                                                                                           | The sand stretches on and on. Gain an additional thirst each time you enter this space including the time it is revealed. |
+	  | Four:  | A Goblin camp.                                                                                     | **Challenge 4**                                                                                                           |
+	  | Five:  | A steep an treacherous canyon. There appears to be something glistening half way up the cliff face | **Challenge 3**                                                                                                           |
+	  | Six:   | A band of marauders                                                                                | **Challenge 5**                                                                                                           |
+	  | Seven: | An expanse of spikey rocks. You see a horse wandering in the distance                              | **Challenge 2**                                                                                                           |
+	  | Eight: | A shady cave to rest your head.                                                                    | You gain no thirst if you end your day here                                                                               |
+- # Rewards (Diamonds)
+	- | Card   | Effect                                                                     |
+	  | ------ | -------------------------------------------------------------------------- |
+	  | Ace:   | The Royal Scimitar. **+5 Strength**                                        |
+	  | Two:   | Aemon's Shield. **+4 Strength**                                            |
+	  | Three: | A rusty Spear **+3 Strength**                                              |
+	  | Four:  | A full waterskin! Lose 2 thirst                                            |
+	  | Five:  | The Helm of Fate. Discard this reward to immediately reroll one challenge. |
+	  | Six:   | Dust and Bones                                                             |
 ### Tags:
  #game/rpg #game/singleplayer #game #game/singleplayer #game/dice
