@@ -1,4 +1,5 @@
 - [[John Bezark]] is a Game designer, Multimedia and Interactive Artist, Theatre Director and Knowledge Gardner. A recent graduate of [[NYU ITP]], they are
 - In the last two years John has made over 50 different games, a 3D virtural Mueseum Experience as a Prototype for the Natural History Museum, and a Website that's powered by the sun!
-- His work expolores
+- His work expolores [[Systems Thinking]], [[Deep Time]], [[networks]], [[Futures]] and [[History]].
+- In the past he has designed and constructed Escape Rooms, Directed nonlinear choose your own adventure plays,
 - Pronouns are  he/they
