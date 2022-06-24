@@ -1,2 +1,3 @@
 - {{embed ((62b1f03d-4116-497d-81f1-8c7ce5255215))}}
-- {{query [[TopOfMind]]}}
+- # Top Of Mind
+	- {{query [[TopOfMind]]}}
