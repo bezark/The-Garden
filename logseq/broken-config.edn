@@ -46,7 +46,7 @@
 ;; If `:sidebar` is not set, sidebar will be hidden
 ;; Example:
 ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
- :default-home {:page "README" :sidebar}
+:default-home {:page "README" :sidebar}
 ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
 ;; :default-home {:page "Jun 3rd, 2021"}
 ;; 3. Setup page "home" as home page with multiple pages in sidebar
@@ -113,29 +113,29 @@
 [
 {:title "NOW"
 :query [:find (pull ?h [*])
-        :in $ ?start ?today
-        :where
-        [?h :block/marker ?marker]
-        [(contains? #{"NOW"} ?marker)]
-        [?h :block/page ?p]
-        ]
+      :in $ ?start ?today
+      :where
+      [?h :block/marker ?marker]
+      [(contains? #{"NOW"} ?marker)]
+      [?h :block/page ?p]
+      ]
 :inputs [:14d :today]
 :result-transform (fn [result]
-                    (sort-by (fn [h]
-                               (get h :block/priority "Z")) result))
+                  (sort-by (fn [h]
+                             (get h :block/priority "Z")) result))
 :collapsed? false}
 {:title "On Deck"
 :query [:find (pull ?h [*])
-        :in $ ?start ?today
-        :where
-        [?h :block/marker ?marker]
-        [(contains? #{"DOING"} ?marker)]
-        [?h :block/page ?p]
-        ]
+      :in $ ?start ?today
+      :where
+      [?h :block/marker ?marker]
+      [(contains? #{"DOING"} ?marker)]
+      [?h :block/page ?p]
+      ]
 :inputs [:14d :today]
 :result-transform (fn [result]
-                    (sort-by (fn [h]
-                               (get h :block/priority "Z")) result))
+                  (sort-by (fn [h]
+                             (get h :block/priority "Z")) result))
 :collapsed? false}
 
 ]
@@ -183,8 +183,8 @@
 ;; E.g. #{:created-at :updated-at}
 :block-hidden-properties #{}
 :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 3}, :checkbox {:counts 87}, :parentheses {:counts 80}, :command {:counts 42}, :paint {:counts 1}, :list {:counts 4}, :link {:counts 2}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 38}, :tag {:counts 13}, :brackets {:counts 482}, :italic {:counts 0}, :a-b {:counts 7}, :rotate-clockwise {:counts 5}}
- :publishing/all-pages-public? true
- 
+:publishing/all-pages-public? true
+
 
 
 
