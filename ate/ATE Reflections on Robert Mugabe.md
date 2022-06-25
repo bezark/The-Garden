@@ -1,0 +1,12 @@
+---
+tags: itp
+---
+
+I decided to research and reflect on the life of Robert Mugabe, the famous leader of Zimbabwe who came to power in the 1980s and remained in power until 2017. He was a very complicated figure to be sure- he was at once an educator, a revolutionary, seemingly both paranoid and righteously angry; determined, and capable of mass violence, intimidation and torture. Under his rule,  the adult literacy rate rose from 62% to 82%, the number of schools increased by over 800%, and child immunizations were raised from 25% of the population to 92%. But also after the farm invasions in the early 2000s, the Economy completely crashed - by 2005 80% of the population was unemployed and only 20% of children were in schooling. Life expectancy plummeted. And that's not even mentioning some of his methods of maintaining power.
+
+He was a bit of a chameleon- he espoused Marxist rhetoric as a revolutionary but when he came to power, enacted conservative capitalist agenda. He made many overtures to white Zimbabweans upon coming to power, only to have his resentment harden over the years as he became increasingly suspicious that the West was out to get him. At the same time, however, with evidence of real attempts of destabilization  from South Africa, not to mention the extortion practiced by western countries and the IMF, in some sense he was right.
+ 
+His direct campaign to redistribute lands from white farmers to landless black farmers was really fascinating- it was in his language for many years, and seemed to be a cornerstone of his philosophy. In a lot of ways he viewed farmers as the 'workers' and the backbone of country. But redistributing the land held by white farmers consistently seemed like something he was unable to do until the early 2000s. The fact that Zimbabwe was then severely destabilized shortly thereafter I think was no coincidence- where does fertilizer come from after all? 
+ 
+There is a real difficulty in evaluating someone like Mugabe, and I am NOT qualified to really do so. All in all I found his story very compelling, but his philosophy on Pan-Africanism a little unclear. He seemed to very clearly see white colonists as explicit enemies to be defeated with violence. However his extension of enemies to many of those  around him makes it hard to evaluate whether his perceptions were born of legitimate grievances, paranoia or somewhere in between.
+

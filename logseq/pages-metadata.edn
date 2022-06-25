@@ -6,7 +6,7 @@
   :block/updated-at 1656098891750}
  {:block/name "100 days of making games",
   :block/created-at 1656098891750,
-  :block/updated-at 1656098891750}
+  :block/updated-at 1656102943744}
  {:block/name "100 days playtesting",
   :block/created-at 1656098893137,
   :block/updated-at 1656098893137}
@@ -169,9 +169,6 @@
  {:block/name "2022-06-17 friday",
   :block/created-at 1655491920638,
   :block/updated-at 1655500900043}
- {:block/name "2022-06-18 saturday",
-  :block/created-at 1655562992798,
-  :block/updated-at 1655562992798}
  {:block/name "2022-06-20 monday",
   :block/created-at 1655828541163,
   :block/updated-at 1655828541163}
@@ -219,14 +216,11 @@
   :block/created-at 1656098238949,
   :block/updated-at 1656098238949}
  {:block/name "7 types of play",
-  :block/created-at 1656098892723,
-  :block/updated-at 1656098892723}
+  :block/created-at 1656102830360,
+  :block/updated-at 1656102830360}
  {:block/name "8.5x11 1.png",
   :block/created-at 1656098894159,
   :block/updated-at 1656098894159}
- {:block/name "859dab7b-011c-438b-ab6a-0b488ba1cb30.jpg",
-  :block/created-at 1656098908471,
-  :block/updated-at 1656098908471}
  {:block/name
   "89  lera boroditsky on language, thought, space, and time#^211244",
   :block/created-at 1656098892904,
@@ -421,7 +415,7 @@
   :block/updated-at 1656098900822}
  {:block/name "a dragon in the desert",
   :block/created-at 1656098893526,
-  :block/updated-at 1656098893526}
+  :block/updated-at 1656103049138}
  {:block/name "a flower for spanky",
   :block/created-at 1656098893435,
   :block/updated-at 1656098893435}
@@ -489,8 +483,8 @@
   :block/created-at 1656098902287,
   :block/updated-at 1656098902287}
  {:block/name "american history",
-  :block/created-at 1656098892701,
-  :block/updated-at 1656098892701}
+  :block/created-at 1656102830407,
+  :block/updated-at 1656102830407}
  {:block/name "ancient earth map",
   :block/created-at 1656098890650,
   :block/updated-at 1656098890650}
@@ -598,8 +592,8 @@
   :block/created-at 1655828541520,
   :block/updated-at 1655828541520}
  {:block/name "backpropagation",
-  :block/created-at 1656098892747,
-  :block/updated-at 1656098892747}
+  :block/created-at 1656102830396,
+  :block/updated-at 1656102830396}
  {:block/name "bad",
   :block/created-at 1656098903370,
   :block/updated-at 1656098903370}
@@ -636,9 +630,6 @@
  {:block/name "block references",
   :block/created-at 1656098891038,
   :block/updated-at 1656098891038}
- {:block/name "block references in obsidian",
-  :block/created-at 1656098891035,
-  :block/updated-at 1656098891035}
  {:block/name "blockchain",
   :block/created-at 1656098891062,
   :block/updated-at 1656098891062}
@@ -1062,7 +1053,7 @@
   :block/updated-at 1656098891947}
  {:block/name "don't get sick",
   :block/created-at 1656098893437,
-  :block/updated-at 1656098893437}
+  :block/updated-at 1656102975507}
  {:block/name "done",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
@@ -1079,11 +1070,11 @@
   :block/created-at 1656098895407,
   :block/updated-at 1656098895407}
  {:block/name "dr. rablat's lab rats prototype",
-  :block/created-at 1656098893524,
-  :block/updated-at 1656098893524}
+  :block/created-at 1656103551078,
+  :block/updated-at 1656103551078}
  {:block/name "dr. rablat's lab rats|web version",
-  :block/created-at 1656098893524,
-  :block/updated-at 1656098893524}
+  :block/created-at 1656103551079,
+  :block/updated-at 1656103551079}
  {:block/name "dr/ rablat's lab rats",
   :block/created-at 1656098895362,
   :block/updated-at 1656098895362}
@@ -1611,10 +1602,10 @@
   :block/updated-at 1656098892763}
  {:block/name "games",
   :block/created-at 1656098897020,
-  :block/updated-at 1656098897020}
+  :block/updated-at 1656102902125}
  {:block/name "games i've made so far",
   :block/created-at 1656098893138,
-  :block/updated-at 1656098893138}
+  :block/updated-at 1656102962151}
  {:block/name "games with different maps",
   :block/created-at 1656098892908,
   :block/updated-at 1656098892908}
@@ -1749,7 +1740,7 @@
   :block/updated-at 1656098900664}
  {:block/name "highdeas on 2021-04-02",
   :block/created-at 1656098906497,
-  :block/updated-at 1656098906497}
+  :block/updated-at 1656102089188}
  {:block/name "highdeas on 2021-05-13",
   :block/created-at 1656098906406,
   :block/updated-at 1656098906406}
@@ -1860,8 +1851,8 @@
   :block/created-at 1656098903239,
   :block/updated-at 1656098903239}
  {:block/name "ice cube sliders",
-  :block/created-at 1656098893511,
-  :block/updated-at 1656098893511}
+  :block/created-at 1656103551078,
+  :block/updated-at 1656103551078}
  {:block/name "icm",
   :block/created-at 1656098908455,
   :block/updated-at 1656098908455}
@@ -1912,7 +1903,7 @@
  {:block/name "idiosyncrasies of three.js",
   :block/created-at 1656098906356,
   :block/updated-at 1656098906356}
- {:block/name "idiosyncrasies of three/js",
+ {:block/name "idiosyncrasies of threejs",
   :block/created-at 1656098908587,
   :block/updated-at 1656098908587}
  {:block/name "img_0004.jpeg",
@@ -2009,14 +2000,14 @@
   :block/created-at 1656098893480,
   :block/updated-at 1656098893480}
  {:block/name "instagram post - 2.png",
-  :block/created-at 1656098895434,
-  :block/updated-at 1656098895434}
+  :block/created-at 1656103551079,
+  :block/updated-at 1656103551079}
  {:block/name "instagram post - 3.png",
-  :block/created-at 1656098895433,
-  :block/updated-at 1656098895433}
+  :block/created-at 1656103551078,
+  :block/updated-at 1656103551078}
  {:block/name "instagram post - 4.png",
-  :block/created-at 1656098895433,
-  :block/updated-at 1656098895433}
+  :block/created-at 1656103551077,
+  :block/updated-at 1656103551077}
  {:block/name "instagram post - 5.png",
   :block/created-at 1656098893484,
   :block/updated-at 1656098893484}
@@ -2152,13 +2143,16 @@
   :block/updated-at 1656098901324}
  {:block/name "john bezark",
   :block/created-at 1656098238413,
-  :block/updated-at 1656098238413}
+  :block/updated-at 1656103093172}
  {:block/name "john mcphee",
   :block/created-at 1656098901300,
-  :block/updated-at 1656098901300}
+  :block/updated-at 1656103071160}
  {:block/name "john mcphee’",
   :block/created-at 1656098891825,
   :block/updated-at 1656098891825}
+ {:block/name "john's bio",
+  :block/created-at 1656103093171,
+  :block/updated-at 1656103462813}
  {:block/name "joule",
   :block/created-at 1656098892115,
   :block/updated-at 1656098892115}
@@ -2174,9 +2168,6 @@
  {:block/name "js class",
   :block/created-at 1656098901285,
   :block/updated-at 1656098901285}
- {:block/name "jun 24th, 2022",
-  :block/created-at 1656098242384,
-  :block/updated-at 1656098242384}
  {:block/name "keword notes",
   :block/created-at 1656098901433,
   :block/updated-at 1656098901433}
@@ -2649,6 +2640,9 @@
  {:block/name "nyu",
   :block/created-at 1656098906006,
   :block/updated-at 1656098906006}
+ {:block/name "nyu itp",
+  :block/created-at 1656103170009,
+  :block/updated-at 1656103170009}
  {:block/name "nyudaily",
   :block/created-at 1656098895283,
   :block/updated-at 1656098895283}
@@ -2667,9 +2661,6 @@
  {:block/name "obsidian plugin ideas",
   :block/created-at 1656098901496,
   :block/updated-at 1656098901496}
- {:block/name "obsidian plugin ideas#^2309f3",
-  :block/created-at 1656098906500,
-  :block/updated-at 1656098906500}
  {:block/name "obsidian plugins",
   :block/created-at 1656098901496,
   :block/updated-at 1656098901496}
@@ -2882,7 +2873,7 @@
   :block/updated-at 1656098906232}
  {:block/name "places to start",
   :block/created-at 1656098237973,
-  :block/updated-at 1656098237973}
+  :block/updated-at 1656102893739}
  {:block/name "platform",
   :block/created-at 1656098902970,
   :block/updated-at 1656098902970}
@@ -4252,9 +4243,6 @@
  {:block/name "website",
   :block/created-at 1656098903720,
   :block/updated-at 1656098903720}
- {:block/name "welcome",
-  :block/created-at 1655491695159,
-  :block/updated-at 1655491695159}
  {:block/name "what happens after death",
   :block/created-at 1656098905951,
   :block/updated-at 1656098905951}
