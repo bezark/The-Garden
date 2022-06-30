@@ -190,6 +190,9 @@
  {:block/name "2022-06-27 monday",
   :block/created-at 1656351228715,
   :block/updated-at 1656351228715}
+ {:block/name "2022-06-30 thursday",
+  :block/created-at 1656627072591,
+  :block/updated-at 1656627072591}
  {:block/name
   "21 lessons for the 21st century  yuval noah harari  talks at google",
   :block/created-at 1656098890597,
@@ -224,6 +227,9 @@
  {:block/name "500 years",
   :block/created-at 1656098890769,
   :block/updated-at 1656098890769}
+ {:block/name "61b24837-affd-4e6c-b8cd-25b113fbae2b",
+  :block/created-at 1656627072880,
+  :block/updated-at 1656627072880}
  {:block/name "62b5f533-14fd-4368-a9bc-1d9a560b618c",
   :block/created-at 1656098238949,
   :block/updated-at 1656098238949}
@@ -1192,7 +1198,7 @@
   :block/updated-at 1656098895407}
  {:block/name "dynamic",
   :block/created-at 1655828541463,
-  :block/updated-at 1655828541463}
+  :block/updated-at 1656627076678}
  {:block/name "e=mc^2",
   :block/created-at 1656098892115,
   :block/updated-at 1656098892115}
@@ -2493,6 +2499,15 @@
  {:block/name "manufactured obsolescence",
   :block/created-at 1656187723408,
   :block/updated-at 1656187723408}
+ {:block/name "many worlds game",
+  :block/created-at 1656627072891,
+  :block/updated-at 1656627072891}
+ {:block/name "many worlds game/version",
+  :block/created-at 1656627072891,
+  :block/updated-at 1656627072891}
+ {:block/name "many worlds game/version/9",
+  :block/created-at 1656627072890,
+  :block/updated-at 1656627072890}
  {:block/name "mao tse-tung",
   :block/created-at 1656187723429,
   :block/updated-at 1656187723429}
