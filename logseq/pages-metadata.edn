@@ -79,6 +79,12 @@
  {:block/name "2021-03-21 sunday",
   :block/created-at 1656098897090,
   :block/updated-at 1656098897090}
+ {:block/name "2021-03-23 ate",
+  :block/created-at 1656187722557,
+  :block/updated-at 1656187722557}
+ {:block/name "2021-03-23 ate ",
+  :block/created-at 1656187722925,
+  :block/updated-at 1656187722925}
  {:block/name "2021-03-25 thursday",
   :block/created-at 1656098898867,
   :block/updated-at 1656098898867}
@@ -88,6 +94,9 @@
  {:block/name "2021-03-29 monday",
   :block/created-at 1656098893681,
   :block/updated-at 1656098893681}
+ {:block/name "2021-03-30 ate",
+  :block/created-at 1656187722595,
+  :block/updated-at 1656187722595}
  {:block/name "2021-03-30 tuesday",
   :block/created-at 1656098897692,
   :block/updated-at 1656098897692}
@@ -103,6 +112,9 @@
  {:block/name "2021-04-05 monday",
   :block/created-at 1656098894331,
   :block/updated-at 1656098894331}
+ {:block/name "2021-04-06 ate",
+  :block/created-at 1656187722649,
+  :block/updated-at 1656187722649}
  {:block/name "2021-04-09 friday",
   :block/created-at 1656098894067,
   :block/updated-at 1656098894067}
@@ -121,6 +133,9 @@
  {:block/name "2021-05-01 steno practice",
   :block/created-at 1656098903851,
   :block/updated-at 1656098903851}
+ {:block/name "2021-05-04 tuesday",
+  :block/created-at 1656187722892,
+  :block/updated-at 1656187722892}
  {:block/name "2021-05-13 thursday",
   :block/created-at 1656098906416,
   :block/updated-at 1656098906416}
@@ -166,18 +181,15 @@
  {:block/name "2021-10-25#^5de93a",
   :block/created-at 1656098903353,
   :block/updated-at 1656098903353}
- {:block/name "2022-06-17 friday",
-  :block/created-at 1655491920638,
-  :block/updated-at 1655500900043}
- {:block/name "2022-06-20 monday",
-  :block/created-at 1655828541163,
-  :block/updated-at 1655828541163}
- {:block/name "2022-06-21 tuesday",
-  :block/created-at 1655828541199,
-  :block/updated-at 1655828541199}
- {:block/name "2022-06-24 friday",
-  :block/created-at 1656089961097,
-  :block/updated-at 1656091129891}
+ {:block/name "2022-06-25 saturday",
+  :block/created-at 1656257074450,
+  :block/updated-at 1656257074450}
+ {:block/name "2022-06-26 sunday",
+  :block/created-at 1656257073722,
+  :block/updated-at 1656257073722}
+ {:block/name "2022-06-27 monday",
+  :block/created-at 1656351228715,
+  :block/updated-at 1656351228715}
  {:block/name
   "21 lessons for the 21st century  yuval noah harari  talks at google",
   :block/created-at 1656098890597,
@@ -221,6 +233,9 @@
  {:block/name "8.5x11 1.png",
   :block/created-at 1656098894159,
   :block/updated-at 1656098894159}
+ {:block/name "859dab7b-011c-438b-ab6a-0b488ba1cb30.jpg",
+  :block/created-at 1656187739238,
+  :block/updated-at 1656187739238}
  {:block/name
   "89  lera boroditsky on language, thought, space, and time#^211244",
   :block/created-at 1656098892904,
@@ -299,9 +314,6 @@
  {:block/name "[]",
   :block/created-at 1656098900919,
   :block/updated-at 1656098900919}
- {:block/name "[bees]",
-  :block/created-at 1656098890825,
-  :block/updated-at 1656098890825}
  {:block/name "[brainstorm",
   :block/created-at 1656098892763,
   :block/updated-at 1656098892763}
@@ -314,9 +326,6 @@
  {:block/name "[digital garden",
   :block/created-at 1656098891896,
   :block/updated-at 1656098891896}
- {:block/name "[fact",
-  :block/created-at 1656098890826,
-  :block/updated-at 1656098890826}
  {:block/name "[game",
   :block/created-at 1656098892774,
   :block/updated-at 1656098892774}
@@ -461,9 +470,27 @@
  {:block/name "advertsing towns history",
   :block/created-at 1656098897069,
   :block/updated-at 1656098897069}
+ {:block/name "aesthetic",
+  :block/created-at 1656187722835,
+  :block/updated-at 1656187722835}
+ {:block/name "african fractals",
+  :block/created-at 1656187722643,
+  :block/updated-at 1656187722643}
+ {:block/name "afrofuturism",
+  :block/created-at 1656187722833,
+  :block/updated-at 1656187722833}
+ {:block/name "afrotectopia",
+  :block/created-at 1656187722685,
+  :block/updated-at 1656187722685}
+ {:block/name "afrotectopia as a case study",
+  :block/created-at 1656187722862,
+  :block/updated-at 1656187722862}
  {:block/name "afrotectopian ecologies",
   :block/created-at 1656098893347,
   :block/updated-at 1656098893347}
+ {:block/name "afrotectopian ecologies presentation",
+  :block/created-at 1656187722890,
+  :block/updated-at 1656187722890}
  {:block/name "after effects",
   :block/created-at 1656098908501,
   :block/updated-at 1656098908501}
@@ -485,18 +512,27 @@
  {:block/name "american history",
   :block/created-at 1656102830407,
   :block/updated-at 1656102830407}
+ {:block/name "amnh cultural halls",
+  :block/created-at 1656187723867,
+  :block/updated-at 1656187723867}
  {:block/name "ancient earth map",
   :block/created-at 1656098890650,
   :block/updated-at 1656098890650}
  {:block/name "andy matuschak",
   :block/created-at 1656098890675,
   :block/updated-at 1656098890675}
+ {:block/name "angela davis",
+  :block/created-at 1656187723310,
+  :block/updated-at 1656187723310}
  {:block/name "animals",
   :block/created-at 1656098891946,
   :block/updated-at 1656098891946}
  {:block/name "animation",
   :block/created-at 1656098906523,
   :block/updated-at 1656098906523}
+ {:block/name "anthropocene",
+  :block/created-at 1656187722802,
+  :block/updated-at 1656187722802}
  {:block/name "anthropocentrism",
   :block/created-at 1656098902799,
   :block/updated-at 1656098902799}
@@ -530,6 +566,9 @@
  {:block/name "apps",
   :block/created-at 1656098908532,
   :block/updated-at 1656098908532}
+ {:block/name "ar",
+  :block/created-at 1656187723600,
+  :block/updated-at 1656187723600}
  {:block/name "arduino",
   :block/created-at 1656098890397,
   :block/updated-at 1656098890397}
@@ -539,6 +578,9 @@
  {:block/name "arg",
   :block/created-at 1656098897033,
   :block/updated-at 1656098897033}
+ {:block/name "ari melenciano",
+  :block/created-at 1656187722919,
+  :block/updated-at 1656187722919}
  {:block/name "article",
   :block/created-at 1656098891629,
   :block/updated-at 1656098891629}
@@ -567,6 +609,9 @@
  {:block/name "ate homework for 2021-04-06",
   :block/created-at 1656098904122,
   :block/updated-at 1656098904122}
+ {:block/name "ate reflections on robert mugabe",
+  :block/created-at 1656187722725,
+  :block/updated-at 1656187722725}
  {:block/name "atheism",
   :block/created-at 1656098904471,
   :block/updated-at 1656098904471}
@@ -588,6 +633,9 @@
  {:block/name "b",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
+ {:block/name "back to black and reclaiming radicalism",
+  :block/created-at 1656187722951,
+  :block/updated-at 1656187722951}
  {:block/name "backlinks",
   :block/created-at 1655828541520,
   :block/updated-at 1655828541520}
@@ -624,12 +672,15 @@
  {:block/name "big questions in math",
   :block/created-at 1656098890972,
   :block/updated-at 1656098890972}
+ {:block/name "biomimicry",
+  :block/created-at 1656187723828,
+  :block/updated-at 1656187723828}
+ {:block/name "black panther party",
+  :block/created-at 1656187723433,
+  :block/updated-at 1656187723433}
  {:block/name "block",
   :block/created-at 1656098238432,
   :block/updated-at 1656098238432}
- {:block/name "block references",
-  :block/created-at 1656098891038,
-  :block/updated-at 1656098891038}
  {:block/name "blockchain",
   :block/created-at 1656098891062,
   :block/updated-at 1656098891062}
@@ -659,6 +710,9 @@
  {:block/name "boot fall",
   :block/created-at 1656098893434,
   :block/updated-at 1656098893434}
+ {:block/name "borders in the age of networks",
+  :block/created-at 1656187722982,
+  :block/updated-at 1656187722982}
  {:block/name "bottom-up",
   :block/created-at 1656098238421,
   :block/updated-at 1656098238421}
@@ -695,6 +749,9 @@
  {:block/name "bundlers",
   :block/created-at 1656098891178,
   :block/updated-at 1656098891178}
+ {:block/name "by any means necessary",
+  :block/created-at 1656187722599,
+  :block/updated-at 1656187722599}
  {:block/name "c",
   :block/created-at 1655491801045,
   :block/updated-at 1655491801045}
@@ -743,6 +800,9 @@
  {:block/name "chaos performance",
   :block/created-at 1656098891337,
   :block/updated-at 1656098891337}
+ {:block/name "che guevara",
+  :block/created-at 1656187723987,
+  :block/updated-at 1656187723987}
  {:block/name "chemical reaction",
   :block/created-at 1656098892135,
   :block/updated-at 1656098892135}
@@ -758,6 +818,9 @@
  {:block/name "chroniciling mechanic",
   :block/created-at 1656098891396,
   :block/updated-at 1656098891396}
+ {:block/name "circular economy",
+  :block/created-at 1656187723408,
+  :block/updated-at 1656187723408}
  {:block/name "cities",
   :block/created-at 1656098906205,
   :block/updated-at 1656098906205}
@@ -904,6 +967,9 @@
  {:block/name "currency",
   :block/created-at 1656098897568,
   :block/updated-at 1656098897568}
+ {:block/name "cybernetic systems",
+  :block/created-at 1656187723031,
+  :block/updated-at 1656187723031}
  {:block/name "cybernetics",
   :block/created-at 1656098903586,
   :block/updated-at 1656098903586}
@@ -967,6 +1033,10 @@
  {:block/name "decompensation",
   :block/created-at 1656098891811,
   :block/updated-at 1656098891811}
+ {:block/name
+  "deconstructing eurocentricism, radicalism, and liberalism",
+  :block/created-at 1656187722555,
+  :block/updated-at 1656187722555}
  {:block/name "deep time",
   :block/created-at 1656098890920,
   :block/updated-at 1656098890920}
@@ -979,6 +1049,9 @@
  {:block/name "descartes",
   :block/created-at 1656098902286,
   :block/updated-at 1656098902286}
+ {:block/name "desigining communities",
+  :block/created-at 1656187722862,
+  :block/updated-at 1656187722862}
  {:block/name "deterministic",
   :block/created-at 1656098890595,
   :block/updated-at 1656098890595}
@@ -1024,6 +1097,12 @@
  {:block/name "distributed",
   :block/created-at 1656098238639,
   :block/updated-at 1656098238639}
+ {:block/name "divide and conquer",
+  :block/created-at 1656187722952,
+  :block/updated-at 1656187722952}
+ {:block/name "divination",
+  :block/created-at 1656187722797,
+  :block/updated-at 1656187722797}
  {:block/name "dna",
   :block/created-at 1656098891626,
   :block/updated-at 1656098891626}
@@ -1123,6 +1202,9 @@
  {:block/name "earth",
   :block/created-at 1656098906153,
   :block/updated-at 1656098906153}
+ {:block/name "ecology",
+  :block/created-at 1656187722648,
+  :block/updated-at 1656187722648}
  {:block/name "economic science fictions",
   :block/created-at 1656098901240,
   :block/updated-at 1656098901240}
@@ -1229,9 +1311,15 @@
  {:block/name "epigenetics",
   :block/created-at 1656098892166,
   :block/updated-at 1656098892166}
+ {:block/name "equality",
+  :block/created-at 1656187722599,
+  :block/updated-at 1656187722599}
  {:block/name "espruino",
   :block/created-at 1656098906498,
   :block/updated-at 1656098906498}
+ {:block/name "eucliddian geometry",
+  :block/created-at 1656187722802,
+  :block/updated-at 1656187722802}
  {:block/name "evergreen notes",
   :block/created-at 1656098890677,
   :block/updated-at 1656098890677}
@@ -1265,6 +1353,9 @@
  {:block/name "fake game",
   :block/created-at 1656098897211,
   :block/updated-at 1656098897211}
+ {:block/name "fascism",
+  :block/created-at 1656187723272,
+  :block/updated-at 1656187723272}
  {:block/name "favorites",
   :block/created-at 1655491801044,
   :block/updated-at 1655491801044}
@@ -1374,6 +1465,10 @@
  {:block/name "freedom",
   :block/created-at 1656098891846,
   :block/updated-at 1656098891846}
+ {:block/name
+  "freedomdreams_black_feminist_dreams-annotation-2021-03-28_21_40_28",
+  :block/created-at 1656187722600,
+  :block/updated-at 1656187722600}
  {:block/name "freedomdreams_black_feminist_dreams.pdf",
   :block/created-at 1656098905006,
   :block/updated-at 1656098905006}
@@ -1392,6 +1487,9 @@
  {:block/name "future",
   :block/created-at 1656098891335,
   :block/updated-at 1656098891335}
+ {:block/name "future knowledges and the dilemmas of decolonization",
+  :block/created-at 1656187723162,
+  :block/updated-at 1656187723162}
  {:block/name
   "future knowledges and the dilemmas of decolonization#^testy",
   :block/created-at 1656098902286,
@@ -1408,6 +1506,9 @@
  {:block/name "futures cone",
   :block/created-at 1656098892617,
   :block/updated-at 1656098892617}
+ {:block/name "futurism in latin america research",
+  :block/created-at 1656187722923,
+  :block/updated-at 1656187722923}
  {:block/name "game",
   :block/created-at 1656098890796,
   :block/updated-at 1656098890796}
@@ -1714,6 +1815,9 @@
  {:block/name "heatwave",
   :block/created-at 1656098900637,
   :block/updated-at 1656098900637}
+ {:block/name "heidegger",
+  :block/created-at 1656187722986,
+  :block/updated-at 1656187722986}
  {:block/name "hero's journey",
   :block/created-at 1656098903905,
   :block/updated-at 1656098903905}
@@ -1762,6 +1866,9 @@
  {:block/name "history of energy research project",
   :block/created-at 1656098896729,
   :block/updated-at 1656098896729}
+ {:block/name "ho chi minh",
+  :block/created-at 1656187723214,
+  :block/updated-at 1656187723214}
  {:block/name "hololens",
   :block/created-at 1656098902034,
   :block/updated-at 1656098902034}
@@ -1811,6 +1918,9 @@
  {:block/name "how to track objects in three/js",
   :block/created-at 1656098901054,
   :block/updated-at 1656098901054}
+ {:block/name "human centered design",
+  :block/created-at 1656187723234,
+  :block/updated-at 1656187723234}
  {:block/name "humans",
   :block/created-at 1656098906269,
   :block/updated-at 1656098906269}
@@ -1847,6 +1957,9 @@
  {:block/name "i cannot control time",
   :block/created-at 1656098900891,
   :block/updated-at 1656098900891}
+ {:block/name "i don't have to collect any cards",
+  :block/created-at 1656187723656,
+  :block/updated-at 1656187723656}
  {:block/name "i2c",
   :block/created-at 1656098903239,
   :block/updated-at 1656098903239}
@@ -1897,15 +2010,15 @@
  {:block/name "identity",
   :block/created-at 1656098906268,
   :block/updated-at 1656098906268}
- {:block/name "idiosyncrasies of three",
-  :block/created-at 1656098908587,
-  :block/updated-at 1656098908587}
  {:block/name "idiosyncrasies of three.js",
   :block/created-at 1656098906356,
   :block/updated-at 1656098906356}
  {:block/name "idiosyncrasies of threejs",
   :block/created-at 1656098908587,
   :block/updated-at 1656098908587}
+ {:block/name "if money is energy, violence is power",
+  :block/created-at 1656187723253,
+  :block/updated-at 1656187723253}
  {:block/name "img_0004.jpeg",
   :block/created-at 1656098903306,
   :block/updated-at 1656098903306}
@@ -1999,15 +2112,6 @@
  {:block/name "instagram post - 14.png",
   :block/created-at 1656098893480,
   :block/updated-at 1656098893480}
- {:block/name "instagram post - 2.png",
-  :block/created-at 1656103551079,
-  :block/updated-at 1656103551079}
- {:block/name "instagram post - 3.png",
-  :block/created-at 1656103551078,
-  :block/updated-at 1656103551078}
- {:block/name "instagram post - 4.png",
-  :block/created-at 1656103551077,
-  :block/updated-at 1656103551077}
  {:block/name "instagram post - 5.png",
   :block/created-at 1656098893484,
   :block/updated-at 1656098893484}
@@ -2054,6 +2158,9 @@
   "it is easier to imagine the end of the world than the end of capitalism",
   :block/created-at 1656098890915,
   :block/updated-at 1656098890915}
+ {:block/name "italian futurism",
+  :block/created-at 1656187722834,
+  :block/updated-at 1656187722834}
  {:block/name "iteration",
   :block/created-at 1656098891489,
   :block/updated-at 1656098891489}
@@ -2094,16 +2201,6 @@
   "itp/100days/blog/thegames/adjustments to my 100 days of making process",
   :block/created-at 1656098893954,
   :block/updated-at 1656098893954}
- {:block/name "itp/100days/blog/thegames/assets",
-  :block/created-at 1656098895437,
-  :block/updated-at 1656098895437}
- {:block/name "itp/100days/blog/thegames/assets/dontgetsickpics",
-  :block/created-at 1656098895438,
-  :block/updated-at 1656098895438}
- {:block/name
-  "itp/100days/blog/thegames/assets/dontgetsickpics/instagram post - 1.png",
-  :block/created-at 1656098895434,
-  :block/updated-at 1656098895434}
  {:block/name
   "itp/100days/blog/thegames/sigil story playtest 2021-02-13",
   :block/created-at 1656098893216,
@@ -2159,15 +2256,39 @@
  {:block/name "journal from 2050",
   :block/created-at 1656098901362,
   :block/updated-at 1656098901362}
+ {:block/name "journal from 2100",
+  :block/created-at 1656187723289,
+  :block/updated-at 1656187723289}
  {:block/name "journaling",
   :block/created-at 1656098906025,
   :block/updated-at 1656098906025}
+ {:block/name "joy james",
+  :block/created-at 1656187722597,
+  :block/updated-at 1656187722597}
  {:block/name "js",
   :block/created-at 1656098891181,
   :block/updated-at 1656098891181}
  {:block/name "js class",
   :block/created-at 1656098901285,
   :block/updated-at 1656098901285}
+ {:block/name "julius nyerere",
+  :block/created-at 1656187723329,
+  :block/updated-at 1656187723329}
+ {:block/name "jun 17th, 2022",
+  :block/created-at 1656187722166,
+  :block/updated-at 1656187722166}
+ {:block/name "jun 20th, 2022",
+  :block/created-at 1656187722360,
+  :block/updated-at 1656187722360}
+ {:block/name "jun 21st, 2022",
+  :block/created-at 1656187722323,
+  :block/updated-at 1656187722323}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656187722259,
+  :block/updated-at 1656187722259}
+ {:block/name "kehinde andrews",
+  :block/created-at 1656187722954,
+  :block/updated-at 1656187722954}
  {:block/name "keword notes",
   :block/created-at 1656098901433,
   :block/updated-at 1656098901433}
@@ -2183,6 +2304,9 @@
  {:block/name "kinetic project - wind powered website|kinetic website",
   :block/created-at 1656098903720,
   :block/updated-at 1656098903720}
+ {:block/name "know your enemy and know yourself",
+  :block/created-at 1656187723351,
+  :block/updated-at 1656187723351}
  {:block/name "knowledge graph",
   :block/created-at 1656098901447,
   :block/updated-at 1656098901447}
@@ -2198,6 +2322,9 @@
  {:block/name "language",
   :block/created-at 1656098905349,
   :block/updated-at 1656098905349}
+ {:block/name "lao tzu",
+  :block/created-at 1656187724174,
+  :block/updated-at 1656187724174}
  {:block/name "larp",
   :block/created-at 1656098897500,
   :block/updated-at 1656098897500}
@@ -2225,6 +2352,9 @@
  {:block/name "learning obsidian",
   :block/created-at 1656098901490,
   :block/updated-at 1656098901490}
+ {:block/name "learning tools",
+  :block/created-at 1656187723370,
+  :block/updated-at 1656187723370}
  {:block/name "left over questions from end of fall semsester",
   :block/created-at 1656098901590,
   :block/updated-at 1656098901590}
@@ -2246,6 +2376,9 @@
  {:block/name "letter writing rpg",
   :block/created-at 1656098897431,
   :block/updated-at 1656098897431}
+ {:block/name "liberalism",
+  :block/created-at 1656187723388,
+  :block/updated-at 1656187723388}
  {:block/name "library",
   :block/created-at 1656098906353,
   :block/updated-at 1656098906353}
@@ -2261,6 +2394,9 @@
  {:block/name "linear",
   :block/created-at 1656098897175,
   :block/updated-at 1656098897175}
+ {:block/name "linear economy",
+  :block/created-at 1656187723406,
+  :block/updated-at 1656187723406}
  {:block/name "linked references",
   :block/created-at 1656098238427,
   :block/updated-at 1656098238427}
@@ -2336,6 +2472,9 @@
  {:block/name "making money from nothing",
   :block/created-at 1656098893517,
   :block/updated-at 1656098893517}
+ {:block/name "making music",
+  :block/created-at 1656187722648,
+  :block/updated-at 1656187722648}
  {:block/name "making obsidian plugins",
   :block/created-at 1656098902600,
   :block/updated-at 1656098902600}
@@ -2351,6 +2490,12 @@
  {:block/name "mantel poem",
   :block/created-at 1656098901854,
   :block/updated-at 1656098901854}
+ {:block/name "manufactured obsolescence",
+  :block/created-at 1656187723408,
+  :block/updated-at 1656187723408}
+ {:block/name "mao tse-tung",
+  :block/created-at 1656187723429,
+  :block/updated-at 1656187723429}
  {:block/name "map",
   :block/created-at 1656098890933,
   :block/updated-at 1656098890933}
@@ -2396,6 +2541,9 @@
  {:block/name "me/anxiety/stressed",
   :block/created-at 1656098895284,
   :block/updated-at 1656098895284}
+ {:block/name "meanwhile moments - leisure vs labor",
+  :block/created-at 1656187722647,
+  :block/updated-at 1656187722647}
  {:block/name "mechanics",
   :block/created-at 1656098893436,
   :block/updated-at 1656098893436}
@@ -2444,9 +2592,6 @@
  {:block/name "micro",
   :block/created-at 1656098891537,
   :block/updated-at 1656098891537}
- {:block/name "micro]",
-  :block/created-at 1656098890827,
-  :block/updated-at 1656098890827}
  {:block/name "microcontrollers",
   :block/created-at 1656098903240,
   :block/updated-at 1656098903240}
@@ -2456,6 +2601,9 @@
  {:block/name "microstates",
   :block/created-at 1656098892192,
   :block/updated-at 1656098892192}
+ {:block/name "mimesis",
+  :block/created-at 1656187722794,
+  :block/updated-at 1656187722794}
  {:block/name "mistaking allergies for covid",
   :block/created-at 1656098891510,
   :block/updated-at 1656098891510}
@@ -2504,6 +2652,9 @@
  {:block/name "multiplayer shared knowledge",
   :block/created-at 1656098903466,
   :block/updated-at 1656098903466}
+ {:block/name "museums",
+  :block/created-at 1656187723867,
+  :block/updated-at 1656187723867}
  {:block/name "musings on emergent strategy",
   :block/created-at 1656098902205,
   :block/updated-at 1656098902205}
@@ -2540,6 +2691,9 @@
  {:block/name "mystery house",
   :block/created-at 1656098897567,
   :block/updated-at 1656098897567}
+ {:block/name "mythology of technology",
+  :block/created-at 1656187723504,
+  :block/updated-at 1656187723504}
  {:block/name "natural gas",
   :block/created-at 1656098902535,
   :block/updated-at 1656098902535}
@@ -2577,6 +2731,9 @@
  {:block/name "newton",
   :block/created-at 1656098892115,
   :block/updated-at 1656098892115}
+ {:block/name "no growth economy",
+  :block/created-at 1656187722599,
+  :block/updated-at 1656187722599}
  {:block/name "no one wants the first pancake",
   :block/created-at 1656098906119,
   :block/updated-at 1656098906119}
@@ -2592,12 +2749,22 @@
  {:block/name "noise",
   :block/created-at 1656098902552,
   :block/updated-at 1656098902552}
+ {:block/name "norbert weiner",
+  :block/created-at 1656187723129,
+  :block/updated-at 1656187723129}
  {:block/name "note refactor",
   :block/created-at 1656098906456,
   :block/updated-at 1656098906456}
+ {:block/name "notes from futurism in latin america",
+  :block/created-at 1656187723562,
+  :block/updated-at 1656187723562}
  {:block/name "notes on design matters with seth godin",
   :block/created-at 1656098892012,
   :block/updated-at 1656098892012}
+ {:block/name
+  "notes on designing prismatically black radical futures video",
+  :block/created-at 1656187722922,
+  :block/updated-at 1656187722922}
  {:block/name "notes on energy and civilization smil#^09ac98",
   :block/created-at 1656098891458,
   :block/updated-at 1656098891458}
@@ -2613,6 +2780,9 @@
  {:block/name "notes on energy and civilization smil#jevons paradox",
   :block/created-at 1656098891459,
   :block/updated-at 1656098891459}
+ {:block/name "notes on freedom dreams",
+  :block/created-at 1656187723628,
+  :block/updated-at 1656187723628}
  {:block/name "notes on itp thesis presentation 2021",
   :block/created-at 1656098902690,
   :block/updated-at 1656098902690}
@@ -2622,6 +2792,9 @@
  {:block/name "notes on plasmodial improprieties#^755f2a",
   :block/created-at 1656098902149,
   :block/updated-at 1656098902149}
+ {:block/name "notes on robert mugabe",
+  :block/created-at 1656187723785,
+  :block/updated-at 1656187723785}
  {:block/name "notes on slime mold making music",
   :block/created-at 1656098902583,
   :block/updated-at 1656098902583}
@@ -2652,6 +2825,9 @@
  {:block/name "oath",
   :block/created-at 1656098891398,
   :block/updated-at 1656098891398}
+ {:block/name "obama",
+  :block/created-at 1656187723386,
+  :block/updated-at 1656187723386}
  {:block/name "objective",
   :block/created-at 1656098904125,
   :block/updated-at 1656098904125}
@@ -2676,6 +2852,9 @@
  {:block/name "obsidian-highlights",
   :block/created-at 1656098891064,
   :block/updated-at 1656098891064}
+ {:block/name "octavia butler",
+  :block/created-at 1656187723659,
+  :block/updated-at 1656187723659}
  {:block/name "office hours shiff",
   :block/created-at 1656098901835,
   :block/updated-at 1656098901835}
@@ -2688,6 +2867,13 @@
  {:block/name "offrice hours with cezar",
   :block/created-at 1656098901834,
   :block/updated-at 1656098901834}
+ {:block/name "omni-specialized design",
+  :block/created-at 1656187723837,
+  :block/updated-at 1656187723837}
+ {:block/name
+  "omni-specialized design for beautiful futures presentatrion",
+  :block/created-at 1656187722553,
+  :block/updated-at 1656187722553}
  {:block/name "on the map",
   :block/created-at 1656098891113,
   :block/updated-at 1656098891113}
@@ -2706,9 +2892,15 @@
  {:block/name "oppressive systems|oppressive system",
   :block/created-at 1656098903369,
   :block/updated-at 1656098903369}
+ {:block/name "oppressors",
+  :block/created-at 1656187723124,
+  :block/updated-at 1656187723124}
  {:block/name "optimism as a practice",
   :block/created-at 1656098902822,
   :block/updated-at 1656098902822}
+ {:block/name "origins of museums",
+  :block/created-at 1656187723865,
+  :block/updated-at 1656187723865}
  {:block/name "our need for narrative drives crisis",
   :block/created-at 1656098902837,
   :block/updated-at 1656098902837}
@@ -2742,6 +2934,9 @@
  {:block/name "pages",
   :block/created-at 1656098238429,
   :block/updated-at 1656098238429}
+ {:block/name "pan-affricanism",
+  :block/created-at 1656187722597,
+  :block/updated-at 1656187722597}
  {:block/name "pandemic",
   :block/created-at 1656098890454,
   :block/updated-at 1656098890454}
@@ -2796,18 +2991,162 @@
  {:block/name "pasted image 20210314200628.png",
   :block/created-at 1656098903006,
   :block/updated-at 1656098903006}
+ {:block/name "pasted image 20210323203334.png",
+  :block/created-at 1656187722550,
+  :block/updated-at 1656187722550}
+ {:block/name "pasted image 20210323203512.png",
+  :block/created-at 1656187722550,
+  :block/updated-at 1656187722550}
+ {:block/name "pasted image 20210323203551.png",
+  :block/created-at 1656187722556,
+  :block/updated-at 1656187722556}
+ {:block/name "pasted image 20210323204242.png",
+  :block/created-at 1656187723836,
+  :block/updated-at 1656187723836}
+ {:block/name "pasted image 20210323204412.png",
+  :block/created-at 1656187723835,
+  :block/updated-at 1656187723835}
+ {:block/name "pasted image 20210323204610.png",
+  :block/created-at 1656187723835,
+  :block/updated-at 1656187723835}
+ {:block/name "pasted image 20210323204736.png",
+  :block/created-at 1656187722686,
+  :block/updated-at 1656187722686}
+ {:block/name "pasted image 20210323205012.png",
+  :block/created-at 1656187723506,
+  :block/updated-at 1656187723506}
+ {:block/name "pasted image 20210323205149.png",
+  :block/created-at 1656187723833,
+  :block/updated-at 1656187723833}
+ {:block/name "pasted image 20210323205241.png",
+  :block/created-at 1656187723409,
+  :block/updated-at 1656187723409}
+ {:block/name "pasted image 20210323205351.png",
+  :block/created-at 1656187723235,
+  :block/updated-at 1656187723235}
+ {:block/name "pasted image 20210323205848.png",
+  :block/created-at 1656187723831,
+  :block/updated-at 1656187723831}
+ {:block/name "pasted image 20210323210110.png",
+  :block/created-at 1656187723829,
+  :block/updated-at 1656187723829}
+ {:block/name "pasted image 20210323210252.png",
+  :block/created-at 1656187722802,
+  :block/updated-at 1656187722802}
+ {:block/name "pasted image 20210323210753.png",
+  :block/created-at 1656187723825,
+  :block/updated-at 1656187723825}
+ {:block/name "pasted image 20210323210826.png",
+  :block/created-at 1656187723827,
+  :block/updated-at 1656187723827}
+ {:block/name "pasted image 20210323212548.png",
+  :block/created-at 1656187722956,
+  :block/updated-at 1656187722956}
+ {:block/name "pasted image 20210323212651.png",
+  :block/created-at 1656187722955,
+  :block/updated-at 1656187722955}
+ {:block/name "pasted image 20210323212918.png",
+  :block/created-at 1656187722955,
+  :block/updated-at 1656187722955}
+ {:block/name "pasted image 20210323214647.png",
+  :block/created-at 1656187722954,
+  :block/updated-at 1656187722954}
+ {:block/name "pasted image 20210323215057.png",
+  :block/created-at 1656187722953,
+  :block/updated-at 1656187722953}
+ {:block/name "pasted image 20210323215939",
+  :block/created-at 1656187723904,
+  :block/updated-at 1656187723904}
+ {:block/name "pasted image 20210323215939.png",
+  :block/created-at 1656187724256,
+  :block/updated-at 1656187724256}
+ {:block/name "pasted image 20210323215939/png",
+  :block/created-at 1656187723903,
+  :block/updated-at 1656187723903}
  {:block/name "pasted image 20210325152800.png",
   :block/created-at 1656098893283,
   :block/updated-at 1656098893283}
+ {:block/name "pasted image 20210330214230.png",
+  :block/created-at 1656187723434,
+  :block/updated-at 1656187723434}
+ {:block/name "pasted image 20210330215222.png",
+  :block/created-at 1656187723352,
+  :block/updated-at 1656187723352}
+ {:block/name "pasted image 20210330215248.png",
+  :block/created-at 1656187724049,
+  :block/updated-at 1656187724049}
+ {:block/name "pasted image 20210330215555.png",
+  :block/created-at 1656187724210,
+  :block/updated-at 1656187724210}
  {:block/name "pasted image 20210404154845.png",
   :block/created-at 1656098893888,
   :block/updated-at 1656098893888}
+ {:block/name "pasted image 20210406212257.png",
+  :block/created-at 1656187723050,
+  :block/updated-at 1656187723050}
  {:block/name "pasted image 20210406212453.png",
   :block/created-at 1656098903585,
   :block/updated-at 1656098903585}
+ {:block/name "pasted image 20210406212603.png",
+  :block/created-at 1656187723128,
+  :block/updated-at 1656187723128}
+ {:block/name "pasted image 20210406212844.png",
+  :block/created-at 1656187723127,
+  :block/updated-at 1656187723127}
+ {:block/name "pasted image 20210406213129.png",
+  :block/created-at 1656187723126,
+  :block/updated-at 1656187723126}
+ {:block/name "pasted image 20210406213136.png",
+  :block/created-at 1656187723126,
+  :block/updated-at 1656187723126}
+ {:block/name "pasted image 20210406214857.png",
+  :block/created-at 1656187723457,
+  :block/updated-at 1656187723457}
+ {:block/name "pasted image 20210406214942.png",
+  :block/created-at 1656187723456,
+  :block/updated-at 1656187723456}
+ {:block/name "pasted image 20210406215002.png",
+  :block/created-at 1656187723456,
+  :block/updated-at 1656187723456}
+ {:block/name "pasted image 20210406215047.png",
+  :block/created-at 1656187723455,
+  :block/updated-at 1656187723455}
  {:block/name "pasted image 20210412172137.png",
   :block/created-at 1656098891462,
   :block/updated-at 1656098891462}
+ {:block/name "pasted image 20210413203338.png",
+  :block/created-at 1656187723805,
+  :block/updated-at 1656187723805}
+ {:block/name "pasted image 20210420204308.png",
+  :block/created-at 1656187723100,
+  :block/updated-at 1656187723100}
+ {:block/name "pasted image 20210420212001.png",
+  :block/created-at 1656187722895,
+  :block/updated-at 1656187722895}
+ {:block/name "pasted image 20210420212007.png",
+  :block/created-at 1656187722894,
+  :block/updated-at 1656187722894}
+ {:block/name "pasted image 20210427201149.png",
+  :block/created-at 1656187722987,
+  :block/updated-at 1656187722987}
+ {:block/name "pasted image 20210427201942.png",
+  :block/created-at 1656187722985,
+  :block/updated-at 1656187722985}
+ {:block/name "pasted image 20210427202821.png",
+  :block/created-at 1656187722985,
+  :block/updated-at 1656187722985}
+ {:block/name "pasted image 20210427203746.png",
+  :block/created-at 1656187722984,
+  :block/updated-at 1656187722984}
+ {:block/name "pasted image 20210427204131.png",
+  :block/created-at 1656187722984,
+  :block/updated-at 1656187722984}
+ {:block/name "pasted image 20210427204814.png",
+  :block/created-at 1656187722983,
+  :block/updated-at 1656187722983}
+ {:block/name "pasted image 20210427211906.png",
+  :block/created-at 1656187722894,
+  :block/updated-at 1656187722894}
  {:block/name "patriarchal",
   :block/created-at 1656098905074,
   :block/updated-at 1656098905074}
@@ -2847,6 +3186,9 @@
  {:block/name "philly",
   :block/created-at 1656098890459,
   :block/updated-at 1656098890459}
+ {:block/name "photography",
+  :block/created-at 1656187723476,
+  :block/updated-at 1656187723476}
  {:block/name "physics",
   :block/created-at 1656098892191,
   :block/updated-at 1656098892191}
@@ -2874,6 +3216,10 @@
  {:block/name "places to start",
   :block/created-at 1656098237973,
   :block/updated-at 1656102893739}
+ {:block/name
+  "plasmodial-improprieties-queer-feminist-science-studies-bahng.pdf",
+  :block/created-at 1656187723660,
+  :block/updated-at 1656187723660}
  {:block/name "platform",
   :block/created-at 1656098902970,
   :block/updated-at 1656098902970}
@@ -3271,6 +3617,12 @@
  {:block/name "revising six by six braintorm",
   :block/created-at 1656098891106,
   :block/updated-at 1656098891106}
+ {:block/name "revolution",
+  :block/created-at 1656187722645,
+  :block/updated-at 1656187722645}
+ {:block/name "revolutionary leaders",
+  :block/created-at 1656187722596,
+  :block/updated-at 1656187722596}
  {:block/name "rising from the plains",
   :block/created-at 1656098904390,
   :block/updated-at 1656098904390}
@@ -3343,9 +3695,15 @@
  {:block/name "schema",
   :block/created-at 1655491706995,
   :block/updated-at 1655491787992}
+ {:block/name "school for poetic computation",
+  :block/created-at 1656187722861,
+  :block/updated-at 1656187722861}
  {:block/name "science",
   :block/created-at 1656098891849,
   :block/updated-at 1656098891849}
+ {:block/name "science fiction",
+  :block/created-at 1656187722835,
+  :block/updated-at 1656187722835}
  {:block/name "screen shot 2021-02-14 at 2.38.51 pm.png",
   :block/created-at 1656098897197,
   :block/updated-at 1656098897197}
@@ -3364,6 +3722,72 @@
  {:block/name "screen shot 2021-02-26 at 11.08.42 am.png",
   :block/created-at 1656098902453,
   :block/updated-at 1656098902453}
+ {:block/name "screen shot 2021-04-06 at 5.43.45 pm.png",
+  :block/created-at 1656187722716,
+  :block/updated-at 1656187722716}
+ {:block/name "screen shot 2021-04-06 at 5.45.31 pm.png",
+  :block/created-at 1656187722717,
+  :block/updated-at 1656187722717}
+ {:block/name "screen shot 2021-04-06 at 5.53.31 pm.png",
+  :block/created-at 1656187722718,
+  :block/updated-at 1656187722718}
+ {:block/name "screen shot 2021-04-06 at 5.54.54 pm.png",
+  :block/created-at 1656187722719,
+  :block/updated-at 1656187722719}
+ {:block/name "screen shot 2021-04-06 at 5.56.02 pm.png",
+  :block/created-at 1656187722720,
+  :block/updated-at 1656187722720}
+ {:block/name "screen shot 2021-04-06 at 5.58.47 pm.png",
+  :block/created-at 1656187722721,
+  :block/updated-at 1656187722721}
+ {:block/name "screen shot 2021-04-06 at 5.59.51 pm.png",
+  :block/created-at 1656187722722,
+  :block/updated-at 1656187722722}
+ {:block/name "screen shot 2021-04-06 at 6.17.45 pm.png",
+  :block/created-at 1656187722793,
+  :block/updated-at 1656187722793}
+ {:block/name "screen shot 2021-04-06 at 6.32.09 pm.png",
+  :block/created-at 1656187722795,
+  :block/updated-at 1656187722795}
+ {:block/name "screen shot 2021-04-06 at 6.32.55 pm.png",
+  :block/created-at 1656187722795,
+  :block/updated-at 1656187722795}
+ {:block/name "screen shot 2021-04-06 at 6.57.35 pm.png",
+  :block/created-at 1656187722800,
+  :block/updated-at 1656187722800}
+ {:block/name "screen shot 2021-04-06 at 6.58.40 pm.png",
+  :block/created-at 1656187722799,
+  :block/updated-at 1656187722799}
+ {:block/name "screen shot 2021-04-06 at 7.00.45 pm.png",
+  :block/created-at 1656187722799,
+  :block/updated-at 1656187722799}
+ {:block/name "screen shot 2021-04-06 at 7.00.56 pm.png",
+  :block/created-at 1656187722798,
+  :block/updated-at 1656187722798}
+ {:block/name "screen shot 2021-04-06 at 7.53.04 pm.png",
+  :block/created-at 1656187722723,
+  :block/updated-at 1656187722723}
+ {:block/name "screen shot 2021-04-20 at 11.37.43 am.png",
+  :block/created-at 1656187723595,
+  :block/updated-at 1656187723595}
+ {:block/name "screen shot 2021-04-20 at 11.41.23 am.png",
+  :block/created-at 1656187723596,
+  :block/updated-at 1656187723596}
+ {:block/name "screen shot 2021-04-20 at 11.44.29 am.png",
+  :block/created-at 1656187723596,
+  :block/updated-at 1656187723596}
+ {:block/name "screen shot 2021-04-20 at 11.58.23 am.png",
+  :block/created-at 1656187724092,
+  :block/updated-at 1656187724092}
+ {:block/name "screen shot 2021-04-20 at 12.22.42 pm.png",
+  :block/created-at 1656187723601,
+  :block/updated-at 1656187723601}
+ {:block/name "screen shot 2021-04-20 at 12.27.20 pm.png",
+  :block/created-at 1656187723868,
+  :block/updated-at 1656187723868}
+ {:block/name "screen shot 2021-04-20 at 12.34.23 pm.png",
+  :block/created-at 1656187724346,
+  :block/updated-at 1656187724346}
  {:block/name "screen shot 2021-04-21 at 6.30.14 pm.png",
   :block/created-at 1656098896879,
   :block/updated-at 1656098896879}
@@ -3386,6 +3810,9 @@
  {:block/name "second order cybernetics",
   :block/created-at 1656098903583,
   :block/updated-at 1656098903583}
+ {:block/name "second wave cybernetics",
+  :block/created-at 1656187723831,
+  :block/updated-at 1656187723831}
  {:block/name "secret life of viruses#^c981b4",
   :block/created-at 1656098901671,
   :block/updated-at 1656098901671}
@@ -3431,6 +3858,9 @@
  {:block/name "should games be fair",
   :block/created-at 1656098893140,
   :block/updated-at 1656098893140}
+ {:block/name "showing up to the battle field first",
+  :block/created-at 1656187724047,
+  :block/updated-at 1656187724047}
  {:block/name "sigil story",
   :block/created-at 1656098893522,
   :block/updated-at 1656098893522}
@@ -3461,6 +3891,12 @@
  {:block/name "slime mold",
   :block/created-at 1656098892245,
   :block/updated-at 1656098892245}
+ {:block/name "slime mold divination",
+  :block/created-at 1656187724067,
+  :block/updated-at 1656187724067}
+ {:block/name "smallness",
+  :block/created-at 1656187723330,
+  :block/updated-at 1656187723330}
  {:block/name
   "snippet from neta to melissa in the last class of 100 days of making",
   :block/created-at 1656098903671,
@@ -3468,6 +3904,9 @@
  {:block/name "social media",
   :block/created-at 1656098901886,
   :block/updated-at 1656098901886}
+ {:block/name "socialism",
+  :block/created-at 1656187724302,
+  :block/updated-at 1656187724302}
  {:block/name "socket.io",
   :block/created-at 1656098906248,
   :block/updated-at 1656098906248}
@@ -3480,9 +3919,15 @@
  {:block/name "solar energy",
   :block/created-at 1656098891202,
   :block/updated-at 1656098891202}
+ {:block/name "solar energy|solar",
+  :block/created-at 1656187724092,
+  :block/updated-at 1656187724092}
  {:block/name "solar panels",
   :block/created-at 1656098891201,
   :block/updated-at 1656098891201}
+ {:block/name "solar powered backend",
+  :block/created-at 1656187723598,
+  :block/updated-at 1656187723598}
  {:block/name "solar powered reparations - rafael smith",
   :block/created-at 1656098906413,
   :block/updated-at 1656098906413}
@@ -3504,6 +3949,9 @@
  {:block/name "spacetime",
   :block/created-at 1656098892905,
   :block/updated-at 1656098892905}
+ {:block/name "speculative design",
+  :block/created-at 1656187723599,
+  :block/updated-at 1656187723599}
  {:block/name "speech recognition",
   :block/created-at 1656098903799,
   :block/updated-at 1656098903799}
@@ -3534,6 +3982,9 @@
  {:block/name "steppers",
   :block/created-at 1656098902869,
   :block/updated-at 1656098902869}
+ {:block/name "stokely speaks",
+  :block/created-at 1656187724256,
+  :block/updated-at 1656187724256}
  {:block/name "stories",
   :block/created-at 1656098900849,
   :block/updated-at 1656098900849}
@@ -3552,6 +4003,9 @@
  {:block/name "summer plans",
   :block/created-at 1656098897459,
   :block/updated-at 1656098897459}
+ {:block/name "sun tzu",
+  :block/created-at 1656187724233,
+  :block/updated-at 1656187724233}
  {:block/name "super organism",
   :block/created-at 1656098890824,
   :block/updated-at 1656098890824}
@@ -3597,12 +4051,27 @@
  {:block/name "talismans of illness anxiety in covid",
   :block/created-at 1656098904121,
   :block/updated-at 1656098904121}
+ {:block/name "talks by achielle mbembe",
+  :block/created-at 1656187722920,
+  :block/updated-at 1656187722920}
  {:block/name "talks by achielle mbembe#^ee5032",
   :block/created-at 1656098902150,
   :block/updated-at 1656098902150}
  {:block/name "tamagatchi time machine",
   :block/created-at 1656098904172,
   :block/updated-at 1656098904172}
+ {:block/name "tao te ching",
+  :block/created-at 1656187722593,
+  :block/updated-at 1656187722593}
+ {:block/name "tao te ching 17",
+  :block/created-at 1656187724138,
+  :block/updated-at 1656187724138}
+ {:block/name "tao te ching 75",
+  :block/created-at 1656187724156,
+  :block/updated-at 1656187724156}
+ {:block/name "tarot",
+  :block/created-at 1656257074430,
+  :block/updated-at 1656257074430}
  {:block/name "tarrot",
   :block/created-at 1656098891863,
   :block/updated-at 1656098891863}
@@ -3687,6 +4156,12 @@
  {:block/name "tft",
   :block/created-at 1655828541192,
   :block/updated-at 1655828541192}
+ {:block/name "the african continent",
+  :block/created-at 1656187722952,
+  :block/updated-at 1656187722952}
+ {:block/name "the age of entanglement",
+  :block/created-at 1656187722988,
+  :block/updated-at 1656187722988}
  {:block/name "the american dream",
   :block/created-at 1656098905418,
   :block/updated-at 1656098905418}
@@ -3696,6 +4171,12 @@
  {:block/name "the antikythera mechanism",
   :block/created-at 1656098904535,
   :block/updated-at 1656098904535}
+ {:block/name "the art of peace",
+  :block/created-at 1656187722592,
+  :block/updated-at 1656187722592}
+ {:block/name "the art of war",
+  :block/created-at 1656187722593,
+  :block/updated-at 1656187722593}
  {:block/name "the atheism at the center of the green knight",
   :block/created-at 1656098904472,
   :block/updated-at 1656098904472}
@@ -3834,6 +4315,9 @@
  {:block/name "the mother of all demos",
   :block/created-at 1655828541191,
   :block/updated-at 1655828541191}
+ {:block/name "the opressor",
+  :block/created-at 1656187724255,
+  :block/updated-at 1656187724255}
  {:block/name "the order of time#^27eca1",
   :block/created-at 1656098904534,
   :block/updated-at 1656098904534}
@@ -3873,6 +4357,9 @@
  {:block/name "the picture",
   :block/created-at 1656098904736,
   :block/updated-at 1656098904736}
+ {:block/name "the pitfalls of liberalism by stokely speaks",
+  :block/created-at 1656187724252,
+  :block/updated-at 1656187724252}
  {:block/name "the postal system",
   :block/created-at 1656098904068,
   :block/updated-at 1656098904068}
@@ -3924,6 +4411,9 @@
  {:block/name "the world",
   :block/created-at 1656098890752,
   :block/updated-at 1656098890752}
+ {:block/name "the world bank",
+  :block/created-at 1656187722953,
+  :block/updated-at 1656187722953}
  {:block/name "the world is ending",
   :block/created-at 1656098893510,
   :block/updated-at 1656098893510}
@@ -4123,6 +4613,9 @@
  {:block/name "ufo encounter in basin and range",
   :block/created-at 1656098904516,
   :block/updated-at 1656098904516}
+ {:block/name "ujamaa",
+  :block/created-at 1656187723331,
+  :block/updated-at 1656187723331}
  {:block/name "ultra wide band",
   :block/created-at 1656098905486,
   :block/updated-at 1656098905486}
@@ -4147,6 +4640,9 @@
  {:block/name "ussr",
   :block/created-at 1656098891771,
   :block/updated-at 1656098891771}
+ {:block/name "utopia is not perfect",
+  :block/created-at 1656187722600,
+  :block/updated-at 1656187722600}
  {:block/name "valley of dissilusionment",
   :block/created-at 1656098893282,
   :block/updated-at 1656098893282}
@@ -4269,6 +4765,12 @@
   "when time became regular and universal, it changed history",
   :block/created-at 1656098890927,
   :block/updated-at 1656098890927}
+ {:block/name "white exceptionalism",
+  :block/created-at 1656187722598,
+  :block/updated-at 1656187722598}
+ {:block/name "white fragility",
+  :block/created-at 1656187722598,
+  :block/updated-at 1656187722598}
  {:block/name "white supremacy",
   :block/created-at 1656098902788,
   :block/updated-at 1656098902788}
@@ -4311,6 +4813,9 @@
  {:block/name "xy plotter",
   :block/created-at 1656098892240,
   :block/updated-at 1656098892240}
+ {:block/name "yaa addae museums as portals",
+  :block/created-at 1656187723600,
+  :block/updated-at 1656187723600}
  {:block/name "year1.jpg",
   :block/created-at 1656098896988,
   :block/updated-at 1656098896988}
@@ -4330,5 +4835,11 @@
   :block/created-at 1656098901715,
   :block/updated-at 1656098901715}
  {:block/name "zoltan's zarkade",
-  :block/created-at 1656098892478, 
-  :block/updated-at 1656098892478}]
+  :block/created-at 1656098892478,
+  :block/updated-at 1656098892478}
+ {:block/name "zurkow conversation",
+  :block/created-at 1656187723159,
+  :block/updated-at 1656187723159}
+ {:block/name "zurkow ideas",
+  :block/created-at 1656187723160, 
+  :block/updated-at 1656187723160}]
